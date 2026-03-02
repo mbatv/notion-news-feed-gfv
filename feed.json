@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-03-02T08:52:54.294589+00:00",
+  "generatedAt": "2026-03-02T09:56:04.968420+00:00",
   "items": [
-    {
-      "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 15:43:21 GMT",
-      "pubDateISO": "2026-02-23T15:43:21+00:00",
-      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
       "source": "Inventure.com.ua",
@@ -60,6 +50,16 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVVRhVEZadjd3amZUWXpjOU05emhIbk1FS1JFRXBpSmJ4NkxXSXN5dG1qMDZRRDY2NW9TUGFOd1NvTm81TXN0dThjSDNpSThaLVVySmc4ZFdpVFV1N1dBWkt6TG53b0xDb05hZXc2NEEyOWpRRjFQWFp3RWdybDlHT2VmYy12ZVB6dU5Cd095VlptNjNVTzZyVXNHaDJPandwTVpEa0pnYXVMWmJ2YWdHN2t5aDdxR0RzN1VzOVgzSFJVTkY2bnBhMGVreHF0SzRsR0FVZVhkRE5MWWxBZkY0TUdtN19Pdk1lcjlLU2lnRndwLWhIbDJaQTU4c1VRQU41T25ZdzJHWldOa19YZ0FFZGVaQXJURzNNOTZDT1RKOG9SM2dnYU9OckcwUHE4WDJZSmhkblhBa1lSY1NyY0p4Uk9OMHVPQUhoYUU1Tzhad2FBcTRWZnBhRVZoZVQyMDdBLWxYZDVGdFF6LTBtYUh1OVlMSUNLd19acVFUUy1BUEh0aFF0dk4wX2ZwdjVjLUpsbTN5Q3B3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNNUdCNjIzbGNFclp1cUQxd2h5TjlFdThzN3BLVmMzdzlTbzBWczRPeDBIM2ZOMG90b05MTlg0emQwTVFqelJGWldKdmlGb1kwemtOMVZfeDAzOTd5Sm5mZDJkc2dHd191ZXJUSGxMc0VpeTFPdUFWbm50Q0RyNkRuNmdfOWlYYWdDeWhCSjJFMlVBaVl4NGN1Z2pKVUd1VDZuYUk4SlRDVU9RakYzZ3F1Y0lnRkpsY1ItbWFSSjNSaHdSeWx0Z0VCZWpld0RmU1Zid0RuT0RHVEZPX3Juc3FsZDF1NF9ndjR3cklfdVh4WXJfcEk0b3VWWWs3ZjJiYS1pcC0xSjJ1RER0Y1VoM0lFQzYyVWF5d1cwbURHdktNR2Vyd0wxX0EzWS1tQmc5WU52X1gtc3ZkbzFNZnNveVg5RVBWY3JkTldDUExpTEREcURKMzJqVnBOaFd5aFppck9qNDZuWjFLcWhKTldtSWpQYVp2ZmU1RG1WcTF3alpEMUs3SHppWm9qWWpydjVaRTFBYV9IQVpB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
