@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-02T19:40:20.616465+00:00",
+  "generatedAt": "2026-03-02T20:41:58.638743+00:00",
   "items": [
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 15:43:21 GMT",
-      "pubDateISO": "2026-02-23T15:43:21+00:00",
+      "pubDate": "Wed, 25 Feb 2026 13:41:34 GMT",
+      "pubDateISO": "2026-02-25T13:41:34+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
@@ -29,7 +29,7 @@
       "pubDate": "Fri, 20 Feb 2026 23:27:42 GMT",
       "pubDateISO": "2026-02-20T23:27:42+00:00",
       "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
@@ -60,6 +60,16 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
@@ -125,7 +135,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNeG9NNThuVTJTaXh6cXQwSERaRC1EWG5UeGFTenFpaXgwVHRWa0dfd1Uwek0yY2NSa05rY0ViNEp3aTNqVUMzS0N2NzNfdTJPV2Vxb3MwQUMzeFdYaGh1VDF1WEdWclFzbElQaUh4czV1VDhxMFBabndpUGx1cUN0OTZGSWxhMHBnRHhJZTV2cU51VFlNdEg4cThUc3BCc19pUkFIcDJlZUNsN1dWOXVFc3htNjVJdnYxNVdXSjdWd0JycUNyLTJuUms5cmQwSUFvQUpuZkxmaVdXWHVHUHVuaXNPTWFDMHZsRVlsTjhubU1LVkJUcHhSUWhKUkZIUkVRcmNETDZFUUo0NWE5QTdGc0M3UlFVcWU0N3I5TVNFNXNBUEVQS0JMSmtBalM5X1I2NFUyWGY1VTN0VHh5cFNEVmtwd2xzOTd4V21CVE5kMVJCY1F5YXYtblpodWhGa0NxSjM2RktSX2RHWHkzdUdfWkFycmlBXzI0M2czTGp0WEFoRTRBSVlGX0pJSTJFVV9OcEJ5dUtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZnozZUJNcVgyVF9wWHRyOXBrR0o1Uk9BU3ZsOUh5NnVhcjdOZEdrb3RGV1dCVHhDbzVaTXQwbkxCTnR2SUFlQUp5R0hzeUp2MzEwU3A1YmlPTE55bXp2UXlDeEl2S3hWYmQwdHlxaUNHS3p6c2Uyc1FGOEt2bDFDbHJJYVVJREF2NGdnVFZNNUNKTmFMRTljX3B0X3pZNEtPQWpmV2tfcklMbnhLT1lpSFVxNW9ubi05S01OOGJUSjFlZ1VuZVc3OVVrM1Nabkc5NlVCWEJkdWV1VXQ1SldDZ1E2ZFFoX3JhQjJOYWhLZVczaXRfY2otQUJVT2VPVmttdkVIdXZtVV9MbENoR3k5cFVZTDg4M1NVcnpjbkNETXNvbGl3dlFSOWdXWFljNmpkV21Za2gxU3M4c3hMZE9rWjBHY0FTSjB3X1RBT2pnRkRHQUZtOWZZMUZWTmZtekNuZFJfVFExV1ZRck52OGtoaEVXZDlOdmh1c3h6TzRkcEZValZvbDU5c3RkN1JCNHhsdjQ2Xy13?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
