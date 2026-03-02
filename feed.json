@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-02T20:41:58.638743+00:00",
+  "generatedAt": "2026-03-02T21:42:42.290813+00:00",
   "items": [
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
-      "pubDate": "Wed, 25 Feb 2026 13:41:34 GMT",
-      "pubDateISO": "2026-02-25T13:41:34+00:00",
+      "pubDate": "Mon, 23 Feb 2026 15:43:21 GMT",
+      "pubDateISO": "2026-02-23T15:43:21+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
@@ -29,7 +29,7 @@
       "pubDate": "Fri, 20 Feb 2026 23:27:42 GMT",
       "pubDateISO": "2026-02-20T23:27:42+00:00",
       "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
@@ -79,7 +79,7 @@
       "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
@@ -89,16 +89,6 @@
       "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
       "pubDateISO": "2025-11-23T08:00:00+00:00",
       "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "How to prepare for arms exports. A checklist for founders of Defense Tech startups",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10VTl1emNOcV9MM0NYU2NaX05HazgzRmUwakVOQU1rZ3V3d2FteDVRek5mNUJjdVlvTy1nVTB5X1FfRkRmSFR5ZHZwY3dRbjVWYm1hTFNKV2t3bklKUHFjWi16WTZXTnRNQVBOeXE1X1JENHRnV3o5aFJRTQ?oc=5",
-      "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-21T08:00:00+00:00",
-      "snippet": "How to prepare for arms exports. A checklist for founders of Defense Tech startups en.ain.ua",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -135,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOZnozZUJNcVgyVF9wWHRyOXBrR0o1Uk9BU3ZsOUh5NnVhcjdOZEdrb3RGV1dCVHhDbzVaTXQwbkxCTnR2SUFlQUp5R0hzeUp2MzEwU3A1YmlPTE55bXp2UXlDeEl2S3hWYmQwdHlxaUNHS3p6c2Uyc1FGOEt2bDFDbHJJYVVJREF2NGdnVFZNNUNKTmFMRTljX3B0X3pZNEtPQWpmV2tfcklMbnhLT1lpSFVxNW9ubi05S01OOGJUSjFlZ1VuZVc3OVVrM1Nabkc5NlVCWEJkdWV1VXQ1SldDZ1E2ZFFoX3JhQjJOYWhLZVczaXRfY2otQUJVT2VPVmttdkVIdXZtVV9MbENoR3k5cFVZTDg4M1NVcnpjbkNETXNvbGl3dlFSOWdXWFljNmpkV21Za2gxU3M4c3hMZE9rWjBHY0FTSjB3X1RBT2pnRkRHQUZtOWZZMUZWTmZtekNuZFJfVFExV1ZRck52OGtoaEVXZDlOdmh1c3h6TzRkcEZValZvbDU5c3RkN1JCNHhsdjQ2Xy13?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPbThVdFdOZHhlbnZDZ2RoWHdsWnpSM3pCcHc1LTVxQW9BMm9WUVBfV2NRaUs4aHRjUUV0bjIwWUp1MUNGMzFjVWJ0SEpYdnRfSEIwdXVMem5rUlpsNzdYTjR6eTc1bjJiUE9mYzhTaGpBN3BaWlFvdGdQQWtQdXduazFyOVI3LWxnZkQzNW5fOTBVZVR3MXRkdXMwODBjTlp5NTZKT1VoT0ROblFxQkQtQlMyVGwwMkZReGVPcVo3Y1hWa2ZZT1BuMUNxb2t0RGZqYnU0WkVma1hQeEc1RHV2T0h3SXdxRzhnUDNJTDk4V2g3U1FSOG9UdWtSOHZoRy12VWVLTlBzTDRHSUxpaGdCMUh6TVBNUS1rZE4zOVZ5ZTgtbjNTYjZsQmt4eEdLU0hhbjZlNzdsdG9HUmtseE5kQWg2c1o0Q2diNW91ck10cXZwcnlaUzhVSmpMYjc2ZWZiWklKMV9iNWx2aEptTnpBdHUwTHc2VjRKQ2l4NG9YeTlFemFoSHhoTGg2TVFCVlJKUTF4QXdn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -179,6 +169,16 @@
       "pubDate": "Tue, 07 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-07T07:00:00+00:00",
       "snippet": "A Desperate Race for Drone Defenses Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine’s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDFXd0Y5Yk91ZFFyeW03UjZ0LUpmU2ZwZ2NVbTNDYkNtZGRWcVJwRnNFRXdPdTZtWEJHQ2xwdVNYMW9JTGhwczNhcUtvc2VlcWR6NGU3T0dOUHQ5NlVjWUZUcUdEaE1qb283Zmg1eFFGRlUwNXl1YXRKT0QtWV94WVhhd1UwRnVEVF9acHQzcDhCTkszWHVLeWFVOEV1ZTBtU3BWV0VMTjZtOG5LR2wyRXFaa29JamdGMDdQUXhRUmMwZw?oc=5",
+      "pubDate": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-06T07:00:00+00:00",
+      "snippet": "Ukraine’s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones Forbes",
       "query": "\"Deborah Fairlamb\""
     },
     {
