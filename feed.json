@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T22:32:37.441041+00:00",
+  "generatedAt": "2026-03-02T23:31:12.450006+00:00",
   "items": [
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -29,16 +29,16 @@
       "pubDate": "Fri, 20 Feb 2026 23:27:42 GMT",
       "pubDateISO": "2026-02-20T23:27:42+00:00",
       "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
-      "source": "Dev.ua",
+      "source": "dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
       "pubDate": "Fri, 20 Feb 2026 13:17:00 GMT",
       "pubDateISO": "2026-02-20T13:17:00+00:00",
-      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops Dev.ua",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -60,16 +60,6 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
@@ -125,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQTEZjMUlVeHRhQnFBMGhYSXdKYjhNR0tlUWZSV1phODc2UmFrTGI5c09QRDBIVjJ2YXFiOUFDQkV5RlFxMXVmdk1laW5BS3ZEQ1dVQ1FKTzZ5VldWRFo2UHp6UUFQVmN6UG5YbEpVY3JnNjR6eERJT2ZIWWU2NTY4Zm5OUU5kUDNNNU9RWXZrV1lZbzJ6eldXMjB4OUUycjJWOUJzRHczaFUyT3A3cWlDUkc3dkdxclNnUVRNZDRxbDdCZUtWaVBLdlFrTDJZVUJ6ZkJNemZzaWpkME9JVllhY2hmel9haUpHM3RMWHFiZ3JOV0QtX3NCZlA4NkhJMjYyREs3dThRejdrQUpRQnpsNWx0NE1UVURQaDlKdndsYVNVUlNvTmZoRGpUNW9vWUNBdVJWMnBSU0VwVUZWa0dUQUJtRDhJRkFUUnJxSXlyUmp5WGQ5aFBBTjJ4MkRWcW5zUXoza3E3ZXVwcEVYREZTRkVHM1d2S3l5MUpfMHNJeEtxTWI2ZGlYRVJnOVJ1QWUyYjliRlJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOb2hLWnoxTzU3eFo2b2M4dW5PQ09LZTFoMU1iV3BFMjVkVmVnTmZROHB1Y25FSld4T0tLNDNlOXpsaVdfWU1Md01RSFZCb0poM3hYYjJhLXZxcGZhU09PY0NMSGdnMXVvdUxZZjZGT3N3OERqXzNSWHU1c004eUVva0xuWnp2YU94Vi1Xd3JqQklDaGlObURvSkFZS29UQzEzNm5MSFFPaGs3cFE1N1J2RFFNQmhpZHZ6VFRIWXF0RXk2Qy1vblo5ZzF6VTN6UjFrLVVnYW0tVU5TLVJGRlNOdHJ6TlE4U3N4R2NuMTVzVHhBX2ZadUd3WmZva3ByREx3WWxrZF9fY3lVZFpXRnQ2cmt3MmRLanBvTTd0ekhHanFfbWxnM1JnTlh2Y0lyak1vOFlYdHZkVjRuRnM0NUdBZzd4TzB5Ui15eEMzVHJ0QWpaSkRiMXEyTUU4YkJ2c1dYQURkTmVPd2NZWUtKNC1NdW1vOVJSeEFQMmdFbGU1VlFhZV9iWG5zZ1l2NWRPazZUSTVsSGpR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -199,7 +189,7 @@
       "pubDate": "Mon, 29 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-29T07:00:00+00:00",
       "snippet": "11 Startups Secure Over $2.8M at IT Arena 2025 Scroll.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine",
@@ -209,7 +199,7 @@
       "pubDate": "Fri, 19 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-19T07:00:00+00:00",
       "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
