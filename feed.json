@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-03-02T15:46:57.650540+00:00",
+  "generatedAt": "2026-03-02T16:55:19.454920+00:00",
   "items": [
     {
+      "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
+      "pubDate": "Mon, 23 Feb 2026 15:43:21 GMT",
+      "pubDateISO": "2026-02-23T15:43:21+00:00",
+      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lEZTkxaEZVVldVaTFjZ3cxNHVVTWF6dW1pbVNfRDlVREdqazFHMkFfMnlrczZDN1dPRk9Sc0k5MVZwZVAzS1A1XzZSbzE2cFJORDRZMW5ISE9iUE5raVNpMnhZd1RyV0Fxc2hFNzhXcDNzTV9rajVkX3IyalNSTUFkcUg1eDRFSHZOaXllNG9CWmlJTXBsSktpNmZ3YVdvaC12VzJlU0dlLUpvQUQ2SEluZXAycGVi?oc=5",
       "pubDate": "Mon, 23 Feb 2026 13:26:00 GMT",
       "pubDateISO": "2026-02-23T13:26:00+00:00",
-      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -50,16 +60,6 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVmxsRlhtWmljUzZoUGxFdnc0azd1cEJxei1LbkNGTnV3UWswVHVQOFpNQnl1Y01ZQTQxQnFlZDVUUHVWUEYxZWNHVnM4YjY2MTFEWVRMMjJXZE1tZXVzLTE3Y3l3T2lMTDkyRXJ3TWxhS1ZiNXNnVWdmQXJHeTgzSXd6YTJkcmRySEtPeTN6a3VmVFo2Q3RUckJKUmExaTJfWlBWend3dE5XaG51UTktc2Q3OGs4U3p5MnNXbEtIaXQwMnY1TEtmeGowMnV2NnRyN0ozS1Yyd0taR1Vzakc5VHNOc0g0alBPWTFOQ1VpYzNicG1yYk9Tc2R4V1R3MmtiUmJqdzZUUTdDcnhFMTVOdVFQaFNnaTA0bWdYQzFMWE1ScFhXMkduNnNzUnQwN2p1dFllM083U2NOUXM0VlpBNHREeUN3dUdYdGVuUFdMVVZ2M0NvR1dtME8zVWdyV3JvZUNjeVlGSmF2SHZrUTE0dGVIcll4R2xReWZhSE11OVctR1ZwMU1faldLSnliWEZWYW0tSGNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTG9Tc1pSZF9UT0V4SUd3RUNfOVI1MkkxOUtNemVqR2J3cVBWaWpfbVprWG44QzJZVzB5aENTUDBZX2w5LXotWGtQQ3B3VFBhQ2o4eWpoOE1ZMzNQNVdWMlYzTFREQ2ZSYk53OF9zMG9Kal80ZFk3UFB1TnB6MHk3cFJFS2wtM3ZjU0puNkVtVGxEdG9INXlza3dPdl80UjY0aEVDOUJhVkVwNllNTDFKalg3amRCV2hJQk5VSUVsV1c5TERpTUdCRm95bHNhNXJtV3N4VkEzT2hscGZHbEtBTVgtQUFPVGlkZ3l1UjZ0ZEF5bnY4ZGg4UVlfY1dDRHJrV2c3aHNjZFpuN2tNVnRpQ185UVNPVXRiMnlGQnYxd3ZTVHRlY0YxTm5CbXlQNHIwRDAzYmpzbkdFY1ltaTd0T3hMYmZZRkJEbVBJUU1lM0RkbmM3bDZTSVNJeTV2QVNKU3pWYzN4VG40c3V6U0lJVEdpWHg5Rno0dHN0Tk54amNaZ25TNFNWdnVvdEZFalRzMDh5UTlB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -233,12 +233,12 @@
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
