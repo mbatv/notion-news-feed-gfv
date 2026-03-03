@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T14:50:05.430036+00:00",
+  "generatedAt": "2026-03-03T15:51:31.997027+00:00",
   "items": [
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -22,24 +22,24 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
-      "source": "Scroll.media",
-      "source_url": "https://scroll.media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 23:27:42 GMT",
-      "pubDateISO": "2026-02-20T23:27:42+00:00",
-      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
       "pubDate": "Fri, 20 Feb 2026 13:17:00 GMT",
       "pubDateISO": "2026-02-20T13:17:00+00:00",
-      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-20T08:00:00+00:00",
+      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPdE5TaG5pWEE5Q2g3WkFlN1hSUHYzOTR4aGtYSmRHSjY5elFXRkx6UHdZRVFMYWphUm13d0ItOFd3eGVjanIwLWtWTjJXVmFKamtUR2l3dGdqRXdYMm8tN2lIOEhvcFJ6Z2wtaXpVZmE3ZDlPb05ESUEzMkNoeWVlTXVqcV93LUp6QmpmSzA1WlpiV250Y0JveFBTUnZweU5vRlhsdDhfc3E2Z2ZDQXI0MHQxSk9Oc09henYydXRzR0FQUXRZdlFva0NHb0MwZHJiSjJEbUczSE9xVDRDLWVXdHRZLTlPem5BZWd2RFJidGJPa2FOUjZoZjdKeXVBMFlOdjVIRGg4Y1RmTVZsanB0ZWEzdE4wVDJtV09MMmhPeDVRVS1Rc054MUxjTGpGMWppS05CR1BkamNESWswaTlaYWduX2FHTWktdkxRR0xyLVJ0Rnh1RmRuV0dZUzFiNlV1OXI5Y2xIVDBJbUJnYUM2VXhwWFhheVRTYWRQUlZ5UHRYc21FbzF0bWRuSjY4SXpmSzdJa1V3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQUS1Fd1NGVkZFVWxUakZMaWZ4cV9xZDRYaU80OEZnVlRweW1iSFo1VlpkNXBLYVhybzJTMFZxdFJjY1NWUjkxM3VsNUpqaWVwSEN2RWM0aXgwVTQ3Z0x2dXJTYWNuM2NLNlZPVXRJVG5hM21SYUljWU5GYW00SUFLYkdJeWJIUzF3cGtNeE5WVkt2X1RQd0lNZ0JCQlRNRHMydjZ2NDNaU2NLb19KUGc4Z1hwalJpUkJpRTVtcE9xaVh6SkpieGM5a2prR1Etd0VJdWN6V081cG1BeUg2bFZqeTlIUzNaQXJ4OGFWNjR4OUFzVlV3Sl9pRGhoY3lHUFp5LTlmT2tkdUxVeEY0Z3pBbnU5b0k0SXVwWEYzY2ZzcmhONUZJSENiM2pMVTluQTcxaktxWGlOX1NmSkJnc0R3UHh4cnY2MGw2cDJiMFphc0hFMUZ5a0ZNNHhjdV9aaEJHWm1kSm9zSDFLYnE0TjFkZ3ZJTHpJc19Pb1BLS1o5Q21DSy1yUnRia0NXc1VXQzJPbE01WFl3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
