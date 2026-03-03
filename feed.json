@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T08:49:52.365833+00:00",
+  "generatedAt": "2026-03-03T09:50:20.279578+00:00",
   "items": [
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -22,16 +22,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
-      "source": "Scroll.media",
-      "source_url": "https://scroll.media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 23:27:42 GMT",
-      "pubDateISO": "2026-02-20T23:27:42+00:00",
-      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -40,6 +30,16 @@
       "pubDateISO": "2026-02-20T13:17:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-20T08:00:00+00:00",
+      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcGpsSzhIeVUzRmF0YkdrdGk0ZHAweVhiV2Z1VGZvRy12dDhpbHhYWkgyRWxCdjlzaEYzWTkzMDNJeHJPd0VWeDhwLUFDZUI0SnhhUEdVUnA1V3FiclJvbzh4OVVjeXhYdVhuOHhkbTR6c0RuNXJXRTNqY1J6b1V6VTd5QzBKV1pYLTBJRHYzNkVXdmFyR1ZBZFBDT1FLQ1hyZUtoZ1JJU2F0bHFNazB3cm9LYlpNd1FtN1lQTWVkOFA5QlNLdENhSVNqc1U3dm14c2tqU1Nod2pqOEM4ZGpuNHNiNnItelJ2OGJkSFBmYVFyQTRZTVdpRFc4TVV5eTV4MEZzam1aRGhEOVVXQ0FwNkE5RjViZzBOV1FlN2p4bFBrblphS3lCcWU2Zjk0QVA0bk8zWHh1QjR2blh0cm9GczRBeEVEX1pZc2hRUTQwRVA0elM0SDlMOWJ2WVNQS1hyZV9RMTdrZk9Yek1sb1ZWVlV6NjREMlNSRU1TaU1qLXA3QnRMdEVxSmtJeUo1MGVfSXFydlFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWVlnZUFwdUtDaTYwdEdQOHJZdjlBTGljdFRsbF9sYW04VTBNT2F4OW1jOGFYdlFwOUhPZ0JQQUVDRTUxNnUtbmhubkVuakJrQmdKM21ZbWc0Q1g4eXh3bnE2djJVNk1ESFE2U0g5Y2RnYmFFTHRHNVJfcWNPSGZONm1rZ1B4dHVUdnFoOEFpZ1R6bHpZZjJVTUswWkZpZkk0THdOdFlyTTROSmdUdUFZU2FPZWFwaWZPUENMMFBRay1zb05reER2bkpySHdXV1VCTTB2bi1JR1ViRjVEc0RVWllWN2xYSGJaNjl3UWFFSnhWUjdUd0JDeDdnTkgyd09WS3ZzazdmbmRDU3lYMDVvV2xIbW5jS0FYbXhzdlF2Q0JHTXVvU0RhTHQtM2ZVUS1pbVVhNENWQWRRSlBCSVZRQ3haNXZXdWowOWFEbkZ6bWcxcXBXUFREQTloVF8yUWNnSERQd3lkVmg5SXhpZy1tb2IwSnlXMGFWSU1nN3FnOUVWdGNHRks5TEY3eXRsejhQT2ZiWmhB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -199,7 +199,7 @@
       "pubDate": "Fri, 19 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-19T07:00:00+00:00",
       "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
@@ -269,6 +269,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "Falcons raises investment from US fund Green Flag Ventures en.ain.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Falcons snaps up funding from Green Flag",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94ZU9ZWWdlLUZ0NnlGaHVKZUwtbWVCZkgybE9rWHY5ZEktT2tRUlZtb2dhNjdIa3lYaW9yTVVOTW1MM1RUR3Q5WFdNMVJBZlFmb2d0RHRWY0o1YlRsS0FzckhOdU1qbGRNTnJiWWh4Vm0xclB2aGpR?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Falcons snaps up funding from Green Flag Resilience Media",
       "query": "\"Green Flag Ventures\""
     },
     {
