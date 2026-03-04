@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T11:34:38.640493+00:00",
+  "generatedAt": "2026-03-04T13:06:12.486443+00:00",
   "items": [
     {
       "headline": "Our New Era of Drone Warfare Spreads All Across the Middle East",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUTd3ajVvbXR6bFJWTDdta1kzaXRXeVBXVURMcERkSXhOTVlHZHZwR1pEVzVsZEs0S3owM0hSR2hfaEhiazhibThaR0FsemI5TkJkSlZDd3FoVDJMeklvcllsSGF0RkNQcTdVVEtYMEJiTFZyazZyNHJYQTNvWVZjRG5DYzFhX29WbXFuRTFRTGVnYjJSNzJ5MDRlWUhiRVRSQnAwc1k3N21QRmhtM0Y4a0ZaTnpEUTZ6STROQURFTGhxN1hUTnM2UDlIU3BuYklzOXp4WVhqcmQ1b21KVktFMG1FUmk5TjN1Zi03ZHhQc3p5M0xOYlI5WktnNjdsYXZRTEdqSE13T21JZndDUUVvVFlibk1idHAtZEVjSjM5Nm8yQmJrZ3BzdHlmS2NkeGw2Rmt6bXhXYmkzbmg2TkZVOTc2THR4elY2MGpWZHlxaVdQMFpzMG91eWltc044aEZJNVZDZ0hJbkxxRVlTeW9yZzRRdlN6YW1GOFNZWlNiMjVEUW04YWl6MG51YzJXenA1T0QwMFBB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOb0w5WkRzNWwxc2tWTi1BdEliOTNHbnhYSDFPMzlDcFYzaUFsUFFCQUdnWFRxTlVnMnRvOGdoN0dvdVIwcmhZaWRlS3NaeGVheVcwQ2xpaUJ6cGZPR3dLU0VXTmVyNzJBcll0R1N6N1NNSmxEN240R0NHSmRiMXlpWXhKMERSVkNKZDRmbmtreWxlNXllS1dyVXd3ckY4VUZjWTAxZ3FHS3pHb1BscksxVXNUdzJOZzBTYTVxOGNEdGg0WmVrNldqTkozLUw2Mk9tbC1PTnh1akdzYVJRVXBZVEJIcjlDZkhzSXg3QXdLRE9QeDdDekpUWWV6OTNLaEJFWlhQbkNaUnNKZ21tUmlfc0hCRUhCOGNlaS03OEZFNlRwMUQxaVVNQkFyRDBtUGZmckVRMTAwVTMtX1lJWGswNV9sLXliOGM0ZXVkemJyQ3Q4enNTS2pQMkE1MHNkamZtQncwQTZrWnRwdDdFejlIM1FvT3ktdlNfdjlMOENYWXhOSGRQZ014QnRYdlh0cHRnbkZGS2Zn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -233,12 +233,12 @@
     },
     {
       "headline": "Ukrainian Direction-Finding Tech Firm Falcons Secures U.S. Investment for Scaling",
-      "source": "Militarnyi",
+      "source": "Мілітарний",
       "source_url": "https://militarnyi.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0N3aUUwSzBUZlB1c3dfR0VDMnBvTmc4aHZGWkNKMFI2Q2xhbkZQekJBYWx4elJoNDBVaEhuUld6LXZDcEEwR3pzWWhhdWtGeTZMMEhMeDlSbklHQTVqRHdvam9qX1NRT0RJbER3TEZsYVVSUmtpZkRDT3NGSFdBLU5DVkt1TkQwaDNmSzJjcF9HN3g4NEphY3ZRV1BLaDdia0JYQ1RJQTM4SlpkdlNfS3l3?oc=5",
       "pubDate": "Fri, 12 Sep 2025 14:43:10 GMT",
       "pubDateISO": "2025-09-12T14:43:10+00:00",
-      "snippet": "Ukrainian Direction-Finding Tech Firm Falcons Secures U.S. Investment for Scaling Militarnyi",
+      "snippet": "Ukrainian Direction-Finding Tech Firm Falcons Secures U.S. Investment for Scaling Мілітарний",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -282,6 +282,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian defense startup Falcons attracts US investment to expand production",
+      "source": "Оборонка",
+      "source_url": "https://oboronka.mezha.ua",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3d5R0hPSmw2ZFBXV3NtdmdXYmt3ODRaWVdLaEJjTkxBTUwxdTFjLTRVZl9EVFlFeGJaUHoxc3R2YkxOQ0V4ZlkyV2puTDE2ajZhNms5c0JIZDkwYndwNjhnZXRISWFzNTBUYTNid3RYWm5uand3Sk5Hd2lfTUh1QVpTUDJVUzZi0gGOAUFVX3lxTE8zZTA3OWE1M3JmZ3U5bXVkalFBYUxRb2N0M2d6OVFaYnQwOXhITW8xeXl5dEtnaWQ4Ylc5NnB3Q1B3cW1Wb1hfcVZ5OTgydFhaVkI1OW9VdU1XbGpNaDAzVW9IVnViX2o1anlXYVZ2bjZmVWxWcW9TUy1fSGs0bmU2YldCOFJUNmYtMVpIOUE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Ukrainian defense startup Falcons attracts US investment to expand production Оборонка",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Ukrainian defence startup Falcons secures investment from Green Flag Ventures",
       "source": "thedefender.media",
       "source_url": "https://thedefender.media",
@@ -290,16 +300,6 @@
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "Ukrainian defence startup Falcons secures investment from Green Flag Ventures thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian defense startup Falcons attracts US investment to expand production",
-      "source": "Оборонка",
-      "source_url": "https://oboronka.mezha.ua",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3d5R0hPSmw2ZFBXV3NtdmdXYmt3ODRaWVdLaEJjTkxBTUwxdTFjLTRVZl9EVFlFeGJaUHoxc3R2YkxOQ0V4ZlkyV2puTDE2ajZhNms5c0JIZDkwYndwNjhnZXRISWFzNTBUYTNid3RYWm5uand3Sk5Hd2lfTUh1QVpTUDJVUzZi0gGOAUFVX3lxTE8zZTA3OWE1M3JmZ3U5bXVkalFBYUxRb2N0M2d6OVFaYnQwOXhITW8xeXl5dEtnaWQ4Ylc5NnB3Q1B3cW1Wb1hfcVZ5OTgydFhaVkI1OW9VdU1XbGpNaDAzVW9IVnViX2o1anlXYVZ2bjZmVWxWcW9TUy1fSGs0bmU2YldCOFJUNmYtMVpIOUE?oc=5",
-      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-12T07:00:00+00:00",
-      "snippet": "Ukrainian defense startup Falcons attracts US investment to expand production Оборонка",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones",
