@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T22:33:33.844757+00:00",
+  "generatedAt": "2026-03-06T23:31:32.970129+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-03-06T20:55:06+00:00",
       "snippet": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time Sandhills Express",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
-      "pubDateISO": "2026-03-05T14:14:00+00:00",
-      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -40,6 +30,16 @@
       "pubDateISO": "2026-02-23T13:26:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 13:17:00 GMT",
+      "pubDateISO": "2026-02-20T13:17:00+00:00",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcC1IdEsxR3hrUm1KcUFtQUNDOUVuUEVLV3RobTRTZWllS0lpalNVNDNNaDl5RV9TNVoxbkI2M3ZGNUhDN3FzS0djMHpwX2wtT0M2MHI4RGZVc256VzB1UXZUS1RKRV9UaFFRUjZ2X05qUFRRUlpZQk9yYlhXdGpfOFZpVHRTdVBSR1VidHYzMTFEVWlGTTQzWS16bUUtckxhQmxNMmJ3U3NlM1F1NFdhME1pM2hmUnJoTENOQVliYy1ING11ZzhMTS03dkplWlF4Mlo4aEpmemN4RlJBb3k4cjEzSWRVN09EcUZjSUFkZDBtRWpQWTZlMVl5T0I4SGhVaEJmSzVaaHRJWGZoVHlkaUxiLWRwZGx2X1NiSVUzX1RwWEh6VGVaVDFlTmkzU3hqLTF0TmZFMzFacmVNTDZ0emhENXZ3bXdBWlREWGRldVJzeHpZN2NuMnZHX0F1N3h5VDhyMlRiajQ1YXZZLVRYZkc1UzRDVURnTl9qeTZFeVZGbVRZQnV5T1VrQS1ZLXRlN291c2J3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNnFlQmZpbVBZSVN3aGhqU21nWHBiVk5BOE9vNE1uSWkyaXFJQm14M01nMXJBLTJ4SHJEZDZDdDJmQTRiU0tYNldWaE54VjVuUDk2MlVuY1JZYjRtUlRtRVg2TjdlQ0JEY3BwNmZCN083enZEdjIzTlhjZjN0Ym95aUVJbHFDSUxaRmNOM1lyNnB2WFJBT3ZGczEtZDhmRWJRblRYZUpKV0xfMzhLbGZQaDI1MmtYakZwUFgzaUNVRHF1QjBmci1iN0kydXItNGotTTF6LU1HbG4tWlVYeElIZXp2SU9BdE1Sb1V2YzJEQ0VNUlFzM2FHdS1oUURLb3JBYVZyRmY2TUlXdk1RVWV6blM5WHRGYlE3dEZIMDBmMWZJWmFTQy1JNEVXbzh3X1diS2ZiU1NyamdfZkplR1o5ZzJFY05vR21ER1phODE0Z25UUzRsbVZ4MDlaaWZEY20xTEptb29VOGZlalJrQ2J3VVB3NUZPdFFOOUxwdG9vbFRwZm9aVEZHN0EzV1AwYXR2c2M5R0FB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
