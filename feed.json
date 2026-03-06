@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-03-06T20:37:08.459229+00:00",
+  "generatedAt": "2026-03-06T21:33:53.218229+00:00",
   "items": [
+    {
+      "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
+      "source": "Sandhills Express",
+      "source_url": "https://sandhillsexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUlVYW5uOGJIdXFJdFFZdGxjWmlRS3l5X1V2MnJCdDBLZFFmYUVibTRZblhBMXg1aXBycG9janlRbXVVRVBjUXRxenhpYmE3Znd2LTBQTHYzOUMzNHM5VEtiMWFRcTFXbEdnM1l3ZHpwUG9obHNrWFNpMlZ5YVZCUEFlR2w4OV8yRlBnazE5c1ozYjlvby1UdUllajlMcW9DLXlaVmF1ejd5Tm1jbkVjbi1sUjVDZ200U1hNN09NcUJVOThxT2tlNg?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 20:55:06 GMT",
+      "pubDateISO": "2026-03-06T20:55:06+00:00",
+      "snippet": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time Sandhills Express",
+      "query": "\"Deborah Fairlamb\""
+    },
     {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
       "source": "dev.ua",
@@ -62,16 +72,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNeXZFU2JXZTJjcExWT1diTjVrRXltMjkyYUJLTl91VUdfZEkyYWw0OEtjZjI2dUVwbW9MR3ZsT1RDZzR0WEt3VkFXbHdFTFVDSXhhbmQ2UWlWRzM0RHUzb3hOa0M3Yk5QSm5HbmEyU2ZMQVZFSnNhRnRsRWdxUGV5Ykc1OGxGaDJJQWh3dVhGNWxVSnZpQm5fSWVTc3RZcHVEb0o4WUwyVUlNSjJ2WjJvQ2JwY3JTMkE5V2szTElwRmVlUk4yS1FfeWZRVGZ6Z2p2aXhpZXpMQzJyVzlLVE9tOEpXVjVJQ3VJOUZhWkNKZzdHX2NJMW84Z2ZJV3lsekNIdTFnTFBfYnN4VFlQX1pGaFZjS3E1cnhCVzRjcEZKbVFYLXJSazk1c2hTQlVfd0NPLTR5WXZKMDlsbVRuTDFnbEcxQVRxaVVOcHFGd2gyVnBkeWpBb0I5TzJubjBfSVVKM1R0MEx6bmpnQXY3cWNmV1FSUE43WWJPU3dtbGQzNmFHMHVEa0hUaHQ1MldtTzdOWVBtMmJB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQSzNPcjlqN1I0V0FfbWR3RWlONmwzNUVDeDJrMFF2YVJoMzlaMGZtREtrczZIWFdLYVJZUlVtU0hEQjJIYnZKT3VSY29jcmN0WXc4WGhubmhvTEtVSVZuMGhrRDY2Yjg1TDJHV25YMy1Td0lEX2xFOGNlVENHbXZGLW9jWklKWGhkdTF2aTJNLUlFcmNyZDVUOHVDZjVVS2NmaDl0MWFzTGJJNC1WbTlkTDd1czRzc0dQMDRDVnE2WVdIakZPT0owZlZUYndYV05iQzV5anljakpvcHlNR3BYckRzWEptZDFwYkdselFWZy1hdDlOT1JIYnU5YzAxV2hYeWhENVdLbjBYUHNlWVVfLUZPMGlINWRMdDFBZFMzMkU0ejNJd1dvNFRVNVg0aVREbG9Ybkxqakhld2Vta2k3cW9XNHdwbmd4cGl6cVNYQTdSS2FqbzNYV2RkU3hzQWZWUi1JWGVBUV8zdnI4OTcyS010dUdISFVPLTE5N2JMMWV1ZEQydG1qTHhaNi16aG1XMElxZkhB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
