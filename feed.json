@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-03-06T13:05:39.153899+00:00",
+  "generatedAt": "2026-03-06T14:41:02.033575+00:00",
   "items": [
     {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
-      "source": "Dev.ua",
+      "source": "dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
       "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
       "pubDateISO": "2026-03-05T14:14:00+00:00",
-      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment Dev.ua",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -60,6 +60,16 @@
       "pubDateISO": "2026-01-16T20:17:36+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-05T08:00:00+00:00",
+      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -115,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOaFF1TXg0UVQwN3BtU3g3R09mQjg0ODJPM2ItNVhFbXczdDk1MDJQZFdManNMRGFRMUtEWXE3NUxzUEZKTGdYb0R5Vm1xRV9Jdjd6TzVMX0dxRnZiVUM1NHljb3g2QVhTcXlCaERHQmx4emZsZ0pjdG81RGRrQ0JkUVNMX3NEV0hrSkh6WUpzb3RJLW9jSGJOZDZYYXNxdk5jSThmRjB6Z0JuTjBCcHVKZ0NnTzBxOUpjTHN1T0ttNS1hU2N1RDZyUEFEdnhGaTRYaTItZUZFaUhqdUdhMnU3elktUXpiSjBlcldiR0E3dXRKa0lxS0QyVTBvc0c2VXBfOS1fcU9xWmxyZlFTRmlrc1FZaDdDTkIwMjVNLTYtTWVXTDZidUM0VG5BTUcxZndJVkVmV2w1QXdsbl9TTG8xaHZMajdpRnc4NW9lRTBsY3Fvb0xnbVUyMkUwS2xnZTdjVU45bFdlNnlnU2hXdFl2NXNRZWtPMkdYelkyQU5zSXhmQXNrQl9DVXN0Sl9Ed29Qb29ZR0pB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOTmQ4bkpiTkprN3NoQWU1QjFoOE9relhUWEgzdzN6WG9CVFVMTE1pMkx6UmhYSWwtQ1o0aF9BbUZmWGpyVHAxdldrT3plYTRjejRrekZnbnpodzkwSldkVExoc0o0MGh5dllFbDY5cjNWdzcyWFlmOHBoWTV4YkdGTnZaSTBGSk95X1ZMYkdHZXZCY1pNMXotSFVsSkY5UnUwVFJ1U0dIdVVsWFk5alBrNjMtMFFlQ25BRjdEc3p2TVZKaV9PeElqay1Ubm1CQTVFMFVUZDFpYXRfLTRfeGNmd3FwZHNrRnhfcmRHYU04S19nUTFPQlprZTkxTGVWVi1VNXZiLTBncmNkMDJJY05JbXdrR201NVNvRGFlVkRSa3Ftd0c1RXo2M0VlWVkwTGU3ZjJpeEtDZUs3N09qeGphZENPTTFwemdOdUtueEoxdkY1SWdlbTRWMEc5OUlSWVQyRDJuWTJNQXA1VTR2SFlaRV8wVnF3dlhiLWFOaWRBOHJBejBkYU94ZEFYUGtRZlVJcnZDOFdR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
