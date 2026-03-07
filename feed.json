@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T21:26:08.468820+00:00",
+  "generatedAt": "2026-03-07T22:28:07.120903+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -19,6 +19,16 @@
       "pubDate": "Mon, 23 Feb 2026 15:43:21 GMT",
       "pubDateISO": "2026-02-23T15:43:21+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 13:17:00 GMT",
+      "pubDateISO": "2026-02-20T13:17:00+00:00",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -115,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTnBZOWY2M3ZkNW5FVFVkNmdTUzg5ZmtaWHN3c2tQMnk0Qmt6UktUeVZfQnI1QmJBVXJzNEdzNzd5bkh3a3FJbTVISzlpR041a18xQjBQbHFRMk5EaUtfeC1CVVJWaERxUlBJQjQyeWNVTG5KSmw4dW92UF9vSkluUy1OamNnRk50cmJ6MnhfMWcwSHBSb3NNZklRZzJkNGRIampwbk14Z3BNM1BKeFd1N1YxdjRQaFN6NUdSUFloV08yU2VBU3hLWnlYRUVqLWxEandINnB6UXB4bDg1N1NwMWRDd2pRaUlrNWZWVjlOUVpjYVczYzRoMDZWSG9sQmpPRFBhOEppaFlIRENOWFhWQlZYbnVEOWVTOWwyNHN0UnlyeVZwQkNBUTZxNUVJYWtNMTNDSmFGQUhuY2kyaTJYamxVMFVRMnpHV04yV0VBcE5NX0l1bFRzZHRFcXhxOU5URGpDUHVxY2NxSHBNR0tNMEh6VEVlU0VOZEtSaXNLYURLOEVsZG5henNjNGU1NklnTFlZYk53?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPdHo2SVJzTDBzOERobTNUbmFJZy1lWkdZamtKQ2lBUXkxbUptbkxqN25jM3QwMzRsY25Nc0ZxczBfMFc1OS1ZT29mM2FxN0I3dmwtUUE4amZsTmYteVZIdV9tSzZsNWlJTUlCa3BIenRFZEZOUmJ5VHd6b3JEUnFnSnNDTElqOGNCbDJlVU5sRkg0ZkJWdHEwT2prNFRweFdjRWVnSnRGRTFDS0NDYmJPUnN2R1k3dzRrdjY0TDZYTV9zaXhoaUNQNXdpOW5kMVlYcVM4OFlhU3JjZ3RtajB3NmwyNFJxRlhlaTY3LVJOSUdSdXQxelpKZy0xRFBqMF9vekNyWkVLTkQwYkZYdjNGRVZYUzFJSHNaMEdDWnV0SV9mZFZnNG5NOGtRNFNaWDRyMG1QSDRuaGl4d3FMem9hOHBSR0c0NjdzZ1ZBcHFOaUpQMG5Ydms0dTdla3o5Vkwtb0FMRF9XV1dmaFVWdjg5MHNFZ3dMS05MYmhUTG4tMEJ1WDhGVUlHTGNUVGMwSTJIdGMzYzRn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -150,6 +160,16 @@
       "pubDateISO": "2025-10-15T07:00:00+00:00",
       "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Bell Textron Inc plans to manufacture helicopters in Ukraine",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubHhuSzJqdkZUTmlnTW4xb19WbkZGcEdHU0dQR1ZBaGdDR3ltUzlyRmV5MXVjTEJodjhLTG1kM3ZLZ0QydFZBRGVsMFNNRXk5YmI5UG9SYTE1ZUQ0U2wzV0lZUXIxNGxRVkpJY01TWUc2dmJidWRIWA?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-15T07:00:00+00:00",
+      "snippet": "Bell Textron Inc plans to manufacture helicopters in Ukraine thedefender.media",
+      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
@@ -209,6 +229,16 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Ukrainian startup Swarmer raises $15 million in funding en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Swarmer, developer of AI solutions for drone swarms, raises $15M — a record for a Ukrainian defence startup scene",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZU1oTktSbU4wOU5RbDZpdkJMcERNRS1yRHFIMDBLc0I3WHRXQVVDZU1xSWMyQ1dTMk5tWkN2VTNOZVFHaC1XcVVpX2V1UnNNajVaS2FqbW1FeXI3RWdmQi1oQlZpQ2VKNEtzVQ?oc=5",
+      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-16T07:00:00+00:00",
+      "snippet": "Swarmer, developer of AI solutions for drone swarms, raises $15M — a record for a Ukrainian defence startup scene thedefender.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -302,16 +332,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million",
-      "source": "Scroll.media",
-      "source_url": "https://scroll.media",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZVNTal8yTVJBemZ4cEh0WnpNSHBWUC01c0p0ZTNnN3JEOVZVN0dpcDhoRldTOWFvUURzcVQ5ZnJCZFVXb0ZUNk95Mm13M3dGaXVuSHBMVlhkM2VWODZjRU9GSjdGRHd4UUxyM01vVmF4OTBpWWVVUw?oc=5",
-      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-12T07:00:00+00:00",
-      "snippet": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million Scroll.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -319,6 +339,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZVNTal8yTVJBemZ4cEh0WnpNSHBWUC01c0p0ZTNnN3JEOVZVN0dpcDhoRldTOWFvUURzcVQ5ZnJCZFVXb0ZUNk95Mm13M3dGaXVuSHBMVlhkM2VWODZjRU9GSjdGRHd4UUxyM01vVmF4OTBpWWVVUw?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million Scroll.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
