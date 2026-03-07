@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T17:25:42.470641+00:00",
+  "generatedAt": "2026-03-07T18:39:37.147140+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -29,7 +29,7 @@
       "pubDate": "Mon, 23 Feb 2026 13:26:00 GMT",
       "pubDateISO": "2026-02-23T13:26:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Инвестиции в Украине",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
@@ -135,7 +135,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQdUhVNnd1ZG9ycGhaMlVWWHA0OVZBMnlpMGtfQ194YmRxZWdRSVVTaTlxYS04NWEzM1ZvY1JESy1tYkF3dlRGZldCeDJZTkx4aDVWQnI2WHpIdHNBeEl5bGczWFBXVURWUzdOOWNVUG5TNmMwaThoMmhnY1FvbktzWHowak1OWHhTYklla3N0SjRLVnpHa08wMkt6c0REVi16a20tMmdFal9GU1FQZ3FHMjZTdU41N0drcTZWTVFRaV8tNlFkYkFxaXdKSGR3S0FJSTAyVEtCcllILUtNNktsdlk4YmRWWDlfemRQT2JNeXpDQmNQRGNWX3IyRWo5cl8ySG1vaTRGTmRBNkMyZVNRQndBYWt5TnVaYktoanRvbjlqVHFLaXhKUVhtUEhoVUx5S2dVc0t1cl9LSGZmeGxvMFM1MThMQldqbTZvR3p2aXlOQVdMZWFoeHJha21hRFBZNmtRRFJrSnVXakh2YnpMSTQ2bEhqak1rWjBKdUVfX3pORWxZUk9ESnJLQkY2cnh1ZFFmODV3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQd0hhZ2E1bWExLUswWHREcHU3M3p0NHd5LUJQNC1aeWxXSWZIeFI0Um9ES1lMMFMtN0RQa2ZzQk9tWU9CYUU5cEFBLU1OQUFKMUdLSzhxNUdreDByY2FTR2o2My1VUjYzV28tbHBoMjdobXhrMXFhSFJmWlA4TzZIRDlOajZXOFFrckpQV3NkRG8tQkVCcTlzc0kxZXNGSUd3VWJidVQxQ0QyWnZFTWlsUDdJMHVjbGhzNTZKRlh2aFdiS3oteE41d2l4R0x3eEVFNGxzQXhqdHFLRHFUYlNwV2ZUT2EzSFVzdEQzSWJrSlliZml2dmVadUUtU1NXS1VKSEhqY3ZueHRDZHZmWUNRWHpkY2NOOTZMT1QwaXk3NVEzR2pGa01TQnlIclkyZXdrQ1ZVdkM0X3RCaXNHMXVobjJ6al9CV1FiMVFfOXU2YUZtd1FiMXludjAtdEM0Vi1nNXl3bHZIc01MZnZRVHNGOUcta0dsVFJCSkdvVUwwVVJVQ0prNmVmd3E2LUN3LTAyOUJNMGln?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -152,6 +152,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0elE1ZWNVUGU2M2VBbHBDdXQySWNXQnk2YThOa3BNVzk3RjBpX0F1N1lmV0Vvd3Q0dThGeGdsVEpyV0NNRFZrbDkzUDhCMUpDV3A3dklZZFJUWG1PQlMyN3BLdm5mRElkTmc?oc=5",
+      "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-20T07:00:00+00:00",
+      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups thedefender.media",
+      "query": "\"Justin Zeefe\""
+    },
+    {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
       "source": "thedefender.media",
       "source_url": "https://thedefender.media",
@@ -160,16 +170,6 @@
       "pubDateISO": "2025-10-15T07:00:00+00:00",
       "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Bell Textron Inc plans to manufacture helicopters in Ukraine",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubHhuSzJqdkZUTmlnTW4xb19WbkZGcEdHU0dQR1ZBaGdDR3ltUzlyRmV5MXVjTEJodjhLTG1kM3ZLZ0QydFZBRGVsMFNNRXk5YmI5UG9SYTE1ZUQ0U2wzV0lZUXIxNGxRVkpJY01TWUc2dmJidWRIWA?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "Bell Textron Inc plans to manufacture helicopters in Ukraine thedefender.media",
-      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
@@ -309,6 +309,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "Ukrainian defense startup Falcons attracts US investment to expand production Оборонка",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian defence startup Falcons secures investment from Green Flag Ventures",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydnI2OUlBSVhBTXdPOEY1V0ZiaWJ0cDNLRU9ZRUhtZm12bzVJTlVfZmhjX0RUclh0RWNHbjlLOHFCd3NhaE9ZaC1YQTZ0U3c4SzdFYk9EMGE5bWRNYzAwY1FqN09sS2tOU2t5Y1BwTTNLZw?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Ukrainian defence startup Falcons secures investment from Green Flag Ventures thedefender.media",
       "query": "\"Green Flag Ventures\""
     },
     {
