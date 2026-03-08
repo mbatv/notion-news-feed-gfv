@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T17:27:07.176631+00:00",
+  "generatedAt": "2026-03-08T18:40:30.375555+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNQWxWMC1ITmxiaTJlYjZHNy1TaWFwejdwRmxZbE5GSUtvNU91UllCRnU4ZkRrU2FhT3BVZEw0bEhZRE11cWhHN1pTUEtPSEw2eW51N0Q4UlFvRG1xcmtBejN2ZFV3VXJHcGJfeWl2MHlPdmREYkN3cmdZbFR0Y0phRVRMYi1WNHNMWW9acGd4dGczVkJKakQyZEhOLXRnX3dWdG9uWnF2X0tNa2hLalpNNzlBNExmeERZMmo4NEhHRmZtNll4NXNDNWZtV281cVBzWVNjM3VwbkkzX21FaDBJdDJsckdqUjczVVZQTi1IZ2NZclY4a3VYbHkySmNCLWVsa2VudmhuQkFhQjA3RlMzWFc2UGJBLXR3VnRzY2lZTG52aG5PVDVzNnlIRkZSWjQ5VHE2ejhfR2xqMHJHWjh3Vmh1T2ludHJVQl9IVGRWcUxKM2JiSHdRbVNhOER6XzNhQ3RVNmRFOHBIS3E2TWpVYklySmlVQkF1cDRsZktNWDE1bEVtZmd6cVkyT29ScHJKOEZCNDln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWmkwNUFRTWJ6Q1VsNnZvYU0xTTJ5SEpvZWJ3LTE3RkZkZGQxNUdGMEFibFBFRUhfZzRDZlZ1STlJSHpuYWJtMWphbVNuaExPc2piOUJMVllvN1Iza09WRjBvdW9RWEJsWGFndVdkS1ZCTVU1Wm1vTFRtNWdJNHpwOFVaODlfTThjWHlSdEZ1MW5LM3VndEFoSkdRWTVLd2hhV1RfOVFlWTlFaTVIYV81cTdVYVJiSkRRUnVJM2hENVVNUFVsUHdKd0hlX0pkN1VoTVpoLXdtVjZ4MnFJc0xiM1UxckxaZmFoSXRSQV84bF8xUGRrUWY1YWs2WU11UXByb2wyNk1YVlRobzNsSTl2YnFtanQzbUtmOFJ4ejBuV0RKM1BlRnpSX1BWQXR0S2R5b0RJWlYyTzFlQmhHeVR1czc3bkxpdTBMZTFRMlI5aWhGS3g0am1La0VBbjF2aDhQQjIyWXBfOFVDbG1fRGk1c0JJQVRCQkFwVEtqcWZrUXpGTXQyWkF6UmtmX1V1QTFOMTNOZ2hB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -190,6 +190,16 @@
       "pubDateISO": "2025-10-06T07:00:00+00:00",
       "snippet": "Ukraine’s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones Forbes",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVURHdDczhYYnQxUVdZeEliMW1mRE91eHBDS05zZnFEclNXSEZjQWFZUXJOWU1XSThXeHhHdVpBQUljVi1RNnZyZHd6QXFCRkZ2aS1TT0xQaTRVVVRydzRmLUd0dmtYdnRMMjJmWm1QeVJNLV9NXzJMcmsteTFJLTRMZURBSVdUUDk5dU93ejhicmc?oc=5",
+      "pubDate": "Fri, 19 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-19T07:00:00+00:00",
+      "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
@@ -302,16 +312,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYkpESXFSRmFnOUxrOUt5blVTd0RXYlh1Nl9vNi1PY1F0ckdUSi1PVlphT2FybnJndFk4ZnhhUDZueEZhQW1WN3RaM2RIYVJtdkIwQ3ZmMTE5QndZeGRBOWdBbVFLVWtyY1ppT3lUTU1JYk8tUHF6NHhUVmtGaHlJVlEzdXMzc2c?oc=5",
-      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-12T07:00:00+00:00",
-      "snippet": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -319,6 +319,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million Scroll.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYkpESXFSRmFnOUxrOUt5blVTd0RXYlh1Nl9vNi1PY1F0ckdUSi1PVlphT2FybnJndFk4ZnhhUDZueEZhQW1WN3RaM2RIYVJtdkIwQ3ZmMTE5QndZeGRBOWdBbVFLVWtyY1ppT3lUTU1JYk8tUHF6NHhUVmtGaHlJVlEzdXMzc2c?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Double Tap Investments invests in Ukrainian defence startup Hard Cat Drones en.ain.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
