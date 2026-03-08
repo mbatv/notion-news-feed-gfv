@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T14:29:18.120793+00:00",
+  "generatedAt": "2026-03-08T15:28:38.244354+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -72,6 +72,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
       "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
@@ -105,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNTWlEQmZiRkJZNmtFcGZzVUFMZ1hXOGUwSWJyeGRaSWtNSjc5bGp2NGd2V3J3aF9LbldoX3NXSVFtcUtHbmFIZk1MTDZGN2pMY2lqRzA3ZE5HTHVYdHp1WDJWXzVvalZEOWNDZlFnZU1qVGNmaGtpYy1ISFdVbEIwTzJ5aEVSWWNsM2U4RFFFRl96Z1JkNXU0bHdpLTVsNkNyVUg2ZlN4OWd2SjR4cW5wV0Fnb2NTUkgtbkk1R19UTHpvZVlHT2gzQ1JpU0czZ0pDc2NwSnRRbl9wTzh5V2pHanAwaFdkT2xTNDZqSWdpUTZQX1lGT3dnLXh4ZEFsR21GTmxuZExqcmI2NW5Ua3B4WXBCa1VXQXRrVnM5YzdiNDRpYm9vVHBoWE5PalFEb0gzZlBILUdtamwwZUdjQ3R3dlVyN016VG1HTDl3Q0RsWEVqTXEyb1FMcTVnWUZ0VE55SHgyQkNpZEl3OXVmd01XUE8wbEQ1UTFTVjJFZExvOU1YbDhmc1d3SGJXaEdrelFGa0syby1R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPcHlvRmlmZFhWWVI5Tm9RZE4yN1YtUzZ3ZExRY1FwcWlCNUZaYTlqUm0zSHpoN0ZaY19CT2dZY2w0c2VtT0Z4RHJHZGNyOE9vNmltcXZNd3FtdURRVFVUZTc4QWppMDM4MmV0bkUtUzRjaUs1QTZ0NHJiTDNOaVlnRzY2RkxWSEFhU1dDTjNFT3BBYTBXcGt0eUFyalA3b2JXQVpwdnhGSGpVVEF2OFQ4a3NKcjJQWWpGOW5WODFPbm5NMlh4eFFjaE9MX0M2VV9RYkZ1NmdpY2JxREhDV2VNTFdLSEh4VkRpaExxQVZiNDI2dDJWM3p1V25MM2lMQU1uOG8tUXRMeVltd1FmSVNaUUxRdDJwNzJoNGNKTGY0X2doNFVCOU5CdF9kM2VEVFhnZFFkSjRaQXY4OFV2eGhHSTZxVmlNNG8xaGxCcExIN24wS2VDbmdZb2FzQkxfNGJ0RnFrT25ocjJpQlVQRm96MV9aaFFjdzhfWTkyZjRCbnltT0d5Tko0c2xYNXdkQUM1MVRnUkxB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -180,26 +190,6 @@
       "pubDateISO": "2025-10-06T07:00:00+00:00",
       "snippet": "Ukraine’s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones Forbes",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Kyiv Independent reporter moderates a panel on Ukraine’s defense industry at IT Arena 2025",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1Q0WldjSUJwaUI4eFh5c1dYd1hfMzFOT1NiYjBBTUdIY3d5WGFJd2VVLXdvSHlaRE1LMUpOV3l6ZE5CUUt5MGxaXzBwZ3BiUDBEdXlmaGMybE90V0t4bEtBRDBRRTRzZDg2U21uc2tENm1GMVNFb0ZCUVNQclJTYVhZLTZSOGpuOFRTMkhzLWxDYWd5blhZcmpHc0c0WEx2S3VOX3R0VDJSTEFhcVFicVdQSTVaY3dhVFE?oc=5",
-      "pubDate": "Tue, 30 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-30T07:00:00+00:00",
-      "snippet": "Kyiv Independent reporter moderates a panel on Ukraine’s defense industry at IT Arena 2025 The Kyiv Independent",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGVURHdDczhYYnQxUVdZeEliMW1mRE91eHBDS05zZnFEclNXSEZjQWFZUXJOWU1XSThXeHhHdVpBQUljVi1RNnZyZHd6QXFCRkZ2aS1TT0xQaTRVVVRydzRmLUd0dmtYdnRMMjJmWm1QeVJNLV9NXzJMcmsteTFJLTRMZURBSVdUUDk5dU93ejhicmc?oc=5",
-      "pubDate": "Fri, 19 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-19T07:00:00+00:00",
-      "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
