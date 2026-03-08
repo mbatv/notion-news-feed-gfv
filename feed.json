@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T21:28:29.720269+00:00",
+  "generatedAt": "2026-03-08T22:28:58.698639+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -50,16 +50,6 @@
       "pubDateISO": "2026-01-16T20:17:36+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -115,7 +105,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPazBsdUJqX0FYM2cwNTJqMkh4U201MzZPMG8zU2tYb1RZMnA0MGYwM3JVcUhhZVhWT0w2S2JZZkhDOTRCVUdMZThSODZUWFVqZ19WeElKbkFpQ0M5V1QxbDlCUnlZVEVoUm1hYThhRmo0N1BLTmpUalN6WldLNmpJUERGNFp2UW1SdWRMRU1HOFI1cW9xY29PazFkUnYwQmJ6V0JuWE52MHVqelUwNVJGcUxSN3Z3bm9OWjVXZzZ6WENyOHlSQ2pTMTRuQ01GRldqUk9IZkxUZDk4Ml9fbWNRN2h3ck9GdERLMk9DeUJQUVc2SU9fcnVzcWJ0VkV3YVlnT3VmWFFmZDBxb3d3cDJMTmtuMHZMd2hOSENkX0tFM1V3QWhJai1pOUV0RmJNN2NfUDVNUmljOHVSMGZtS09PMjRGYlNEUjJJUEREUVZ2OVEtNTVsSzJQZmdjbzBVVWdHZXNYaktGZnJpOWJ4VTRieWhDenFsc0ljTElCVEVZLUtFbi01cVN2Y3RFY3drM3MxbDNRMTRR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObkJOUUlUNDBMaGtlWW1SVmRGM1d3MmNSUzhQRVYtR241Zzh5bFNVMUJZZThnUTktWFFaTW95MUdSWWhMUXQ2RFVtZnJnSXlPSWJNVDFLMDkyOXhfejhmTjY1MUxHZzRiTm1mNVFxTnV5Zk1pMFZmR0lvTGlCalFqT0R3VTlnYm9ZT0dTNGoyU2NDMmhmS2xLYUdoMzBhZndGRUdfSlgzSU5zajE4aHhBc0ZhMDVlcTJVRUtRenM0THpkTktjRk90RVJBOWw1VHJTdDVFRnpTSm1kZ0hJODFjNXNhVkIySTAzMlRmRENMQms4bXQ1M2RwT3M1OUtHSk5JYU9jMFAxRFpoUG5UMkZpdjQxcE9zNTlaVUZNYVVvWjV0WjROUjRaN1RqVE1UVGN0b0JrOVlGVUVPRG52WHBSX0dfZ2E3cUJmMTJEaWs5emRSbVJMWmFFbE4xMEJ4SC1nb1hPTVZlRUlvaWpWNmZOQkp2QnRXSVRORXE1VzJmalYzdXY1UHlXaDB0cXhHU24ySm1lWUV3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -199,7 +189,7 @@
       "pubDate": "Fri, 19 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-19T07:00:00+00:00",
       "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
@@ -272,16 +262,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Falcons snaps up funding from Green Flag",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94ZU9ZWWdlLUZ0NnlGaHVKZUwtbWVCZkgybE9rWHY5ZEktT2tRUlZtb2dhNjdIa3lYaW9yTVVOTW1MM1RUR3Q5WFdNMVJBZlFmb2d0RHRWY0o1YlRsS0FzckhOdU1qbGRNTnJiWWh4Vm0xclB2aGpR?oc=5",
-      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-12T07:00:00+00:00",
-      "snippet": "Falcons snaps up funding from Green Flag Resilience Media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "CEE Startup & Tech Weekly: Albania Becomes First Country to Appoint Virtual AI Minister",
       "source": "The Recursive",
       "source_url": "https://therecursive.com",
@@ -309,6 +289,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "Ukrainian defense startup Falcons attracts US investment to expand production Оборонка",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Falcons snaps up funding from Green Flag",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94ZU9ZWWdlLUZ0NnlGaHVKZUwtbWVCZkgybE9rWHY5ZEktT2tRUlZtb2dhNjdIa3lYaW9yTVVOTW1MM1RUR3Q5WFdNMVJBZlFmb2d0RHRWY0o1YlRsS0FzckhOdU1qbGRNTnJiWWh4Vm0xclB2aGpR?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Falcons snaps up funding from Green Flag Resilience Media",
       "query": "\"Green Flag Ventures\""
     },
     {
