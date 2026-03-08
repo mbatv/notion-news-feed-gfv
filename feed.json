@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T11:25:45.004094+00:00",
+  "generatedAt": "2026-03-08T12:57:54.951676+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -105,7 +105,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQckFOa2g4SkVSU1BDRmlVTHpnZjA1aTE3WFZGRHROY1JwTWN3b2lzRXhoSFo5YWpNbzFIOWZiUjVJQ2I0ZC1WeVllOXdBYkFMREljQzRGV3dJejNBWWo4MXh5Vi00TTcxOC1NT0JGdXVaWDdUOGI3RWdxekhCbGgzdVc2N2FnZXBNdm9oaVFoS3JpcGsyYU1OVGJuai1FQ283bXFoTC1FZ3ZhbFI5SG5BOGRPM2UyQnVibWNiYzVBQy1rV0dwV2pPM0hXRjg1VXlUNkJpYmY5Q1R4Nm5hVW1oNy1oLXlSSHU3YkVFWlpIYUdIU3U3a0x6Tno1MlhSbG5Sclh0OTdDc0V4TXpabkRLYldBdUxZRHBHbEpjWlhLZ2lROW9wbGZIRXZtMFg2c1NmdlFKMkZGc3Y3QjdXTkw2QUFwTFVla002TmJ3WlR1VERvLWo1UkRtWkRVejRmX3pZbnRWMTBfanNQekZmR0ZLY0ltUnJNOVVpOXZXNXBqRWRQZG92ZUxzV3p6RjFfVFJFNGJLczNR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPUlQzTlJuTlh1Ujh2ZlE5T0ROaGhFNGhEd0xUdFlPVnlIVlBnUTF2WjFxV3VDWndrcjczX3ZFUW1XQXdSN1h1SWRFUE93Um9qeHVILURlME1qejBkZFhZdVF3M3lfNi1vYTNYS1J3TG43QmtIbTV3eUY1NVZkOEdyREszZ0hRUXZZUi00MXBreXJUb0JyMlE1SEZyT1ZJYktxTFkxR3hIanVialRsRFJsYUE4b28wckxKckNoSktqWFgyTTlOTzUzRXdLQUNWRkRVTXdnT0Rkemk5SFZGcEdqQjVBTWtDV0xINkxOc1hUelIwLUlmV2pKTzl3X2tDTmlDZjg1VUYwRnljODlXdTJDbTU0RE5FVXNSVWxka3lTUTRtemxzZzViWVBxcEJkTXhsWTg3UnBvYWNaNlppNzNOV1JfS1R6Ty1BQ1R5d05ONXpFQ3NTcFZTa29ZMktWamlCVzN5UXNNQU1Fd3czclFpN0J1c1U2NWZuOEdodXhSMjFLUjNrX2RzaVBSVnIta2pOcWJJemJR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -189,7 +189,7 @@
       "pubDate": "Tue, 30 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-30T07:00:00+00:00",
       "snippet": "Kyiv Independent reporter moderates a panel on Ukraine’s defense industry at IT Arena 2025 The Kyiv Independent",
-      "query": "\"Justin Zeefe\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine",
