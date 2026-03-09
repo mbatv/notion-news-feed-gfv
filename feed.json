@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T13:13:24.050863+00:00",
+  "generatedAt": "2026-03-09T14:55:44.357323+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -95,7 +95,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQUEpVdDlRYzJXMDBBN2N2ODg5ZEthNTVZT19NbTdqRmJVTVFmb2QzRGRzNFNvY2RSM2FVQ2pNbDA4NHA1MDBqQWpUU0hRRDRlMk83ZFcwZnNDNG9nV2hBUDV0TWhUc2dwc0dxb3VYY3IxY1VqbTJsRVZPYXh0X1Y3aGxJbkcwNEM2ZDk4UU1kMEQ0QkdYZTNJLTlsMGdDR2NpMFFhaDIyVTNsblI4V1hxeEtfZUJJb2sxeFhNNDJEZlhBZnRRWmczVmlMVUUtZkNIQ1JhQUl2cExsandtUE5pcVVQZnhRLXRlVmNYQkpIYXlpUGtpV2t4UGVxbWJUX282YmFuUUZ5bkdVd3BMWTZTaFQ3VkRtUEJ1d0h4R3d3MWFkNDBvdWJaYXpPVUNQSk5Kby01Y1pIbnQwUmpvaHAxRmpqWXJIaC1tV2ZoeDNISWdXdjFhTDY5bU9LYnNjNWFKb3J3YzEzeHduVlNGNDFKQUpwMENRM0p5UzUwN29uV05pUmh5UXFKczE0OTRnZU1GaGdVVmpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQZ0ZCSjZpU2g5bnNBVC11bFU4elJRdElpa0x4WDdhZ1JtMUo1R2l2SktRUEx2V3JZdEdYMnJyM1lzZll1ZHRBZ2w3VnVrWW9lVEczTDBYWkNTZzlpTU9uYWlkZ0dqb1JEa0VlZDI0YVVMaXlpb1MzaVZzNy1icDU3YnZMRk1jVjkwUG51M2JSMHlMcE9mMWlmVmRzZ2NjOGhva0tfc1JKVnJjd2hLQnhhR0Z3VzU3YVF0UFhsUlFocHJ3aktZUTU4NlpjRFN6eEZDcjNVdmU5SXUzVVRvUDBKZkUzNUlhS0FRMXRHNjBKQXhxOUdBdmg5SkxqbndxS0VSMmF1al9TVnVVem9rdWlnaHdiOWw4eGRkVVp4dWdaMExTZG43TlRYeFpUTmJkOTJoenFUUWRRbERsOEVtNWdfYllQYWpwUEYtR0VwYTF1ODk4b0NCVlFQVWxTblVPb29ldlV3YkdxYzRoS3M5U3VwYVNrS2dTUmRGOU5XaldlUC1fNnlmamRqNF9kM1ZQWnQta3d3cjln?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -223,12 +223,12 @@
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -319,6 +319,16 @@
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-12T07:00:00+00:00",
       "snippet": "IT Arena Startup Competition 2025 Investment Fund Reaches $12.5 Million Scroll.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian Defense Startup Hard Cat Drones Attracts Investment from DTI",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzljU2o4c3cwRExYZXRGWWlVSjRBc0JiT1RmZTRHOXk4Q2hfVWZOLUxuN1BTM3VWcEZPX2JFeGFLVzNqTTdtYXcyaEdudnp1T0FwVVNCdmlPMDNzTWNsLXFIX1dGUVFXNVJoOXlNNzVBdlVCczVTLXZaRVlxYk5mTjdSalFfN1U?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-12T07:00:00+00:00",
+      "snippet": "Ukrainian Defense Startup Hard Cat Drones Attracts Investment from DTI Scroll.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
