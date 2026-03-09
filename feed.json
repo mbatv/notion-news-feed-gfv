@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-03-09T07:51:24.926085+00:00",
+  "generatedAt": "2026-03-09T08:51:59.459084+00:00",
   "items": [
-    {
-      "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
-      "source": "Sandhills Express",
-      "source_url": "https://sandhillsexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUlVYW5uOGJIdXFJdFFZdGxjWmlRS3l5X1V2MnJCdDBLZFFmYUVibTRZblhBMXg1aXBycG9janlRbXVVRVBjUXRxenhpYmE3Znd2LTBQTHYzOUMzNHM5VEtiMWFRcTFXbEdnM1l3ZHpwUG9obHNrWFNpMlZ5YVZCUEFlR2w4OV8yRlBnazE5c1ozYjlvby1UdUllajlMcW9DLXlaVmF1ejd5Tm1jbkVjbi1sUjVDZ200U1hNN09NcUJVOThxT2tlNg?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 20:55:06 GMT",
-      "pubDateISO": "2026-03-06T20:55:06+00:00",
-      "snippet": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time Sandhills Express",
-      "query": "\"Deborah Fairlamb\""
-    },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
       "source": "Scroll.media",
@@ -95,7 +85,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOLUg4N1FYdmsyUlkzemhWWjVvN0hTUXJKUnBVMDBxanItbkpJVXF5a3llUC1odVZ5bGxQOGIxTGJDMXk5RExHQUpQTk5BNjhhNTBjcDVhRUZUdkxQQ0Z4WUFTVzVMc3djVjZwTGstWERONUl0Y1ZrNWVhenVRaHRZNkFtY1JZc1NsNHBRVkhoVUtkSGF1Tm1qZmpPQV96T3UxZjJVcWJnUEhyTl9JdVh4RnA1cm5nazZOWnlrRFVheWhFeWl6b0VwUzBocERzVWJmWktEQ0trb0tBckhNUnFobHJaUXNFcV9vMnRyQmhDT19CTHdqTHptMDByMnRQb29lbnllRmJoNGpkdjZ5TkNPYnpGUXY2eFliRnVmOFdHU2pMNThiWTFkMmZzR254ejRxTEJDZXIwQ0hWamtuTGsyaUw1N0gycGNqaWdKLXpjR2dVUDV0TGpiamhqLTM1czNUWEF2cWd3dzZFSlRhQkVIX2REeVBMSUN1RFZCVjE4UHdoZXFLQ2pYSTVuUHhxVWJTVWJqTkxB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQUWp5bk1jQ3RCeWpHS1NFZWxXUFNnZjViZ0ZGRVVobkVjZlV6aDlwb0lLLVlBSHFLZUVsTHM1R2x5VGdqdExIQW84NjJoVWRYNVFQOVJROWpaUnhsUmYwaTg3R2hMMjV5d2R0M2VQOHFNeWpwUW9Rai1sZjhraDVzX1dwWXZVcDRjNmtXdVAwUXNRcnhCa0NPTVBsZ0pnc0NJUmV3eEJwcFZlWlVBc21lTnBHVnNKZXlySlgyd081X21Yano5Z1k5OTNlOE1oc0swc3hORkZNRTdGSm9uOHVXb3c1cHhDUHhqVWl2WW1OZkM5UEQ0NUpzdzVZdlAyUVhlNHQ3bE9haS1xb1NSdXd2dFoyZVhMM3VYUHVYT3BPeGF6QWRsT2JwaktnbVNzOC1UQmM5MkN0ZTNtcUdTdVI4a0lEcHVoZUdIUDJYcWxnSC0yT2pOb3cybTlOb2lDM25aU0lERmNublZLMm9KMnhYc2VtR0pzNDBoNno2X0dkeWxZc0RxVl9ERXhUbEdEUGRCcUV0cVJB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -180,6 +170,16 @@
       "pubDateISO": "2025-09-19T07:00:00+00:00",
       "snippet": "Interview: Why Green Flag Ventures Is On the Ground In Ukraine Resilience Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "The largest investment in a Ukrainian military tech startup since the start of the war: Swarmer, which develops drone swarm technology, has raised $15M.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSlowQzBzQkVOOXFEdDBTb215eW4wdWNWdDJEWlRuOXk5emdkTGxxNkI2ZW5iNWw2UFoyZ0h1THRPQTNxcW1tMHJDRy1rdVp3MEdRRW9qV3dLV01Rem1GV2lhanhhNURSSTh1QWk5UUsySFF0azctVW9XbEx2NFg1VGdLRmxhR2EzYlBzU3AwMGMyNGhtS2ZGQUE3N09ZZUhSU1NlRm5LODJMNExQaE1VbGlVN0NhNUU2SzRBeF9kQWRjVTItazRZbi1DRW13SHZXZW9GVUFva2ZIZ1JDSVFiMWR5MXdZLTBHVElET2lnbHphNC02dHVSZ9IBgAJBVV95cUxQQk45eG40RF9lZmFCWVVDcHc2RGQ5anpXREtOUzlGUVlleElXcW1LU0ZrV1Bsb01fSGVvSHRZbzVZR21uS0g4UWwtOGtLZER6Y2UxWmZtNlQ2RVJhR2V1ZmhKWEpwSm9RUkV0UUNOREk5ajFnN1JGQUlCOHBWX0FYYTUzWjNfbG0tU3BLcmMyelhGbzYxMUVOcDU2Mmlic2o4RHZGTERFWnpGTzNpakpPc3pWMHJMckhucGpwSzMwMmh3ZUVnUlhCWl9taFFjVHdQb1J6M2h2Ynh0SjRZUUdCNVk3TkJKVnRsRGpiYVNwQ2FnLXZXcjkwc1dHbFV3WUh3?oc=5",
+      "pubDate": "Tue, 16 Sep 2025 21:58:58 GMT",
+      "pubDateISO": "2025-09-16T21:58:58+00:00",
+      "snippet": "The largest investment in a Ukrainian military tech startup since the start of the war: Swarmer, which develops drone swarm technology, has raised $15M. ubn.news",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer raises $15M — Record for Ukrainian Defense Tech",
