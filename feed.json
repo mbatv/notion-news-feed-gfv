@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T16:03:17.193882+00:00",
+  "generatedAt": "2026-03-09T17:49:41.038184+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-03-06T20:55:06+00:00",
       "snippet": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time Sandhills Express",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
+      "pubDateISO": "2026-03-05T14:14:00+00:00",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -95,7 +105,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNb0FnT1hNSEpiNGlKTTdGcXE5ZHNJazZ4aVRENG9GUThIblFXNVltektHVEtzY1dkSzh3X25Kby1BOTZ0TFlUdld6V1RleTZtU0hiNnM3Y0M4MFJCYUhiVUZ3eEgwWXFPOWpnbW5TeGZVa2MxeDVQTmtqVjRaellyMk1NZ3pOaGJkSmxQU2stVllWNk9JaXhyZGNMRFYzanFEdzhQWnJfamRMNzktOVU2VHVucXlTdFdINDJYVGlEdE1YUEFRdEhvdUlYMVdfNEZWbm9Qb1VvdHFlamRwZ1FaelNLTDRoV3RDSkRUYVU1MjYzdzBUa0lxYkVpR05Xbk9qYjJoTW04OGFBMThnb1pZOGpERnAwRTJrSGNWdmxhOG52Qk8zYXdwTkFlNkxpa3RjNDh4Qk8zVWQ0RUx4T3lzVm1vSE43NTVocWJMSkNhOHAycmc5b0Ftb2tBSVBEWnk2QTJ4R09ldFlIbS1TTDFCaGU3Qm95MlV1S2lnNzlJMTNpX0k4aXlCbkxmaG9qU0lUa0Y4eEZ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQc2Vxa2Z6TElxT1BETjRybHFCQjR2VHo0WWlnTlBfaVFpejVLVE44dWNwZXUwMDM0Ung3QnBnaTd5SFlPeGtKc016eGZSd2dRQVVuM09tai1BRXZJWFNPTFhXbnp3ZEtsLUUydVZEWk5zNGpfZ0czRnN6YWNFamQ2aUh0S0JZOTJDUGN0WjVfZVZsbjFnV3pJNXozQmdMdmtLcXZJdHBITDBMZXJ2LTMwSTItdDYwY0V5ellYeW8tU1h5YkVGNmZTVWNlSXhIeHJ1RWNvR1JOM2lNY2pMOWpfRFdJaG00YzlDS1BBSXZtS19DYktUUHIzRVZEU1FWMkZYQnhNT3VxaVJpOW1BN1dSZlk1V1d3OXdmM041UUl1bmZPblB1M05jZUJfVWNaUFdKTUtMTUNIcW4tb3F6Wkpsamh2b3RqLUo5dHNsQlJmWjU1ODRtU0hIdTNqQnJ2b3JpSE1mLVc2MFp6MmllZkhuV0V2RDcwdVF4TlpFMC1ZRkVDTHBSbmlqV0R0ZjdNSzRYM3VKTGZB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -223,12 +233,12 @@
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
