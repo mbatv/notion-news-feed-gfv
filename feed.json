@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T02:31:53.878107+00:00",
+  "generatedAt": "2026-03-12T04:50:30.259727+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -43,12 +43,12 @@
     },
     {
       "headline": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology",
-      "source": "Rubryka",
+      "source": "Рубрика",
       "source_url": "https://rubryka.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5USmhQNFRRaHZPOTFSWks2SmZvWEZFNVYybjA4LXhNZE85LV9Jdlp3dHBmWXlHUjBwRV9HME1jdnpjNXlGaHd0cFdhYVVXTS1jdF9VTUllTzBxbUI2S1NQYmhpbw?oc=5",
       "pubDate": "Fri, 16 Jan 2026 20:17:36 GMT",
       "pubDateISO": "2026-01-16T20:17:36+00:00",
-      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Rubryka",
+      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNQmFHWDA2NG9QMkJOODVuM0RUX2w0SmFZUHBZMXhGT1oxYXpmbDJxT0I1QzVJU0xORk5KbHJheEdITzFGNWthTGw4QnNZLXBncEdvYkFSbkVWRk9ndkp5UjRlcENvdzlod3RydHVyU196Vm5xMHdhTmo1TzVYWnM5RzZVTE5uakI4Vk85MTFLd0VFZzlNZ2I1RWVvOF8zeGIyZzBucTg1NnN4amI5X2UtU1gzaUZpMVFKdDlrSjVqQl9IaVBzeDVPVUZpVTVVQWF3ZEh4bV9OWkVDdmZsQUlVaU9QUHBPM0FqdWJlTW02N1lQUFBJVGtYeERncklVeFhxSndhUzRYTHFIczg2TEFidzZWZmFmWjhzb19qN2xUYjRjckxXOENOSkZQXzhuNVR5bkc0czloQkhkRmw3VE85SmdLc29hNUlnSm5JNDMwc21QLTdlbVA4MFNEd0RNQ1p6ZWNpTnlIcDF0eGxOcTlrUkJLT1RaQUhMVW1STFpJVEs4cDZDczVVUUhYN1A4TWE3ZXFvYWVB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQcUphZkdaRHEwUUstUEFZRVhwLUIzSHBNdjFLaWdXYUp5anUtY0lObFFnQmZfWGg4MjJqaW1tSlAzR045Mlh3cDJrLWk3WUlIUndVTl82Si1vX3labXh4UkdfcUhsS1hwN25DdXJKbG1qRDM0ZlZTWE1pbFdIZ0FndURxTGVrSEo2SkJUVlMwck8xTkt1TEpzY2lla0JrMjBKVVdBZlFSYUJqdGZZTG5DckVxaFBxMWVyRWg1ZVBXMENPSzBJTWd2VnNDd1VVNUZSWkhJVHVWVTdvbVFNNHBLZUJJQVJVQ3JObDdrZGNnS1NYMC0tRnJfNVNTNFZBN1R3bTBqWF9RRnZCS3FRWU16dGJVcWtMOWJZQmdsdFRkdHIzV0d2di1tcm5STThZVDYzQ1ZJMWxMNEx5cTM0bWRPZWVGQUZYZ1pyNHhaMEVxd1JnTFNfN01LZVdkQnotbGplaGk1R3ktTVZmR1lmaUtub2ZDSm10eDdnLVhMcG9HWTJXSDVtUzdiLTJXWnhyN3Vxc0ZDcmpR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -240,6 +240,16 @@
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Swarmer, developer of AI solutions for drone swarms, raises $15M — a record for a Ukrainian defence startup scene Defender Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
+      "source": "Українська правда",
+      "source_url": "https://www.pravda.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
+      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-16T07:00:00+00:00",
+      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian startup Swarmer raises $15 million in funding",
