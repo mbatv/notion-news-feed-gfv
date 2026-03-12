@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T07:02:10.959389+00:00",
+  "generatedAt": "2026-03-12T08:51:28.406958+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUzBVUUR0dGxNcElqQ0xncENwb3p3bm04ZFpHZjktSXNucUxmbFVDQVRrdVFCRlhELURRU1gyNE12QWkzcUpmM1FkVEhPX01RN2YyZnJieGdiYldVWmFTYjNWUHF2OW9NRlgwTERfN1BQQ01RdHltcWtGNkpUUGtNQWd0VFRaLU9UTTJwdi0xMUNsVDVRMnViZ0huTUZ2MnFlckZmTUxwZXItVmNNamRLMTV6c3BkR3pSdUtCRDRVRGZBQjExSzRwem40QmFaVkwySDBhTTdHek5EODVYU0xXZjJNTThHYnZaWWxEa0h4ZlBZQmhPMFZuYlVYbmp4Si1OSDVWUGpILUVLamhVMVFNNkhILU1OYm9oSW1sZklDYTFTdFlMN0xndXFXQmlwbW5uaGZhYlY0MWdCSlhKQ2xFNktkSmo4UFJwU2thVXV6RDBfY2Q3R0VUMzliNVZLc0ZmcEpfOTRKT1VLZmZHQ25wWlZ6WE05eTgtTXZQTV9wZ0hjTVJZRDBsUm9oRExYbVJFX0lvOGhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNT3VjRnZoeV9SanFfWmFGejNKSDFaMGV4cm54Mm4yVFVCRjdpTWQ0RzdfSnZETWludzhXaklOdHEtVWg3cDMzVlo5REllWVZWbnVIN0RxTDV6WUtIenFvVEVKLWlJajF6eHZSc3ZNcTYxbk9SYXJsMjAyc0VLUXVnYzYwcmdkcVBjWnk3aXhvdWtsUDA2RHVCZmhUYm1LMG10Z21vVkxubzhyTzEwM1dvakcydXFWYUh6VTVHOGJEMjlmNG15V2o5TjZORm5PSGNveHNUVVhzT3JremdJT3B6Nk5HeFRJLTJJQm5MUnVXNnZ1bUljWjZLclNwUUl4NFNaR0Q3TnEwbmJwSGRqOW14TkppbjMzaTZRS0I3aGhoMnlYRmN2SXUwOUlEZWFuMHlxRWdjdTBJS0gzQ3A4VnR5NnpzTWI5bnlhNE9wa25rNXBobGZmRzJLMnVkdXdjYkRhVlU2STJDMEdCOXlHQUktMGY2NTk5UmhHVm5EUGZQWG1vc1ZmcVpBM2FQR2FLZTBwQW1SaTZB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -192,16 +192,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms",
-      "source": "Мілітарний",
-      "source_url": "https://militarnyi.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk5VWmh6b3VKdF9xMmx0U2FjN2x6SE1BUnpCTElOZzFFQ1ZzZGotLXFPSWl5Rk54UjVNY2hMU2RlWUdROHZ4UmVaQXVNeVBSaElrUkdLNGZLV1Atd3VCVzVEdXFYbm5IcFk1Z3ozZmNyMDExcmlXMUlsd29OazBOdi1qV1hXU2lZUTdKSHZEUlphdFhiaWVfN0tSamItbzQ4VHJGLVl1YXhaZ3MwcDNEbFVXWFl6UQ?oc=5",
-      "pubDate": "Wed, 17 Sep 2025 14:30:09 GMT",
-      "pubDateISO": "2025-09-17T14:30:09+00:00",
-      "snippet": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms Мілітарний",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "The largest investment in a Ukrainian military tech startup since the start of the war: Swarmer, which develops drone swarm technology, has raised $15M.",
       "source": "ubn.news",
       "source_url": "https://ubn.news",
@@ -232,6 +222,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
+      "source": "Українська правда",
+      "source_url": "https://www.pravda.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
+      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-16T07:00:00+00:00",
+      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian startup Swarmer raises $15 million in funding",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -243,12 +243,12 @@
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Инвестиции в Украине",
+      "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
+      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
