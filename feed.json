@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T05:54:56.395805+00:00",
+  "generatedAt": "2026-03-12T07:02:10.959389+00:00",
   "items": [
     {
       "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOM0lLSnFwZm9CLVpxNUJOTVhLSzdYWG44R2J3cWVZWUt3eUxiVUw2UmtwYmM0Rk9BNFJBb3haMDlvcVBWUGEzQlJyb3ZaMGMwYWVWekplM3h4TmZ4SFAzNjlITDV0SEJuNHNMZEJJYkp3dWl1S0QxbnV0QmNDQk4yd0ZrZnotSE9iWlVKaWxQcThmQktRN0dLWHdFbDBZT0JEb05SM2dVX2p3SGtUS3M1UTZKQ01VMmx3SFBUbERlS2JKejFXVnR5eDRjYWt5X3hJMk5uc1NKY0VXNXBINVVDTkFoYWFxUG9Dd3hfVmIzTkd6Zk1uUFpPeDlSYkx6VHRRWTI1bEJpS2RFU2FDQXhJaDdFZy1oVmNHcHpmVlFuOTI5eHBFdE5BOEk0aXg3a2VYMFRicmVERUtIak5pRFVoVl9zSWpvanQyM3FYZ0h1ZDZERHZuQmd1cXQybkMxaUUxb2JNSi1MMGxHOFNjdGZwRGpUZWhkdEJWNnRhU2Nyams5cExMbTZaQmt3YTNSZXJ2UlNUT3h3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNUzBVUUR0dGxNcElqQ0xncENwb3p3bm04ZFpHZjktSXNucUxmbFVDQVRrdVFCRlhELURRU1gyNE12QWkzcUpmM1FkVEhPX01RN2YyZnJieGdiYldVWmFTYjNWUHF2OW9NRlgwTERfN1BQQ01RdHltcWtGNkpUUGtNQWd0VFRaLU9UTTJwdi0xMUNsVDVRMnViZ0huTUZ2MnFlckZmTUxwZXItVmNNamRLMTV6c3BkR3pSdUtCRDRVRGZBQjExSzRwem40QmFaVkwySDBhTTdHek5EODVYU0xXZjJNTThHYnZaWWxEa0h4ZlBZQmhPMFZuYlVYbmp4Si1OSDVWUGpILUVLamhVMVFNNkhILU1OYm9oSW1sZklDYTFTdFlMN0xndXFXQmlwbW5uaGZhYlY0MWdCSlhKQ2xFNktkSmo4UFJwU2thVXV6RDBfY2Q3R0VUMzliNVZLc0ZmcEpfOTRKT1VLZmZHQ25wWlZ6WE05eTgtTXZQTV9wZ0hjTVJZRDBsUm9oRExYbVJFX0lvOGhB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -150,16 +150,6 @@
       "pubDateISO": "2025-10-15T07:00:00+00:00",
       "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe Defender Media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Bell Textron Inc plans to manufacture helicopters in Ukraine",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubHhuSzJqdkZUTmlnTW4xb19WbkZGcEdHU0dQR1ZBaGdDR3ltUzlyRmV5MXVjTEJodjhLTG1kM3ZLZ0QydFZBRGVsMFNNRXk5YmI5UG9SYTE1ZUQ0U2wzV0lZUXIxNGxRVkpJY01TWUc2dmJidWRIWA?oc=5",
-      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "Bell Textron Inc plans to manufacture helicopters in Ukraine Defender Media",
-      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
@@ -240,16 +230,6 @@
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Swarmer, developer of AI solutions for drone swarms, raises $15M — a record for a Ukrainian defence startup scene Defender Media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
-      "source": "Українська правда",
-      "source_url": "https://www.pravda.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
-      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-16T07:00:00+00:00",
-      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian startup Swarmer raises $15 million in funding",
