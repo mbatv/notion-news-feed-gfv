@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T10:44:27.182848+00:00",
+  "generatedAt": "2026-03-12T11:34:40.590010+00:00",
   "items": [
     {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOSzI5UE5iQmlOV0IxaEtRV0tQVnQ4dWg0eW83bW9rblFMSVEyNDJEaTNJcVVkdkZ3b08zM3lpdTIxQmZPMGJDWWV1YjdPMXFYSkM2LVRZdk5MTDNvLU1qVTJLNlhRSks1VS1OZVZIWFo0cXRUam5TX0VGMnQtQnFMLXd3ZGRTbWxHc1M5UlNrR3RuM3BkYkZfbE5iY2lycy1IV3FCVnRNVW9FcXM5d0EzTDhkVXNBV2tTRHdKcHl5bVBPd0NKa0IyTnhLWlFVMmdsVGs1bEg5ZV9RM2RIQ1NrTkQ2MmdQX01PWE9XaXBmN2poSHp5S0hFNjIzYkU2c2M0eUJUMWt2MDFXZkdPSHU3MEZSVnhqOHFQQUNfWjZrUVNCb1ZBczZldWlTS3lIM2lMa0F6M2YwSENJRHdvTV9zdlZtalMzRUoxX3VNUExiRHY1T2kwS1Z5VEcyVzNiaFNadlJ3aFQtM3ZwTlI4R1kxeHBxbWJQN0NfZGhfVXFkMl9FazBYYllkZ0NLU3dCNlFnblFmWWVR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTG1lWTlVRVNxUS1qQmdiVTZKTnhZdUdoaUNfbWo4bUszUElXSXMtWDJ3M19mSkVNTEtTMlRYbzE3dVM2bWttXzhMLUo3LVRBYXVMOFlpczNvajdPR25Tck5SNFd5OGlRRjYxNnkxYm40RWpKank0VEFwdkdLc05xTERHZW1faFRrcmQtanFLM1ZWaXFlVUk2Q3dMcnNCSlRrNW5xZUUyTG9sY3NuUC1EU05sd0hFeG1GcHk5WXhGYzdBMDdSZWxYV3oyaV84b3BtdHVQd1M1OC1JVDlNTVFGeFRVdDlBeXVFWm1JVWFFS0NqNEtINDRRYTNpaWZPQXlad1hCaWY1OEloczRHVzVxYVFPM3ViRm9HVlhZb2xKclJZYnAwUWxTbUlKMno0dnpKSGVORzN3YWo2d3h6cUVyOTBMdXJGMnQ4Z3Z0SXdLU0h6Z3YxSmNxRVlLVkxGcnFZNmdEczNfQ2oxY2VoZzFyaHZBMUp2LXJQRnRLUElrdW9VQV9DcE9KVmNKQ295cGNoa1ZpTjdR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -202,6 +202,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms",
+      "source": "Мілітарний",
+      "source_url": "https://militarnyi.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk5VWmh6b3VKdF9xMmx0U2FjN2x6SE1BUnpCTElOZzFFQ1ZzZGotLXFPSWl5Rk54UjVNY2hMU2RlWUdROHZ4UmVaQXVNeVBSaElrUkdLNGZLV1Atd3VCVzVEdXFYbm5IcFk1Z3ozZmNyMDExcmlXMUlsd29OazBOdi1qV1hXU2lZUTdKSHZEUlphdFhiaWVfN0tSamItbzQ4VHJGLVl1YXhaZ3MwcDNEbFVXWFl6UQ?oc=5",
+      "pubDate": "Wed, 17 Sep 2025 14:30:09 GMT",
+      "pubDateISO": "2025-09-17T14:30:09+00:00",
+      "snippet": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms Мілітарний",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "The largest investment in a Ukrainian military tech startup since the start of the war: Swarmer, which develops drone swarm technology, has raised $15M.",
       "source": "ubn.news",
       "source_url": "https://ubn.news",
@@ -230,16 +240,6 @@
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Swarmer, developer of AI solutions for drone swarms, raises $15M — a record for a Ukrainian defence startup scene Defender Media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
-      "source": "Українська правда",
-      "source_url": "https://www.pravda.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
-      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-16T07:00:00+00:00",
-      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian startup Swarmer raises $15 million in funding",
