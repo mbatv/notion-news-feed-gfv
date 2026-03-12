@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-03-12T09:50:36.536888+00:00",
+  "generatedAt": "2026-03-12T10:44:27.182848+00:00",
   "items": [
-    {
-      "headline": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time",
-      "source": "Sandhills Express",
-      "source_url": "https://sandhillsexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUlVYW5uOGJIdXFJdFFZdGxjWmlRS3l5X1V2MnJCdDBLZFFmYUVibTRZblhBMXg1aXBycG9janlRbXVVRVBjUXRxenhpYmE3Znd2LTBQTHYzOUMzNHM5VEtiMWFRcTFXbEdnM1l3ZHpwUG9obHNrWFNpMlZ5YVZCUEFlR2w4OV8yRlBnazE5c1ozYjlvby1UdUllajlMcW9DLXlaVmF1ejd5Tm1jbkVjbi1sUjVDZ200U1hNN09NcUJVOThxT2tlNg?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 20:55:06 GMT",
-      "pubDateISO": "2026-03-06T20:55:06+00:00",
-      "snippet": "U.S. turns to Ukraine for drone defense expertise, but solutions may take time Sandhills Express",
-      "query": "\"Deborah Fairlamb\""
-    },
     {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
       "source": "dev.ua",
@@ -50,6 +40,16 @@
       "pubDateISO": "2026-01-16T20:17:36+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "In Ukraine, a New Arsenal of Killer A.I. Drones Is Being Born",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-05T08:00:00+00:00",
+      "snippet": "In Ukraine, a New Arsenal of Killer A.I. Drones Is Being Born The New York Times",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -115,7 +115,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPcTRVUGpWZlFoeXIyWFZYeVVKanV1RVJYRERYRWh0RzJ1ZWJVLUZOdEZ2dXpCaU1hYjhGREVGb2FjZHc0dVF4cmxaOXAzSGMzdFpoRzlrbWFMSGM0VGpvTkFHVmhUN1FXUnpUbHRfdTZ6RWRDZ0pSdVBDaFBwOEpMU1NaQk1mamlleVR5em1uTVl2QlA5OS16My1CSjZmX2dWOWNfeGNNNVpwOGdKV3N5VEJLQkgzUEc0SUlySV80bGdFYzBHNG4zTXlzNS1hNlQ4SS1pOTZiMmh1ZlRFMWMxS2JkaG0wa0lvYjNaTzE2MWJ4d1FDUFZsRDBQWHpBdHNmNENCa0VoRHMzY1Zla0VwUmxtZjNPSWoyNUFEUnJTR0hRQzFLbG52RkZzeUhqSktfaGd0SUZCT0pjXzZzVUQtNEpuYXJ4MkM3Z2sxSkZkYklGYTZqaF9sMmtCVkJOd1J0WlFBMllRb2tzYUMwdVFsbVFvcUdrY0ctUkp1ajNGa29LcWdrMHI2YzRFcnMwWVdHNmd1RWZn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOSzI5UE5iQmlOV0IxaEtRV0tQVnQ4dWg0eW83bW9rblFMSVEyNDJEaTNJcVVkdkZ3b08zM3lpdTIxQmZPMGJDWWV1YjdPMXFYSkM2LVRZdk5MTDNvLU1qVTJLNlhRSks1VS1OZVZIWFo0cXRUam5TX0VGMnQtQnFMLXd3ZGRTbWxHc1M5UlNrR3RuM3BkYkZfbE5iY2lycy1IV3FCVnRNVW9FcXM5d0EzTDhkVXNBV2tTRHdKcHl5bVBPd0NKa0IyTnhLWlFVMmdsVGs1bEg5ZV9RM2RIQ1NrTkQ2MmdQX01PWE9XaXBmN2poSHp5S0hFNjIzYkU2c2M0eUJUMWt2MDFXZkdPSHU3MEZSVnhqOHFQQUNfWjZrUVNCb1ZBczZldWlTS3lIM2lMa0F6M2YwSENJRHdvTV9zdlZtalMzRUoxX3VNUExiRHY1T2kwS1Z5VEcyVzNiaFNadlJ3aFQtM3ZwTlI4R1kxeHBxbWJQN0NfZGhfVXFkMl9FazBYYllkZ0NLU3dCNlFnblFmWWVR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -150,6 +150,16 @@
       "pubDateISO": "2025-10-15T07:00:00+00:00",
       "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe Defender Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Bell Textron Inc plans to manufacture helicopters in Ukraine",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubHhuSzJqdkZUTmlnTW4xb19WbkZGcEdHU0dQR1ZBaGdDR3ltUzlyRmV5MXVjTEJodjhLTG1kM3ZLZ0QydFZBRGVsMFNNRXk5YmI5UG9SYTE1ZUQ0U2wzV0lZUXIxNGxRVkpJY01TWUc2dmJidWRIWA?oc=5",
+      "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-15T07:00:00+00:00",
+      "snippet": "Bell Textron Inc plans to manufacture helicopters in Ukraine Defender Media",
+      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
