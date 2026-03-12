@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T16:03:15.449886+00:00",
+  "generatedAt": "2026-03-12T17:51:37.548181+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -29,7 +29,7 @@
       "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
       "pubDateISO": "2026-03-05T14:14:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOSkFMT0ZKQ2NMaHZiZjRqeGw0b0gydkptQ2VVcjlwMkNzOGJzY0xTZTlWREV4b2kwMzY2YUZNWE1HQXMxUXBJdUlNem1TNUNITlFmSTRFeVF6ZjBURTY0NEs4cEJ5NjM1ZlRTTzFZSlRQNlgyQVcwbjlfZTFMc3N6WnhEdlpoeXdGWU5aTXhuaHp3eG1nZndOaTRwOWttSlpsa25TNlRNNTFSVndTeF80UHhPUVFRdW9pYUVhaUVhNzA2eFFleTQxQzg5RTJiN1ZIOWdYZFV6ZlphejdxampyNkNSSVl0Q2ZMVUZRc2tYODBIdG44SlJLbUZHcEE5QXZLekR4U0VLY0dSb3RsYThPVW1IQ2ZEU1JLTHNoa1FBcWZ3QTRDb05ldDRoeW9GLUh4Nkk0X2dEVklxZkZPd3pxaVlUV1lIS05Id1FVaTh5Umt6eGVJemlqaHZvZFU3MDd6cFJpZ3M2NHpRMjk2Q3pwVTdHa0s4al9HWjJoVWhlUkVhZi03NTJEbzZJZXpaRXRIeWVQVWNR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQeGVWQkFHcDhSZjcweDg2MlBBV0tEcEF4azk3T2JmdUFvZXFtNzJEbndDNWVxek9XQkJLYzFnc04xLXIxWnNIejVYVGZPd3NOOWtaeF9iWDBHQ2ltMnRIQ0JCdzRONHowNXotNjc5QXBwa2lTaDNrdERTV0R5bm9FV0FQRFlCeC1BN2NCVnJ1RXM1Y2pNdkFTUmJ3b2t6QU42cU94ZG9jVzUxV054UWxxbWtkU2lpQXR1N29ibzZWdzY5cGc3VU43cFhTb2hIZlJKbU80Y3lTblBhTU94N05reDRsVThnRG15YWo3YWR4cG5sVUJOOTZIb3JUTDVteEkxVmkxVUZaTVcwR3c4RERRNWtfVlN5WEZoYm9iWGZuX1hCVy1KZFJTaV9EV3R6ZGU0cGlEQ3Bwd0lURGEySkE0NjVVaTBrVEgtX2VOYWVFNUJINV8ycW5hT1NDMUZaTnBKTTNDWVZpc3ZKcWY3a1l3OHdaZ0c3eGlJT3dubU51djBhMUpyRTFTY3FWYThpejNkMjA1OEFR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
