@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T23:32:35.611129+00:00",
+  "generatedAt": "2026-03-13T02:30:00.801047+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVDFvMzN1Z1owWV9QRUU2Z0RTRjdfSVZROWhlOWc3cEpUbE10cVpmQ2I3WF9XSzhnOW11Y0JJT283VHdKVWdNa0xRV0FFVmExS3hnaEhScEJkejlTZ2dRc2VETWZzczNKaWxmRmIyU0pGS2EwenRRc0dfTlZNTmRzd1NqS2NfZk9MdjUyOGxoV2MyOWFHa2x4Z2gtak1wTkNGM1ZnaU9MLXFzRzNQT0hxLWNNZzRXTkpKdVRVQVcxbi1YX2NMeng2ZU80MGdrWTYwY1Ezemtxdk9KdGQzSXdKYkVhTVozZWstMDh0ZmFYajlmRzQ3T0hwQ2ZNUmFNSDJaZm05am9kLU1TYmJkR2d6MFd3ZmU5a3lnSTZJUTdzUWk3cl9fUTcwaTJORHJyeHBIOFpjVlRjWFlFQ1poSTNIUmtScXJHQndTSzI5eEFzSGVfRGc4eDUyRjlsSlREeDhVQUNSZW1xdUNEektVelpTUjNfQmRtYmRIWFBFYXhxMGtMaVpLdkI1X1ZxWkVBSWw5Y3RWSldB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPX0FjY2NoSFA1dHI5a1hCWG9sTGUwSlZDV3dpZHBMaWVncHNpUE42anh2dEFCRzJ0dzRScTdieXVhVDB4bzl4Vm9IVnlPaFFKTEJQblBvOC1Kd2RlWDRqVTd3QVdPRHpPcXJhVHJqTzNvRV92dDlwUFRvSTNhWDhIT2tzb1pmRVhKSm9rOTJaS1dBRk11Ni1qSDVMYkJOMlRPaXlVdEF0bXZ6X3JfVmtZejJxVFZqOXVGdDR2Y1VnMkhyQk40OVM4UVl6NnBsNmpjaEo1MkNZTUxQby1hQzFiUlB1T2lFX3ZESkV2bms4ZFBpTFZSMllFMlp6eXk3MVpxWlRPaFBBLU1hajhzejBhbVFNakdhWFVWcE12OGxYRXdQOVdrSko5LS1TSVJydzRVVXFoVTdzVlhRMzFJWk5VdEJyOWQwMUZpdmgtNTVmLXVfMHhjaTJHdUJkT2ZoTjNlQl8tNDAySlVLUENISWgtYW4wNnZUNFZBSlpFeGx0VWhBOFhwUVoxSWFJY1ZTLVl2anhNdGJn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -202,16 +202,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms",
-      "source": "Мілітарний",
-      "source_url": "https://militarnyi.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZk5VWmh6b3VKdF9xMmx0U2FjN2x6SE1BUnpCTElOZzFFQ1ZzZGotLXFPSWl5Rk54UjVNY2hMU2RlWUdROHZ4UmVaQXVNeVBSaElrUkdLNGZLV1Atd3VCVzVEdXFYbm5IcFk1Z3ozZmNyMDExcmlXMUlsd29OazBOdi1qV1hXU2lZUTdKSHZEUlphdFhiaWVfN0tSamItbzQ4VHJGLVl1YXhaZ3MwcDNEbFVXWFl6UQ?oc=5",
-      "pubDate": "Wed, 17 Sep 2025 14:30:09 GMT",
-      "pubDateISO": "2025-09-17T14:30:09+00:00",
-      "snippet": "Ukrainian Defense Startup Swarmer Secures Investment to Develop AI for Drone Swarms Мілітарний",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "The largest investment in a Ukrainian military tech startup since the start of the war: Swarmer, which develops drone swarm technology, has raised $15M.",
       "source": "ubn.news",
       "source_url": "https://ubn.news",
@@ -229,6 +219,16 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Swarmer raises $15M — Record for Ukrainian Defense Tech Scroll.media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
+      "source": "Українська правда",
+      "source_url": "https://www.pravda.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
+      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
+      "pubDateISO": "2025-09-16T07:00:00+00:00",
+      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
       "query": "\"Green Flag Ventures\""
     },
     {
