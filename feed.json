@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T18:50:15.458116+00:00",
+  "generatedAt": "2026-03-13T19:33:21.989887+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWTVPZ3BINnZ5OVV5WC1vdThSR2dtelUyWUZfTkV2UUd1U0RyZVRXazQ1ck13ZjJ5V1pWT09kdldiVHp0RkR6VjdXT3F4YkRKVjNYZV93TVpLSHRaVnVnTk9TUGFlMU1pWjAxbUpGTHdCLVhZbjU5X0QwOWg5Zkxfb0dLRkhQM3lSYUlwN2RLSlg2TGQySHJTYTlSc1A3WFN3dzdDUmdmWnR1Vng3TkZqWDdFU3UxSERTSWh0NlhyM05XOUVRT01CN3FoVUs2d09QYTJuRHZQaVZMakU1NW5XTkNEcXB2YWpHb2NFX0xmdmtLTnZhTlRSNXJwblRWdXE2Y0F2VkpoTG52aWU3ZW14SS1WMFo5NFBYUW1nVVExTTM1RDhUeEctc2wwc3I3d0F3TzRyeUV4di1qYjB1eWtvdGZKMG05NkJhak96U2dXUGhZZGxEdHlPUnpOUHI1WmNfZ1plZ0t4cFdIcTBaS2w3bmdIczBSdzZVazE0d2xtSjVTS2hXSHk3Mktab1RtVEx1QXVsN3R3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPYzZFMldwV0JheUsxUFdTRFBxbU9tTWJDVU1UeFp4Tktmbl9PSzl6NWgtd240NTBNdk1LVm9HV1ZpZTh2T2lZeHFiUVNOaGwzYU9ySDFPVVZ2YjFaNmVMd196ZmhCRFpjSHpHWmRjMG52dGVTTzkwSm5sWWZucmxNVUp0MmlOQjNDS3JoQkN6aFBhSFlTUGhURHZDWkhmVms1MDQ4dXRmZ3Fsd21seEcyZzJPZC15bDhjTXJCbFhtdzB2bFRib2NNdFpZdFhybEU5UlBLaU8tVWd6N0RNdUZEZGRlNHdubzAzQ1RMenI1WGd4eFhjcWpIa1JIN1lpNUwyX2E0X2tnRDZBYVJEZEd0Ym9kMTZNOTU3ZU5ZcG9KVWx3dzFpU01JSEdPTGpVTTVpUGxSNXVBX2ljRUYwTF8tRVZIc25KdGhVMm5iRmEzYXNhQXoyTlFmMGtQS2xKWm54cHg3Tng2M3J6RGZydXk4U1lEUExLekVNb25VZ2xScmxDYi1WMk1YQXVvejE5Zk1iWGUyTGRR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -239,7 +239,7 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Ukrainian startup Swarmer raises $15 million in funding en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
