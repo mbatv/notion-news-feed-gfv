@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T20:40:07.846525+00:00",
+  "generatedAt": "2026-03-13T21:37:39.839457+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -52,16 +52,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
-      "source": "The Recursive",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-19T08:00:00+00:00",
-      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -112,16 +102,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12emJJbElkd3ppOFBMTDVvMmYzTHVnTjJiWUJlOW9vaUs3OWhjcmxnWGNPMDZvYmU3ZTlyRWt2dkFUekd2NlVFS05GRQ?oc=5",
-      "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-23T08:00:00+00:00",
-      "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -145,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPY2J1b1RmZkdaY0U5eVZFZ0ZuWk1VX1NlLURYLXVtbTljYjNsTjNybnV4Ni1OZk9ZQjl0UFIwWXJQeDFCcWkycnRoZ09ZbEFYRHk0ZlJpbXNNVm9aWnctdENIdTBtVXNCdDE1a0VUeGo5MDlfS2dPU08zLTVfaFZWZkhucU5SaTNiUDZKd2VpcURkc3B1Z3o2RE1lci1URkViRnY3QUtkMUZIMW0xd2dsMnBxTGNfbXgyTGxvZ0x2NEpaMS1UOWRzNlhZVnQ2akJZVFJRV0tzRXlLLXFkV0tOMGpUMGlwMDFoYkFjdUx2VHhDa001TzN6MFJqTFZsZjN2b0ZNRE5RLVREd0k4TDdOWlczRzR5Mm1Jdk9WeDZGSDV2M1VDT19yRThzcTlPRTlFczhIUWZyLWdyaV90VjhkaTRjd2NJWEdpUGFXMXBCUE5GbTNpenY0bnhtZmc5bENIWjRwcHZuYVN5SXl2X3J5RDBjZFN2QnZRUnQzTUZNdG9GWG1HR3N4QWl5Rk9ZLXI2LUtaZzR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNZ21PcWpHOFBQSHBvZERoRkExU0FkUnNwWHY0ZmZvQWNoQlliX0hPMnpCcUVFb19OY3BnT0U0UVRZRzJNMTVGbXVOZ3pDeWF2Y1Q4NzIwd01kT001Ry1ZbUExVFppRFJwSldDem5fVF9xVGNfemExWk56cTYteDQ3cmVURjR3dDllWUVmMVZ4cERaX25JbnFPU1lrTjZ3OHBCUmxWVm9JWllHQVlUa0RrT1V1RzRKa00tMTBzYm9QNU5VUEFtdm5tQ0lZS2RxTUZBUl9GR2ZMQWxLYnA2VHNoUGNWSW5yQ0xteE1SbUtSMzg4b0JSbTVmcGtMTUFERTBUMnkySGJvWDd1YkpaUmxxTERGV1B6d2dGS0NXT3MwMko5cTVkallOZkJrVTdUd0U4UlNQR1JIUUo2RXo0QkptQUF6dmZGVFdONFJFZTNHOEljSm41cEQ3Wl9YdEtpSld5cnJJOUcxTDBkR1Frc3QyVzROa1JKd29Gd0lqdHlwQ0Y4dE0wbkx6US1JeTV0NHlLSTctb2Z3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
