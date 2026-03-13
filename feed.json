@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T11:35:01.227555+00:00",
+  "generatedAt": "2026-03-13T13:08:54.763117+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -52,13 +52,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology",
-      "source": "Рубрика",
-      "source_url": "https://rubryka.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5USmhQNFRRaHZPOTFSWks2SmZvWEZFNVYybjA4LXhNZE85LV9Jdlp3dHBmWXlHUjBwRV9HME1jdnpjNXlGaHd0cFdhYVVXTS1jdF9VTUllTzBxbUI2S1NQYmhpbw?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 20:17:36 GMT",
-      "pubDateISO": "2026-01-16T20:17:36+00:00",
-      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -90,6 +90,16 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
@@ -125,7 +135,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQRmtCRHR3OVJNLUtHWmNFcjdYZldoMF90b0JEQko5dEctSURMazJXeXp4anlWZUZ1LTdhU2lIM2FmOHp4N3RuVHNEbUN5Q3RmblpMTzN3aHRtTDJ0VjVKOE9oX2Q2dlRkSE5pNENEV0RtYmg4Z2NOOUFtTVdDNnozcGNEMFEzSWVpSUpTbHpGZC1aRk5QVWs1SDg4YTdfWVExYjd3dlQyYk9BaDZUaWhFRVRtTTdGZmZBVW1vZnNQdXluR1VnbWdpa1BsbXctVlcwMXlSNWdlVUZXemNKd1lLT2NQaHc5VUZtYnMtODNWT3hmM09tWjdUR0JLUGdKTEh4TDRmNHhYT3puVVh1SXhvX0dEYnJSaXA5b2M2WDd4R19HbUk1dWF5VWl1eUF5b1Q3MUtnbEpBdTRpR2NtVVItVS1OeUVKTE9nUHlDaXRWd1ZWLXN2SkF4Rzd1bUEwZGlEUDQ0cDhQdXIyN2pXZDRQV0JfaGJ1WW9yQnVjektoekdUMEVCdGdqcWdtNUt3aXRFYWVlNUJB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNSkNQZG5hRnZPX1ZpRUpLLTZxeUFieHRVMGNUZ2V5QVRyejhpUWNmTmZpMno4bzNveFNVa1FySmVSNGk0QnBpYWJDSFdESHQxdFpWZjJxNi04bEt6SFAxWVNoeHR1X0JXZmdmVG5BSVZWRE02REZicV9sRGJlX3ZMZE9VVEk0bGt6b2hJd0VudlJvVWJIVjk4ZXB0b0dPbUhvVUdoNTBtUm5VZFNpWVlJMnIxTlhyQWVJeTJPRUpYR2Z0aHBEQ0Q4LW43Wlc1QmF6eTFaS1ExUmMwRnIyMFA4cDg5cG9SMVM5V3gzdWRnR19QbVJlc1l3aFdSSkJLdTBTSVR6bmxxN0x4WURWVGdIeFAya0p3Z0RKNzRjc0NVUllmU29qWUxmckRKcU1pRjZSdjFpUE9pdjJRRjhleWtwd1RlTURXOTZuT2pzRVJYS2VYTnkxYjQ1SnNaRFhYSUZXRHoyOWh1eGFzbEtLRDZ3V1RxbGZIMlJIRF9IalQ3Z0E1NWVQUmdNa0xSczFEMTVvdko2VUhB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -143,22 +153,22 @@
     },
     {
       "headline": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0elE1ZWNVUGU2M2VBbHBDdXQySWNXQnk2YThOa3BNVzk3RjBpX0F1N1lmV0Vvd3Q0dThGeGdsVEpyV0NNRFZrbDkzUDhCMUpDV3A3dklZZFJUWG1PQlMyN3BLdm5mRElkTmc?oc=5",
       "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-20T07:00:00+00:00",
-      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups Defender Media",
+      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups thedefender.media",
       "query": "\"Justin Zeefe\""
     },
     {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qQWYwc3V3cWhURzROY0N0eTBpUWxGZlh1RXd5YUNKTGJaX1NzTTdtMFM4WmZ1LVlpZm1ZbG9VQ2F4STItZmV1YVR2TlA0UzFyMWxrcmlvcERxX1NieVpqMUxwNTlLTldkNWc?oc=5",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe Defender Media",
+      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
       "query": "\"Green Flag Ventures\""
     },
     {
