@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T22:35:28.936526+00:00",
+  "generatedAt": "2026-03-13T23:32:51.037216+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -145,7 +145,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxONjh3bEw3azlCRzlEVmJYclAzMmNCcmxnOWNpeUpaek1TNFBrd05ySDdPcFJuYnptQjZkWVp6cE9iZ05fSmpXMlZ6VjVDSk1DZ2pJSXFOQjZxaHkzSm1sNlpVR0F5bWx6Vml1S2NOY3Q2LTMxQVJ5ZzJLQ3pFRUMxMk5TaWttMUJFUjRZUnRFZThzWjVqYTVSazEyeXNMS2pFbTNFSi1DaUR4anJFcWR0OEZzenpVRy1ZQ3ZlcGd5VDJwemd3NWNVUjdmRDVWYjYwM29QZGhqUFdRZUV1eGdRbE1UR1FJOGNIcGlPT0NteHRjWVpMc2l6TWlHSnJGdGF6TGFjT2JXNlQzN0hoVlpxQThmdlQyY3JTa05hbFJkQ29ULWZZUjQ5Smhfa0RtUFFJWW15TzViUmNQNXBienZVd0paRTh0UFpqSXlobkI0ajJYUHpOZ0xwcEI0R3BLbWx5cXZxU3Q0UEtrQnA2MkVxV28zZ2JFemU3V2ZJV1ljUHNfOTVmR09xdlh0ZzVLdlJpTGtfRVNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPVVRvUmFndnZOeGhKOHUtUXlYemo3bjhmWWpMZ2ZPMzh1VTZXLUd1T1FMRWVvbllRRjZvRXEzbmV1ZTZ0dlg0RlJwdm44YUdKcmM0N3hsWldEMU1Udm56TWdKVnloVkJWRFBmdnRFdmpvYVllNVRUMlVzLTFfUU5XSEk4eEhGdkhQVE40Ukh6YXBqRmlKVDdCMExzZlJOdXFndVZMUnEtTW15TnZCNGMxQ3lrR182WXJBTVN4OF9vVHhOYVdXc1VEelhiT3BJZzJjRGhjNU5NNEdnd055NUQ4ZncxR0NPY25iS25mNGcySkgyRGUxeEdDQXU0RllDNTB3cGdBcWpPRmw3V2VwaEdmWTlta3VjNFZDRnlna2JWanc5bEtEMGlXR1FjU3pBMy0tdU82VmV3bEFROFBSbXdXaWpmTDNmY0ZLMlkwSEM2U0ViRS12VU4wZGszQjA4N1d2eGRHd0tlbWliR1BvcGRqTE9zWGc3QzNvR1YwMG5VMmh3V0hiRHVaNlZQUi1nbkdXNDh2WlZn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -160,16 +160,6 @@
       "pubDateISO": "2025-10-30T07:00:00+00:00",
       "snippet": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War UNITED24 Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0elE1ZWNVUGU2M2VBbHBDdXQySWNXQnk2YThOa3BNVzk3RjBpX0F1N1lmV0Vvd3Q0dThGeGdsVEpyV0NNRFZrbDkzUDhCMUpDV3A3dklZZFJUWG1PQlMyN3BLdm5mRElkTmc?oc=5",
-      "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
-      "pubDateISO": "2025-10-20T07:00:00+00:00",
-      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups thedefender.media",
-      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
@@ -259,7 +249,7 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Ukrainian startup Swarmer raises $15 million in funding en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
