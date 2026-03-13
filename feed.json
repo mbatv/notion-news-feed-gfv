@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T02:30:00.801047+00:00",
+  "generatedAt": "2026-03-13T04:47:44.022185+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -29,7 +29,7 @@
       "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
       "pubDateISO": "2026-03-05T14:14:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -125,11 +125,11 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPX0FjY2NoSFA1dHI5a1hCWG9sTGUwSlZDV3dpZHBMaWVncHNpUE42anh2dEFCRzJ0dzRScTdieXVhVDB4bzl4Vm9IVnlPaFFKTEJQblBvOC1Kd2RlWDRqVTd3QVdPRHpPcXJhVHJqTzNvRV92dDlwUFRvSTNhWDhIT2tzb1pmRVhKSm9rOTJaS1dBRk11Ni1qSDVMYkJOMlRPaXlVdEF0bXZ6X3JfVmtZejJxVFZqOXVGdDR2Y1VnMkhyQk40OVM4UVl6NnBsNmpjaEo1MkNZTUxQby1hQzFiUlB1T2lFX3ZESkV2bms4ZFBpTFZSMllFMlp6eXk3MVpxWlRPaFBBLU1hajhzejBhbVFNakdhWFVWcE12OGxYRXdQOVdrSko5LS1TSVJydzRVVXFoVTdzVlhRMzFJWk5VdEJyOWQwMUZpdmgtNTVmLXVfMHhjaTJHdUJkT2ZoTjNlQl8tNDAySlVLUENISWgtYW4wNnZUNFZBSlpFeGx0VWhBOFhwUVoxSWFJY1ZTLVl2anhNdGJn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQSHdLN0I4a3UtbUlldjlRWmtqb1MyZzF2dmt1bnRmVENBdHdkd29oMUQxWjRfYXRPNExONXVaSnlhZDN4ZDJHWDZNX2NVMF8tNjVFcllJT3VpcFd3bGZSVmtsMFZaR0VhZVFVSFhrcUV4enBmMlJ4UzJLdGVoVng4N3V2c0NpTlZyOXoxVS05eU43OHB6RUluYVRNNWphenVMa0lYODhkRGtNSnVxWlRfcVIyQXBfSEdnbEMzeVNYMUh6WkFrS0Rpb1RqcFlNTTlENXFpS20yUkgtQzJUamlPZ1d2QmZBUUlGNmcwSTJIVHFJXzR4ZERZeXF1VUZla1lmaHF6TWRVd0pyNWNQdFp1WDFxajEtRXd0SWdBaTRqQUstOTBPajNGc1pGT1N5alFYaUV1VnJlMk5ULWluc2w3eTNOZjJlY3h1TG9yYjBpQjF4TlltMXREQUUzUkpaUmZXWWlVSlQ4d3Jndzk2bl9ONXZmREY3MEUyS3BOMy00T1N6WVFOZFIxSEs2M3l4cXZhTENaUC1B?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
-      "query": "\"Justin Zeefe\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War",
@@ -143,22 +143,22 @@
     },
     {
       "headline": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups",
-      "source": "thedefender.media",
+      "source": "Defender Media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0elE1ZWNVUGU2M2VBbHBDdXQySWNXQnk2YThOa3BNVzk3RjBpX0F1N1lmV0Vvd3Q0dThGeGdsVEpyV0NNRFZrbDkzUDhCMUpDV3A3dklZZFJUWG1PQlMyN3BLdm5mRElkTmc?oc=5",
       "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-20T07:00:00+00:00",
-      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups thedefender.media",
+      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups Defender Media",
       "query": "\"Justin Zeefe\""
     },
     {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
-      "source": "thedefender.media",
+      "source": "Defender Media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qQWYwc3V3cWhURzROY0N0eTBpUWxGZlh1RXd5YUNKTGJaX1NzTTdtMFM4WmZ1LVlpZm1ZbG9VQ2F4STItZmV1YVR2TlA0UzFyMWxrcmlvcERxX1NieVpqMUxwNTlLTldkNWc?oc=5",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
+      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe Defender Media",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -219,16 +219,6 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Swarmer raises $15M — Record for Ukrainian Defense Tech Scroll.media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones",
-      "source": "Українська правда",
-      "source_url": "https://www.pravda.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMXBmSXVhUm15b2FYVEo3am5oQzBFQUU5cWZwTl95UlhLeV9UdkxjMWJJMjdwNjgxOVZobThwS0NUeHhOOHU1RjRsdV9jYnVpc2R6OElNZzJudy1vdU5jRWZZazTSAXBBVV95cUxPbWtLR0gtSFFHbzItT3hUWUdTU3A3T1BTbDJiVUJxcU9mbVVYcm9pM2R2YUY1UWExQjNsQWFQUkUyNy1TU0hnRU9CMVdjSG1FaGsxb2ZaRWNmLTZwYlUyU0ZMYmNudlVzSkpBYU5wNXo4?oc=5",
-      "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-16T07:00:00+00:00",
-      "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
       "query": "\"Green Flag Ventures\""
     },
     {
