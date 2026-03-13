@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T16:47:19.210003+00:00",
+  "generatedAt": "2026-03-13T17:38:50.850360+00:00",
   "items": [
     {
       "headline": "Drones and ground robotic systems are taking Russian soldiers captive, - Forbes",
@@ -22,6 +22,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
+      "pubDateISO": "2026-03-05T14:14:00+00:00",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -42,13 +52,13 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
-      "source": "The Recursive",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-19T08:00:00+00:00",
-      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
+      "headline": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology",
+      "source": "Рубрика",
+      "source_url": "https://rubryka.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5USmhQNFRRaHZPOTFSWks2SmZvWEZFNVYybjA4LXhNZE85LV9Jdlp3dHBmWXlHUjBwRV9HME1jdnpjNXlGaHd0cFdhYVVXTS1jdF9VTUllTzBxbUI2S1NQYmhpbw?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 20:17:36 GMT",
+      "pubDateISO": "2026-01-16T20:17:36+00:00",
+      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -80,16 +90,6 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
@@ -125,7 +125,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPc1QyZ2ZOZnBCcE1FMjQ3UGZHblIwN1VmVzlOUW9PRHZZSkFDSlE5LWY5R24xQzdGV3YzT2RZMTdLODNWZ3NLVmp1c1dGVTFNbzlLY0gycmRkamx4ZjNvV0pXVmFvNlAtT2w1WXRYSWdiRkRxcHBzT0R4Y3dzM3BPakpaX3pnelpuZjdyQV95TXkySFhhOWhSdGZSUG1pZ0JJUFcxanJ4a0hDRmIxbG1KV3VBSUlfTnhQa3dUcDNWU1k1OE5HQXhRdVd6dzh5S3ZOVlVhaGo5LXo2VENTSlRsdG5jZEZ6djduamsyUnZOUHVISWQ3c3BYQ2RUNm5sdk1TYjE0Ylc5TW5pUVVKQndMTU1vdjlybzZRNVhLbk44UHIzUERzZEFrTlpXU1FMb3pIMkxEZ25HZHEwRC1EWUktWjZDTzFnSmlqZndsMkNFbkFuYWM4UVVwUHBUWUEtWHpVd2JTTUQwTm42Y3ZaWnFUTGJXbm1lOEZoNUdYRllBVFlIMnpoYi11T3lnV0hPMGo5cXNSbUdR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNem5yTFNaZ0JVNXZQbWpZUWRndmF0WU4tdkFINzBIUVV1ZEVUcjNaWDhhTmQ5U0RMbU9LbDlidWctalZYQ01GZVhTUnBkSDItTTZrdjY2LTAwMWpmTUpFWGVBQ2MwcE4tQXpYR1NWYnhYN2EzWGwwSERTNDdtbjRvRTA3YnFLMHprS3FHOFo4STg0Y2pJVHhhT0ZmRVNVVGlibDdsNW1icmRQRkZSOVpLaEdPenRLRUZJQi1rQTVmYWhDVlp4aUhkT2tRRHZxbFdLU3daUDAzV0hnTTJpQnVuYWtBWi1oTjdIUGc5cjRYMjBXMDVrVkZmeE5mckc3ejBwTW1pRjJ4ZTZIQ0JEalFTYWxWRks3czlSZlBBY1JhSnFuNHlvTEpwSnVvWHM1bnJiemdHeUdfdXpkalpWRHBuRVBIaGc3QThOelZNVjRQam40V2tRT05oTWdPT1JjTDlkM1ZjaDl2ZFVQaTQ0MWlwdUZtanZkX1lBeHp4eGpCRmMxaUpPQ2xGMjVYMlltc29ycVVMVGF3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -160,6 +160,16 @@
       "pubDateISO": "2025-10-15T07:00:00+00:00",
       "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
+      "source": "The National Interest",
+      "source_url": "https://nationalinterest.org",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDRiYk94bTZnSGJTVGdZeU5EZW8wT0xaQWpxWlRfcDBTWGJqemtZS09fTGJKS0lfakhVd3REWTk2TWhTLWVkRUM3NEp4ZFk2aDkzc2NXcTVGVUZubUQ0R28wdmk5ZnRob0hFeDh1WjM5a0oxTk5JdjVPZGJhS0dDVHV2TEFWdjltOEZWWmh5cnBmZw?oc=5",
+      "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-14T07:00:00+00:00",
+      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up The National Interest",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "A Desperate Race for Drone Defenses",
