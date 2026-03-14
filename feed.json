@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T15:33:01.349889+00:00",
+  "generatedAt": "2026-03-14T16:36:47.899081+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -145,7 +145,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOYm5iUGx5ZUltdG1Fdm10OWNiRGZJekhTa1VaM3RQV25sS0Jha2pjLTNNdkotNWlYaWYyRVo0Ql9MYkg0TWFPQnlKY0hoZWpYSjJMNm9hMGJhbzhvUGwxcHpDN05IcTltS0k1ZVJpWU96NEF6S0RFR3ZYWldNT01uNzhWT2pfS1dpM0g5d0o3aF9uS3lWQWdFaVB3WXFQQXRfdDZjd2FmaFk4endnakQ4NUludGZzdXdIWVdhc1RYVERCaU1SMVlIVkxwNnJaa0VsUUd1QTZNUm1WSWtqa1EzMGpybHl2enZ5YVBWUVZsSElIUGMzYmNJVlFtTjRjRDU5bjBVd2FKMkJuMTVQcGZudE1oamFMSWZkUHpWSnlYS1hDZ2x2N2l1YmN2WGtlZHUzQlZ2QW10S084NFVra0N3eHQzSVhWTGQ0T0RCUVJfX0duWTRnU1ZvaXFTSHlEeVVSZ3RDRHhINk01U2pzb0tSUkU2NlZkTnBybkI5cUZWZGY5VGFQWXUyc0lnOWt4SXFDRW1EbEtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOdFVlTFY4b3c2ZDcwZ1pSLVlOUXM2ZFppeHlXVDVJU3VyWXhJZlZYcHRkTHhKcDNaU2kzS1NpWERzV2NSRHI3RF96SnFSekVIMFZPYWJyV0E0NUE0NHFJYUV1UG9vWjdTQ2w3WUh4TVBMMnYyOVc1ME1aOXo3MkJZUmdNbXdDQlNFNDBjbUxWb0RkcFZ4eUxrU2IzUnBORkpWdmt6U3JDQVhrYnJJU2VCTEtyMklmVnpTcTM3d1FEbWRiWkpGUGVJTG92WFlvSURsdnJMRGlmZWQ4Z1lxdzdITFZaaTNjQkh0NWszWG1JaUhpNlc0RGZqcnFMNTc3TG1TSTBvVFBlajVCcE82S2RLNmZCdzBfQm10MDVqYUFMNVo4eG5aVm5YTU1FeWdpcTBNV09XazY1TC1McE85TE5VZmtEQk5SZGR4ZEFqTDFXZlJuRkFNWG9MSkdPRmFRTEtpbFhzSGRUeTlqRDZRcVFBSHZjSTM1MWYwNmN5c1U5ek9FTUZqNUR2cElmdnM1MVI3YmFaZ2hR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -239,7 +239,7 @@
       "pubDate": "Tue, 16 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Ukrainian company Swarmer secures US$15m to develop AI-powered swarm drones Українська правда",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian startup Swarmer raises $15 million in funding",
