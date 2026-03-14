@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-14T02:27:43.558135+00:00",
+  "generatedAt": "2026-03-14T04:45:54.059663+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
       "source": "Euromaidan Press",
       "source_url": "https://euromaidanpress.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXM0bWdoMDJRMHJsZTNHcFE1MG5TZjc2WTZmbTF3ZzZrSmlKY1RnWUhmSkJYdlpXeGdqaEI4clpFVGU1RllJQ1dVU0RlQnAtaU1zZlItNFE0cG8xelJ0UzVHLUpRVFRPX3c4UkFiZjY4MlhNZWpINWNOSVNOWEhYVVF5dG5sSjc2YzhCNmRKRDZjQzJBZTRXd1FNM1U4U216Qm1Lb0tEdlNBSXVDcC0yMVVHVng2cWFXV3ZV?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 20:38:35 GMT",
-      "pubDateISO": "2026-03-13T20:38:35+00:00",
+      "pubDate": "Fri, 13 Mar 2026 20:39:10 GMT",
+      "pubDateISO": "2026-03-13T20:39:10+00:00",
       "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
       "query": "\"Deborah Fairlamb\""
     },
@@ -50,6 +50,16 @@
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-16T08:00:00+00:00",
+      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
@@ -135,7 +145,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNeEE0WTh0UTlLdEUyTVVwalNoYnBJRWhMUFdzdkpxMTRDTm9GeWlvMC0yOGdtbDc1VG00UHNVTktFaFM4Y1NGRHNzamRkc1dzU0xwMVVzQXVCQy1kVGpVRm50dFdLODB1WlE4NzZxVWM0NWhlNjZrVmljU3l0VnE5V2F6RlFPZ1YzaFV1aVNnMm9vTTZWMWNKNmMyNlBqdHlnN3VsUDI4eVotOFBpNVJNWHF6akRwYWxQMzJKQWNXREJaN19aMGMxY1ZRZmVlZjY1RWJuaE1NSURiOGxlWTJYOE5iSEo4TXFBODlrWUEyQWxlems1X3A0b1ExOXJwOGdvZ29tRWlyNkRJd0lhdVJkUVpsLW1iaXl1aENJdjI4UW5RbXNmSEFrWVdIQ1F6WmFkaDFNb0hyQmp0QWdpcUw1eVVBN2Jzc0k4U3hmLW9qVUxmWEVIcVJUeHRyYzc3bVIxaG9CWlNXYWYxa2J2WUdCaWYwREg4cWIxYy15TFh6RzNGeW5zRXZNNl9JNUo2RFlJYVd6TE93?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPemllWHNOR2VEMmdWb0N2RHpxNTRMVks3UDNWenZsRkZOekp4VlVIWllPU3ZxNU9OVi0tMXVGc1RCay1lYjktaEYybWxIeTg1bEpya1FfcVJqZTJuRHFVNnUzRjdhTjZ0Q2RVZ1drYW53WVVydnFUOGpxaFdHak5Kbnl0NXo1U3oxdFM0cldGSUdKSHB5a0hFR0pTNnRNRFFjMzlSWkktRjhHN2wtakwxSXVHU2tnOVVXMGZOQ09mcVlWVnctQ0RkYzZRcXRJRXc0cVJZcExUM0lyaThNcEhvSEFFR21DQXVYZnhLaVlCcDBOVU1iTFQ2VThnWWpEcWdxS1RZdTYzc1JKdElCVnEwYVZQM1BzVk5ZU2g2d3JrN3dPWFJ3WW1mSUJOaUVyTmdLS2xpdzE1bEMxeTNURkFiUXJTdE51YjFoU0hGNVhuSGkwS011QUZqSC1oVzJGWW03aTU2MGxvTmU3NS1qMmppaFpfY1NZQkRlcHg2akx0QlJiNkpwaER4cjVVSE5CV0ZFNXBreXNR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -150,6 +160,16 @@
       "pubDateISO": "2025-10-30T07:00:00+00:00",
       "snippet": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War UNITED24 Media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0elE1ZWNVUGU2M2VBbHBDdXQySWNXQnk2YThOa3BNVzk3RjBpX0F1N1lmV0Vvd3Q0dThGeGdsVEpyV0NNRFZrbDkzUDhCMUpDV3A3dklZZFJUWG1PQlMyN3BLdm5mRElkTmc?oc=5",
+      "pubDate": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "pubDateISO": "2025-10-20T07:00:00+00:00",
+      "snippet": "UA1 VC plans to invest $50 million in Ukrainian and U.S. defence tech startups thedefender.media",
+      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
