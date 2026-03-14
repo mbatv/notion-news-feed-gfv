@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T06:54:45.303508+00:00",
+  "generatedAt": "2026-03-14T07:37:40.343765+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -60,6 +60,16 @@
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -145,7 +155,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOUS1rYlk5QzlMV0w0eTJQbG9qZUpXM3pFV0ZpSFpoSzRZRmxRbzJDTDYtNWtkenlicUlscV9rRVJHdklONGFtZm55RmtVc0djMmkzZzJRWUdobmIzODBnZXBFbDdDYjVjY09BZ1dxeEV0Rjc5aHVERWFiSjdDS2xBbHRpMWRZT01uYnVpbXR3cVlEU0VZTzFkYWlhNFowZW9WTnRPU0NWTEQzRnQ3RElHYkF0M1NMemxJbXJmcmppbE1VS2otY3VucnFqY2JuNkpUYlpXdEZ0emJoSTN2d1I5VDdYTHh2QzBkNllzV1pkV2pGTEwzb1F1VnNfWl85dHc4QjhzZ2xXWGdvTk9QOTFNODkwODJvQ1ZGM2NHYlFBSVZUN3RrNVhaSS1rS0JFQzdYTmMxSlRVS1hQcWhMU1BjMk9RdVNPbDRRelljdUdaSkMzZjRzS0I0dFpHdDBBekJxaDhjRllZTUdKZVF0djVITmtKckxkb2tWRXFLNDdpR01LakZPOW5GT1lPdk0tT1U5dHhuM0lB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQZzJXMnNDNFp4cGhaY1ZQRUR4UmdMT05fWHpQNHlCeXpMbF9aMWJ4VUgyczhuRFkyamgtbmc5ZGVZaUpMc00tNG94Wkw4ZXNKdXFvMUxhUW9WR1VrczdZcllDTU1vc2hPZlJBZUQ4UWlKWXNxU21qN3NEOS1qYWxqRlhmVFQwdHdMSE1NeGd0RjZfYUhZVjJCMnNhTlN0T1ZYRjNSdF9Td3duTXgtVE5jNGMzdWVxVC0waDdsUlg0cHE5SE15V0VZb1phamowQVJfbGhyNkZDMHZwZDB0TjhWZVVFdzlaYS1LLUpMY1Y2VFRONVhEMjNnaWNKdXdhRm9mSFFabDlUNzVHdWFIanNfS3NhRi1hYkxxUGFnaTdEREozY1pzQm5qRm5KR21aeU9SZ3BvblUtNl9wOE9BVkRsaTRmaW9KNHZxX0VNaERuZE95a0haX1E5Z2RnWGJkRS1qOUFGTDR2S2p6eUJISWc2YWZ6b2hNOWxFU3U2SEFqYkxhaU1Hc0g4dTNRYzdKZEhEdjF6RXBB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -260,16 +270,6 @@
       "pubDateISO": "2025-09-16T07:00:00+00:00",
       "snippet": "Ukrainian startup Swarmer raises $15 million in funding en.ain.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Инвестиции в Украине",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
-      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
-      "query": "\"Green Flag Ventures\""
     }
   ]
 }
