@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T05:49:55.384241+00:00",
+  "generatedAt": "2026-03-14T06:54:45.303508+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -13,12 +13,12 @@
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmIyeXVXaEFtbmIzTEdfa3pWQ1RTS0tELTlWYmlFRWFURkt0aENITkQ3akRBejlpTWJPY1JrNnZHbzVyQUNjcjktTW5BRjY1aTlibUdvOUNHbmtfX2Z5dUhBUlc2RGg2LXR4cUx0OHpxZm51Z3NpVGx1V3ZOMDJ4d0hjLWw3LUZLRkZNbHVlV0dRVnhmOFM3TFhvZXNFUzRLeWhSM05mQWZKMUdmaVlwUTd3cjNNSFRSNjhGRlIwSHAta1B6WG52RQ?oc=5",
       "pubDate": "Fri, 13 Mar 2026 10:07:00 GMT",
       "pubDateISO": "2026-03-13T10:07:00+00:00",
-      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -60,16 +60,6 @@
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
-      "source": "The Recursive",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-19T08:00:00+00:00",
-      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -155,7 +145,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQQmlyTWRoXzNQVjhFbmtlZFV3cU45YnE5WldKOEZJbE1JeGRvVGNKSlNyQU9IMkNMYUJmYzV6Nlh6V1J5TlZHV0EwY0ltTExhaVhHMUR6OGVLcllJaVQ3anhXSjlPTTMxN2RDMzBNSUVXOWI0ajZUQkhQLUlxMkJqVEdzN1U2WnN1WnpiT3hNQVpPbURDUk4wVkIzSGk0LXhpc2pTSTE1NWZURHMzVHV1WWJ1cnhRQlhzWld6RjlfQlZ6Y3R3NF9HakR5cGwyTVJ0ZGx4S0VncVRuQkNwUUZRRC15b2o1anRKcWk3RVpmaVpsWmhIUGpsVjJyMXV3NXZ6S1czbkU4dkhYRWt6QnptSV9ROVlnNGs4Nk0xZzl3RnNyM05HeEJuRGl0UThmc1pMMVBqS0hUWnMybUJwTDQ0a3J0cEcwd0ttdUVka0d1UVhmR1Q2RWRkOGNCd3BhcUVnNnF6YTJaNHAya2VXUnUxaERSWFdxTkRKSkllLUo2VGUzclZnRHVjVVphSzRZVkR4N3JwRzVR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOUS1rYlk5QzlMV0w0eTJQbG9qZUpXM3pFV0ZpSFpoSzRZRmxRbzJDTDYtNWtkenlicUlscV9rRVJHdklONGFtZm55RmtVc0djMmkzZzJRWUdobmIzODBnZXBFbDdDYjVjY09BZ1dxeEV0Rjc5aHVERWFiSjdDS2xBbHRpMWRZT01uYnVpbXR3cVlEU0VZTzFkYWlhNFowZW9WTnRPU0NWTEQzRnQ3RElHYkF0M1NMemxJbXJmcmppbE1VS2otY3VucnFqY2JuNkpUYlpXdEZ0emJoSTN2d1I5VDdYTHh2QzBkNllzV1pkV2pGTEwzb1F1VnNfWl85dHc4QjhzZ2xXWGdvTk9QOTFNODkwODJvQ1ZGM2NHYlFBSVZUN3RrNVhaSS1rS0JFQzdYTmMxSlRVS1hQcWhMU1BjMk9RdVNPbDRRelljdUdaSkMzZjRzS0I0dFpHdDBBekJxaDhjRllZTUdKZVF0djVITmtKckxkb2tWRXFLNDdpR01LakZPOW5GT1lPdk0tT1U5dHhuM0lB?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -273,12 +263,12 @@
     },
     {
       "headline": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEVaYmxkemVVQ0JTd2tQVXNUcnlZSEs0aE54amhGWGFmUXhmVldxU1R4RUVrVl85S2poWjhYQ1JYNUgzOG16NzNXZEh3cFZRX0g5VU41Zk4wV1lqN2VQV2lJTmxmQnRsdjU2UnRLNy15RHM5czVEek9KSlkzdGZDdm8wRmpvTFZDeDcxSlBERktFM2FHWWViVzM4Rk5HUFA0UUc1ZWxudUZTSkppMEEyeEJBUVgzbXFHN05Bag?oc=5",
       "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
       "pubDateISO": "2025-09-15T07:00:00+00:00",
-      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian Startup Falcons Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     }
   ]
