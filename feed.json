@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T10:57:31.119276+00:00",
+  "generatedAt": "2026-03-16T11:53:00.321495+00:00",
   "items": [
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -69,7 +69,7 @@
       "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-19T08:00:00+00:00",
       "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -99,7 +99,7 @@
       "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
-      "query": "\"Deborah Fairlamb\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
@@ -155,7 +155,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWndXbms5WFUwNDhnbGV6NUZQNnNDVGVrblF4MnlrTXZnQlFCMHlkdC1SUm1RVTQ5WkwzRFJpbG5WaTVxTlQ4TG8zaHBab2gwQ2ZCUnktaVNTc1FvVEd6ZDNTLTlUSmx1MVAwaTZhNXlkQ2FLaW5YWkcxaVZ0MmRUcjdTdnZIcGVBWTJLeUdUeXc0QWVuUkw4WnRJOExYeUlDUFRGbGh0S25DcVVfQU9IX0hJamVVNVlQWDF0dmZWdHpiakcxdFNfaWhUTVNHWVU5Z3VpYlg5bzRhR1dIYndvUzhkRDZVR1NUWnVDV2Y3RkdlV0lVeTBfRWQ1dm5fTF9zWVBvdXRfMU5ZUVpGOGs2WkNJaGlyUUY5bVVLZWlJXzdDSlNLV1VYU05PUHcxZWVBSnF4SFZaclMxWXhsVU9PSDVBY1RPc0EyMTc0b0lMeGJKMzNBT0JSbHZPWTVVUHNLZTRGbHJDM0FiTXZSSDNjZnZRNGpXSzZ2eDFmanBWcmgtSElmNVdiNnJ6V1N3RzJUN0ZSX0pn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNFZjVnlOYnh2Rk40dmh4NVA5MUZoT09sRXZBNzEwVHRGMncyOUhjTjR1UWl4WV96XzZnX2lrUnZZZ1FMRGhJMzlDSklyMEMxM3d0NVFWcEk1U3NMSnFWaGdERTRQU19uNUVKdlYwTGVjUEY5OVdlZXRYdE1XRnVTU2ZzTjN3TVR0dVNjdHhEajgtd0E2YVMtdW5CU2VNb3JNQlEycDZTNkFuRmZHS3NzYllGVlpaS1MtWGhEdlA5ZlctNU5VdDNjWWVOS2w4N2NTY2ZzWE4zSFdJRWZBeU5BQ09GeTV0ZE41OHNwOUlTMUlNNVU1UnBwdjR3WnlOd1pGSXhGekk4MkZCWXZ5N041ckZ0eFM5UkFSRHZHMjFVSXhkcVpDVjVYaFlGX0JXb1pmOG1ENXdzWGIxaHB3OUFsYU5naHU2VlBXMVVIM1V4WWFDRldDNy1jMEtHUXBMeVBBYUJTZ3N6NUFJOFpCYXhLa2h1N1l6VTBGck4zWmVuS19Kc0xSaU40SldvM0dBR3dsNVFIVXN3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
