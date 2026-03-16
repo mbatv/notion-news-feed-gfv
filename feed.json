@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T20:42:37.017900+00:00",
+  "generatedAt": "2026-03-16T21:44:37.853369+00:00",
   "items": [
     {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
@@ -112,6 +112,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -155,7 +165,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPdmZyc1dPUmU5MXA1M1FWdnlOX29aVWdGaFIzSnVpUUc2blAxVFVlM1JvLWpoVGJfb1dFRnoyaWJEMElhRnhKa2xFSW1NbGROSTVUUUpNUU14RUp1SWdLR09vYTRiVEhyYk5vc3FHTjAwWjRGLVVYR2xqWFBpUnFUTkFhZ3VWdW9EWTlpbkdHSHlDcDd1MV9xRXJFc3NwQld6WTNWNWVyWTRaZG50MncyZjBGSzFWQVAyZ2ZCSnJGZURNX09RVVgycEMwY1BuTm5USWZNTDFTNTd6NUQ4eDNfRVRURXlKQ1Uya1BHYjhuVTR1UlBlQzdZTVhPTmFJY3VwQ2VXUzg5N3BfcHp3Tkx0TGlrMFk0dTQyeGRZdS1sQkFmcTQ1c0RFWDh5eUVVckpRZ2VieFhaQ3dTNzRuMGdQOTMzZ2h5NUFsQk1RZTRJaF94eWQwQ180aUhmazZsSXNTd2RsUjNNdG90V05Pa3Fub0Q3OFNDMDZXbnlEYVZRZHZCTVVOUWhWRGlzMEpzbWRSNFh3T013?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQNmx4QmhXUUxmTXhGLTRJWDVvOGdfVkVqdEg1WkNMbEFwbW5tY1ZKdXRqOXczMDVlem02Y3pnVnBKVFppYXI0UjQ3TWFlS0N6Yld0Zm9Fa0E0bUpjZHBiTGtpMDBjc3B2by1GS0IwTUhxa0xJTDEzaXJmd3NnYUZHa1NwUWVtME5Ya3E0cDVVa0FkVHIzRXlsM3ZVLXdHQlJGRTF3R0duR3R0MzN1ODI3Zkh2VlJSZ2VFMThhNm9kMlJOWFhsNHhQTXliR0tqZlBFUkl2QTNRV2MzS19oLXV1TGlYQ3EwQlNfR1dweUZySUMwQW11MFVKaEJGSmFZSnBGSTE5M1o3bFp1U0ozV2dhSzlFZ0ExSFdjU3Y5S2RfRGJ6U09YLVh2QUpKQTA1eFFnWllXSFZELVNDT3lyenFlLVNnU2dKSVY1by1wN1lyUVIzUkNwRWhSLXdDQU5JeVl0MWVic2RHdzQ0dC1PeFdWeWJhTFlPMUpuYWRYRlRpcWdUUUhoRzVKUFkyUk5uQWp3NWQ5MTF3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
