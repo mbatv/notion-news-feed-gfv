@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T19:08:26.408245+00:00",
+  "generatedAt": "2026-03-17T20:44:10.192142+00:00",
   "items": [
     {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
@@ -9,7 +9,7 @@
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
@@ -35,7 +35,7 @@
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
       "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEhIemJpLWEwM2QzaGctWW9XYVZYV2tjdW9Vd2RJbk5qaXB4ZWFWcGdiTDlENXZrYkdlSnZ6bHU5WXNkNkZKT0xULXRFSUNlYU1vQ3RGOG5HVWdNNVk3SGdyNjdCbklpLXdkaFdJaU05Rmw0aXR5V2dsYklBemNlbEtETzIzWXZKa0RxZVBvWEJhanBmTkRWRHMyR2o5cUxURHo3a0xpSjVWSWo4bHdlRkRvQjBreWxFckkxRUZqTUdTcmZJV1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmIyeXVXaEFtbmIzTEdfa3pWQ1RTS0tELTlWYmlFRWFURkt0aENITkQ3akRBejlpTWJPY1JrNnZHbzVyQUNjcjktTW5BRjY1aTlibUdvOUNHbmtfX2Z5dUhBUlc2RGg2LXR4cUx0OHpxZm51Z3NpVGx1V3ZOMDJ4d0hjLWw3LUZLRkZNbHVlV0dRVnhmOFM3TFhvZXNFUzRLeWhSM05mQWZKMUdmaVlwUTd3cjNNSFRSNjhGRlIwSHAta1B6WG52RQ?oc=5",
       "pubDate": "Fri, 13 Mar 2026 10:07:00 GMT",
       "pubDateISO": "2026-03-13T10:07:00+00:00",
       "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
@@ -79,6 +79,16 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -175,7 +185,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNOENwYkVVc1FlZWkybTZmMVdPV1g2WlZOWmIzLV8zUmZNaXlGNUR4UGliOGhCMUpWdlYyeXdkMkZROF8zdE1rQ0QtMVFFOVRXc1NsQ3ZGQ1ItVGt3cklyQ2NOdzhDMDdMQU5FU2dsMnNEelc4c19jXzZLRVh1NTI4N1B3RTFYc05HUHRSdzlxaWJGTHhZY3NkSjQ2SWNQLXVxTHZTQUUta3hzeG1fZnViSElzdW1ZSzV6S3NBVWNGX1FZR01mY1M5a0ZvcHYyZ3NGUkpFV1JxTnhaMGJqNlpzSV9rQV9hZDlHSzhsOXg3akFZcUYtbWRYeGVOT2pNYkZlNXlLVldMdDItbU84MzRDX0YzQjc1SzNMeWZRRXRQamVKTDh6ZzNjVnZiRnFnV0NaSFpJT1JFTGZTenVoSlBjRzd5NzNPLUNPSXdxb3FDNFNqMTBDLWpQLWJ0VW5fZWpIYWdkR3NXZzBkemhxbXF6NFVnMktBRXAwNzFlX3BEaDFmc09SNHR4N2FEQ2dZVUM1Ump6M1NR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNTkhTUEpuTWI0SUMzTkVINVN6aVFmSzVQSjFVTDN5ZTNjT1NjM3V2Vml4MmFDM3NFNFMxZTFZZWpsYTVTMlRVTTVoMjlCY1F3c3V2VHFoWHNGbW5nZGg2blFFSnhOYTM5VGEwRFFaVWlPNEI3TGo2MDYzVEVGbEVJMmJOVW9LeVZFQXhrTFo5aDYwQWQ1VnZFdUl1aWdxT0ViQjFLRWt2SmpLQmQ5VlhSbkRXV3JJZnJ0TTNrSnhwcnE1MURTaF9jVF8wTXJQLTE3RkNDRUZrLXNJazlXa294STVuQUNpdWNjWmlGcTZNOW9VTzAtY29RZUhNX1FMX0t0WUY5T1lrZXplZTBhb0ZrYWtTVGlfNUM1NnVJUW1pY0FNWXNQNndJWVpqNmxnZUwtUVV2Q1RZbVVqVE1faVotZWVzLVBIYThGaTVObTRtb1pPcWVwVDNZSmdCaVRweDhzNkRBUV8tTklhazRzR0RybFE4Tl94X0ZsNnZ4dkRPdHU3M0EwV054WURoZFdtWHVLRXllMzBR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -193,12 +203,12 @@
     },
     {
       "headline": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qQWYwc3V3cWhURzROY0N0eTBpUWxGZlh1RXd5YUNKTGJaX1NzTTdtMFM4WmZ1LVlpZm1ZbG9VQ2F4STItZmV1YVR2TlA0UzFyMWxrcmlvcERxX1NieVpqMUxwNTlLTldkNWc?oc=5",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe Defender Media",
+      "snippet": "This fund is helping Ukrainian dual-use startups go global: interview with Green Flag Ventures co-founder Justin Zeefe thedefender.media",
       "query": "\"Green Flag Ventures\""
     },
     {
