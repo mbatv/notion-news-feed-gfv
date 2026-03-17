@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T02:31:53.736669+00:00",
+  "generatedAt": "2026-03-17T04:56:06.366706+00:00",
   "items": [
     {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
@@ -33,12 +33,12 @@
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "Инвестиции в Украине",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEhIemJpLWEwM2QzaGctWW9XYVZYV2tjdW9Vd2RJbk5qaXB4ZWFWcGdiTDlENXZrYkdlSnZ6bHU5WXNkNkZKT0xULXRFSUNlYU1vQ3RGOG5HVWdNNVk3SGdyNjdCbklpLXdkaFdJaU05Rmw0aXR5V2dsYklBemNlbEtETzIzWXZKa0RxZVBvWEJhanBmTkRWRHMyR2o5cUxURHo3a0xpSjVWSWo4bHdlRkRvQjBreWxFckkxRUZqTUdTcmZJV1E?oc=5",
       "pubDate": "Fri, 13 Mar 2026 10:07:00 GMT",
       "pubDateISO": "2026-03-13T10:07:00+00:00",
-      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Инвестиции в Украине",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -79,6 +79,16 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-16T08:00:00+00:00",
+      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -162,6 +172,16 @@
       "query": "\"Justin Zeefe\""
     },
     {
+      "headline": "Texas Weekly Deal Highlights",
+      "source": "Texas CEO Magazine",
+      "source_url": "https://www.texasceomagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyNl9pZVhxUkZiYmRyYzFEN3E2b1I1SkxDa2ViZmk3N1pUWjQ4Z0tWNlBtV3hEUGY5M3hXU2JnSVhCZFlpQWF1Nkc4N0YwZjZmamRxeTJkS2YyOEsxZmYtZnRmNWFvLXk0Tnh1bHFaVng3dFdYSUE?oc=5",
+      "pubDate": "Sun, 09 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-09T08:00:00+00:00",
+      "snippet": "Texas Weekly Deal Highlights Texas CEO Magazine",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West",
       "source": "RBC-Ukraine",
       "source_url": "https://newsukraine.rbc.ua",
@@ -175,7 +195,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNMmYyVnJWZjFlOVB0WTd5T3ZUVnhocXF1VWtaSF9aMVBzclQ4TFdzQldWM3BXZGpIUG0xNU45UGh0MjhpVk8zWGpJMTkxQXR1eEg3ci1nV040ZGlfNEt3NHBWRHpKN3RhdEczU2RUa25KdC1EYmVuWmxiaVBTQXc5T0NTUzdTMk9lNmN0Z2xjeWgzU1hxM2RZU09fejhOblE1TkZsTThoUWxRVEpkMV9fZkFoLVctTUt2YzVMSThIeU1RRGZqN0loUFhEVkJjaDJpTTFla05jczlkdW9pM1Aybm1pVldLUG9fQVhVeTBTTGdodU13elljUHMtMktteXhFdktNNlhlLVp3VUxtLUpkNjhRd0ZxM2d2eEtQTHJpdmZtOFRHM1Z6Rm5kVm5feHVIZVk3NWhfbTNyNGZWdHdVWE5KT3J1Q1BSNENleXhPVlM3V0pxTmIyaU9oc2psNDI5UEdsRFpvQ2txMDFiaVdNWFh5US1zM2JuT2F2VkJxR283bGVqVVFmSFR2bHVBdko3QXJUbWRR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPa0RDZXRzSURJUXFYLWdraTdKNnVNdGdmMTBYR1cxb0FQdXdzQkVzcG4ta0pfUVYybFhvd2xNUlVkNFNRNFJEOEhaQXNQa3lYOUdfaW5qaWFoa3BER1ZISEhsSk15bW1pWFdob3dyLXdubGpyUE1iQk9BczRwZFRBamZDR0laQlVyNm9PSHlILTBzb29kMHZEMl9kcGRKYVp6RDdXS0dBTi0zYmNqRWl0MGJ0LWduUnpHYThYWjBPWkhXeWNLVEpJMFBQN1ZQRnl4N1pKbnZOclpsQTVTeVBKbF9HbU9fV1JfcGprWVVfQ0pVbThfN1g1Um9rT0x6X0FQOTVVNXY1UUhNc1pLeHRoSDJNVzFIMnBGbUQtWWVUcDhFMm1WT1VPNGhMWmJIa1Z1VDA3bHc4MXJWQ05Vem82UTNzSzZhTDVzbHZHSkVKamtJS1NkVDRFVHhZVXR4bFBlYm9tUllhZDNYTkVFR0R1WVpOR0VkX1ZhWDNuMW9hX3lGcXpjX3hzWnRMWXZLZDYxemZZWW53?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
