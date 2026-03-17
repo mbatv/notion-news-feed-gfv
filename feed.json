@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T21:42:17.987996+00:00",
+  "generatedAt": "2026-03-17T22:38:12.358926+00:00",
   "items": [
     {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
@@ -9,7 +9,7 @@
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
@@ -79,6 +79,26 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "HIMERA raises over $2.5M for secure tactical comms",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlN2M0VvYzdJd1RFOEFyN1NFQkR6RVl4WUNtMk1Zbkw3MTZaUjN3cXM4eWM0VElDbVE4dUVwX3NNcXNycnA0ZUNDalZoTHhCVnZTMVhNdk0zSXZZdmh2WVU5MmVEZ29ramppNHg1R0JXVk5CbGw4V0tfNWNUNzlxSEU1MA?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "HIMERA raises over $2.5M for secure tactical comms Resilience Media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -175,7 +195,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPNThyVW5RUVNfczQwNnNkdFgtOW5fQkdtMmUxUGpvYUppYUdaS0V6QllidEV6VmZQWk1hSWRYZFdlNWRzanlkb3Z6anRSSl9zbWtRdDQ5cWM5d3NVemxPaWJhMlA0TzNRU25Qamp6SmhXNU1SZnZBT1FWbUo0U015Szh0OGRBbkx6d2JxdExaQ284Qkw4aVJZM0FQM29QVjZsdnM3RTFRYkNWX3ZlZndHSE44OGp0blVLWi1vcGxYX3NaZnF4Ml9FV1U1MG9aNlBWRThMWXB0NE9rWHd5NURrdkxpV3pDZHZQdmwzYXQ1amVlZk9GT0VTdWVZZzNQclNBVEVfNWJwVDdXcEhDSW9IaDBlbG1BVUpwSlRUZUpDOXlCSkVSUDBEaUdGS2FSYVM0S1JqeXhRUzZsTjBqbklSQVZKUkFyaTQ5SkVJSVNRbXg0dEIzOFN0ODJFcmpIQ0xVRVNYRTdVbmRiemxJSTdQbmFXenplQzZsLS0zajBxRy1NQ1ZxcEFhRjZtRVVGR2ZkQ3R1TV9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxObk1nT1Nta3N3V25wNlc1eG5QeU5QM3dEWU95VXF6UWVKcElHWjU5eWZ1UEVfZXFKbEVXSHc2RkNfUmVzQm9hd00tREVwVHZEN2JZQWZSNTR2UjktZ0VTMGhnNmpxVHRGTnNmSzN3ckZYaUtTeEoxZEE2emFHaFI0X2VIT2tkNU9wZzlUYldLWkRVV1VNNmNkbEgxUFF2dkV6ZjUza3pGdlZJMDBTZ2FHb25Iclg1STJJUzZlOGZrZ2FNRzZYbm13blV6ZHdYNm0tQU1UNlZrd0V0RkllSjl4NG1hT2xTMURCTWVSMHJoblZsOHphS0dDeXExVENMUUljYmdTcmZJSWVZNjdDd2NEUUlwdXM0bDJZYXhmUHFsT3p3dllJZ0Zta3kxYzhBQmR6d1F2dWt1NkJMMk0tSDVNOHVtZDRPOGk0b2wyeGJZNTF1ZWJYTGhpc2ltcWNlb2VRU1F0b0d2UEpPWEJkcjRBcU43NGV2MHc3aV9EMUxzTE5KWGRHTWdkWlV4em85dG5CWmJEcG9n?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
