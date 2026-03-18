@@ -38,6 +38,8 @@ jobs:
               '"Green Flag Ventures"',
               '"Justin Zeefe"',
               '"Deborah Fairlamb"',
+              '"Swarmer Inc"',
+              '"SWMR" stock',
               'GFV -("gross floor value") -("good faith violation") -("gross floor")',
               '("Green Flag Ventures" OR "Justin Zeefe" OR "Deborah Fairlamb" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)',
           ]
@@ -110,9 +112,7 @@ jobs:
                       "query": q,
                   })
 
-          # ── PATCHED: deduplicate by BOTH url AND normalised title ──────────────
-          # Google News returns the same article with multiple redirect URLs
-          # (e.g. rss...B?oc=5, rss...n?oc=5) so URL-only dedup misses them.
+          # ── deduplicate by BOTH url AND normalised title ──────────────
           seen_urls   = set()
           seen_titles = set()
           out = []
@@ -126,7 +126,6 @@ jobs:
               out.append(x)
               if len(out) >= MAX_ITEMS:
                   break
-          # ── END PATCH ───────────────────────────────────────────────────────────
 
           payload = {"generatedAt": datetime.now(timezone.utc).isoformat(), "items": out}
           with open("feed.json", "w", encoding="utf-8") as f:
@@ -373,7 +372,7 @@ jobs:
           with open("feed.json","r",encoding="utf-8") as f:
               items = json.load(f).get("items",[])
 
-          # ── PATCHED: collect existing URLs AND titles from Notion ────────────
+          # ── collect existing URLs AND titles from Notion ────────────
           existing_urls   = set()
           existing_titles = set()
           cursor = None
@@ -387,11 +386,9 @@ jobs:
               data = r.json()
               for page in data.get("results",[]):
                   props = page.get("properties", {})
-                  # Collect existing URL
                   u = (props.get("URL", {}) or {}).get("url")
                   if u:
                       existing_urls.add(u)
-                  # Collect existing title (normalised)
                   title_parts = (props.get("Name", {}) or {}).get("title") or []
                   if title_parts:
                       t = (title_parts[0].get("plain_text") or "").lower().strip()
@@ -402,18 +399,15 @@ jobs:
               cursor = data.get("next_cursor")
 
           print(f"Existing in Notion: {len(existing_urls)} URLs, {len(existing_titles)} titles")
-          # ── END PATCH ────────────────────────────────────────────────────────
 
           created = 0
           for it in items:
               url = it.get("link")
               title = (it.get("headline") or "Untitled")[:180]
 
-              # ── PATCHED: skip if URL or title already exists ─────────────────
               title_key = re.sub(r"\s+", " ", title.lower()).strip()
               if not url or url in existing_urls or title_key in existing_titles:
                   continue
-              # ── END PATCH ────────────────────────────────────────────────────
 
               source     = (it.get("source") or "")[:200]
               source_url = it.get("source_url","")
@@ -458,10 +452,8 @@ jobs:
               if c.status_code != 200:
                   raise RuntimeError(f"Notion create failed: {c.status_code}\n{c.text}")
 
-              # ── PATCHED: track both URL and title after insert ───────────────
               existing_urls.add(url)
               existing_titles.add(title_key)
-              # ── END PATCH ────────────────────────────────────────────────────
 
               created += 1
               print(f"  ✓ Row created | PDF: {drive_url or 'none'}")
