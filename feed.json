@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T08:50:32.469016+00:00",
+  "generatedAt": "2026-03-19T09:51:36.776708+00:00",
   "items": [
     {
       "headline": "Market Movers | Winners: SWMR, ARTL, AIM | Losers: CREG, VHUB, CING",
@@ -62,6 +62,16 @@
       "query": "\"Swarmer Inc\""
     },
     {
+      "headline": "symbol__ Stock Quote Price and Forecast",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3dXZJdy0tcUQwLW1rRHBoUnRsRnQ0eEFSeGlva3hUTWduTHNaMllrR29pTHFCT1VZOUJrY1A0ZjZmd3JBV3BwWU5KdkJNRjFS?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 21:15:23 GMT",
+      "pubDateISO": "2026-03-18T21:15:23+00:00",
+      "snippet": "symbol__ Stock Quote Price and Forecast CNN",
+      "query": "\"SWMR\" stock"
+    },
+    {
       "headline": "Swarmer Stock Cools Off After The Close Wednesday: What To Know",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
@@ -72,20 +82,10 @@
       "query": "\"Swarmer Inc\""
     },
     {
-      "headline": "Tiny AI Drone Technology Company Surges 1,000% in Two Days",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDVGU3FLTnRLTHpWNE51ekxOLWFybF9ZMWNsMFoxS3VLY0owcGFyS0UxQW8tNHpxVmVsREk3a2dkbVNkeUp3QXhVTW9mTm1zaWZzLXFsaEZsbWdRYnRVbG1PLVJnaklLOXlHNUFPRHRES3hpZWJaamtCcUVIZURBajZVRXhURlZfcFN4WFg5amJ5Z240X2dUb2ZRYmFxbk1FWGxnMW9TcXFEeC1B?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 20:19:22 GMT",
-      "pubDateISO": "2026-03-18T20:19:22+00:00",
-      "snippet": "Tiny AI Drone Technology Company Surges 1,000% in Two Days Bloomberg.comDrone company backed by Erik Prince surges 500% in Wall Street debut Financial TimesSwarmer’s stock surges nearly 1,100% in two days, underscoring fervent demand for drones MarketWatchSwarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today Barron'sDefense tech company Swarmer goes public on Nasdaq after 100,000 combat missions The Business JournalsWall Street is betting on Ukraine's drone technology CBS NewsAI Drone Software Stock Jumps 520% in Best IPO Since Newsmax Yahoo FinanceUkrainian DefenceTech Company Swarmer Shares Surge Up to 10x After Historic Nasdaq Debut UNITED24 MediaSWMR Stock Skyrockets Amid Strategic Moves and Financial Revelations StocksToTrade",
-      "query": "\"Swarmer Inc\""
-    },
-    {
       "headline": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQNVFfZ2NSYklmbjNyUmhjb05lcDR4X0k5YUs0UzZqWkctN0dfSjViSXktZkZGSTdaNzZ0UVg2aFFOQWVJY2p5dXppVWdvNjRkdDhJeTJ0U002RzV6d3g3WGdFYUFqODI0VU1hLUdPUWkzRHE0azgwZ3M5YXZGSW9BbTU5WDVMdFJjY1lMeU9EeGswbS1BdVZ5ZkFaUTRpWXpiTmJhVFhOOTdjd3VDdVdlRm8xaks4Y1NldXp4RFg5SnVUTkk5YVpPZFZkd1lxbGRycGFGWWtidmxvdzZYRXJ3cUxCTTlSNHlCYWZZenJOMmViLXJ5WWxiZjVnTXh0N05LQnh1czhUcjctZVpsMjJKMFoxSHUzaGxjYUw1S3p1a21kWWFQYXpvbTZoWlFWZzVzNFd2Vm5McmZYTnVJYWEtcTJuUzdwVXZQaE9DV1ZfVkNJQlBKS3JuaFNvU1NNWFFfWjBSci1fTE15bUx5Nk5JR3JYM25HbjBmWTRhX2Jma3g?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbm91ZWxDSEtsVzc5Q3ZGR0JLNHh0VWVoMzdPUmt4VUdhcEhkWVQxYU52Mm9VSHl0OG5ZcnkzM3BBbkJ5ckVEd3owQ0FCVW9MSlFReTlkZHhlU3pnMkNEdFFrVTI1RlhRdk50QmtBMWpHQ3FPaEdZME1NOUFEYVVhMFloZXlackFMRzlSLUxvaEJPd202ZnhwcFRocWwySzkyQmhneVJIX2xzaWtlbUQ0UjJXVjRqREdVVFI4VlYtX3pjcHQwT3lCVVI1cGhtRmdIMDFrMURzeWtIZ1h6MGVlVVd0UGtYSXd6SUNNc05nMFhSNmRjTFlNMm4yWGZ6eGFvbE1JOWFQVmpNb3JrNUhfR1hIWWoyajc5TmNVNmJwTXJUUXdseEU5ZURfSG5MeVphQVhIMkZtN3dlbUVGOHFQZXVtb2IyaHpVd2QyYTU5d0tMZnpEYWxycUgzQTNKX2RKZS14SUJsSlJhQ3p4WkYwU0hKRUdYS2FmTEZCTVU4NTM?oc=5",
       "pubDate": "Wed, 18 Mar 2026 20:15:00 GMT",
       "pubDateISO": "2026-03-18T20:15:00+00:00",
       "snippet": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today Barron's",
@@ -152,16 +152,6 @@
       "query": "\"Swarmer Inc\""
     },
     {
-      "headline": "symbol__ Stock Quote Price and Forecast",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3dXZJdy0tcUQwLW1rRHBoUnRsRnQ0eEFSeGlva3hUTWduTHNaMllrR29pTHFCT1VZOUJrY1A0ZjZmd3JBV3BwWU5KdkJNRjFS?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 17:48:00 GMT",
-      "pubDateISO": "2026-03-18T17:48:00+00:00",
-      "snippet": "symbol__ Stock Quote Price and Forecast CNN",
-      "query": "\"Swarmer Inc\""
-    },
-    {
       "headline": "Swarmer Extends Explosive Rally A Day After Going Public — Retail Believes There’s Room For More",
       "source": "Stocktwits",
       "source_url": "https://stocktwits.com",
@@ -180,6 +170,16 @@
       "pubDateISO": "2026-03-18T17:34:00+00:00",
       "snippet": "SWMR Stock Skyrockets Amid Strategic Moves and Financial Revelations StocksToTrade",
       "query": "\"SWMR\" stock"
+    },
+    {
+      "headline": "Swarmer’s stock surges nearly 1,100% in two days, underscoring fervent demand for drones",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPS1dZenJNN3N0TDhkT3I0UGx1bnFlWDBMWHpBRk1RdEZKblNuaG1GVmpmZ3A0NFhENkE2LWFMQ0hJV1dDWHl6aXlZTjU5UFhfaTZwdzZKT2lZenp1ZDYxd25KOXVCLU12VzBBUFk1NG1NVXpoREFjM0VuV3NGOVJhNEFyM1kza1dHVEZEblZRUXlHX0lPLTlPSXZLN0REclI2d01tbFVuS2JvaUVSMDQ2aVcyQ3VBSEtnbDhhZ0Q0ZUNLMEVnWER5VjluLVowaHk4dTdEWTlQQ1laZFRKRGFnN0MwaGxweThvZmlNb3JrQlgwaHIya0R4OG9QOGFmMUNVYTdFNEpDcDhKWUlieVBBRVluTF9MWWZVS1N5U2JObDNCSk8zdEJ0NmxVLXJRUFNYakRERld0cV82RTl0MWEtU2VmTDJIdGNFMnpvb19MekhSckJsdnNqS2tteXNTTlRmN3JKNmtxSWozYzNGenpFck9XamlNOV9wNFFwV2RaVWZUUVFHU3NZUFg5SFdOcUdJblhOcUFLalZzYkR3UGZEQzZDa2ZZVVdvNEl1U1Q1RWlnTU9hdkFMRG1vZkNuY01NV093?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 16:22:00 GMT",
+      "pubDateISO": "2026-03-18T16:22:00+00:00",
+      "snippet": "Swarmer’s stock surges nearly 1,100% in two days, underscoring fervent demand for drones MarketWatchTiny AI Drone Technology Company Surges 1,000% in Two Days Bloomberg.comDrone company backed by Erik Prince surges 500% in Wall Street debut Financial TimesSwarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today Barron'sDefense tech company Swarmer goes public on Nasdaq after 100,000 combat missions The Business JournalsWall Street is betting on Ukraine's drone technology CBS NewsAI Drone Software Stock Jumps 520% in Best IPO Since Newsmax Yahoo FinanceUkrainian DefenceTech Company Swarmer Shares Surge Up to 10x After Historic Nasdaq Debut UNITED24 MediaSWMR Stock Skyrockets Amid Strategic Moves and Financial Revelations StocksToTrade",
+      "query": "\"Swarmer Inc\""
     },
     {
       "headline": "New AI Defense Stock Swarmer (Nasdaq: SWMR) Makes Nasdaq Top Percentage Gainer List",
@@ -405,7 +405,7 @@
       "headline": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQQzNWOGFQNlI2SWdEYlhyaHplajRBazZvdHI1TGNxbmFKanRKeFVUemVIRl9Wak1HVXoxN3M2ZENvZFBuMGRmcUJIcmNLbmpyVE82UVRpY0xIY3llQ2NOZUdualREUDUwSHhYOTRkRWpmT1lvQmFMSjNJSnRmODBYTnZIeENzd2tkTEtZVDhjOG5pVjFlTDJxRmdkY21DZy1USWpXV3o5N0ZuY0RhMXJuWWRoNXpGTUNOdWtUMFU0TWJDT1BzbjNhNm9BNExxOWZLTVlXZ0VBLWFlUnAyRHc0X2Jld1lKeDRlN0Q0eEthWEk3Z2tZNGVnWFlsZHU1bm0yZFNfVWliRzAxUzZhRHdrYlpYWGdQNXJtVU5SM1BkRGxvZEhqTmg0Z2g0VHRTQWVaeUhxUnZ3QlM2bi1lU0FkamRUZnlaOHNEQkJFbXBMeFJnQjM3U0VycU9pdk5hU1BGVjFwRVhwc3NVNDBBLUZVdm5peGdJQjdrQXRJTDhoanoxOEkxZ3kyQw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNeDc2ZVItWFdQM0MzNHZVempCNGJfTHJJdHZkLTM2RU9fUjhUTHVTWTE0VlJSMjRMeFUyeXVVS0VsQzJOb2dUbk1McXJXZjFxUUFMQk8wS0wzQlRPajNmQ2poMEs0c01SendmVENBdVk5VlM1V2N2amFkSlZOc291OTZVejRFaHRYQU84ZF82ZjhQZHNnZVkxMlJzcHR0N0dSYzJ5SVBSakNKRS01ak9CNTRQdXpXY1J0UTY1aF9LYWdOVEFvbUVCcl83Y3hzOURhbS05TEJrV3dMbUNqelEtQ0x6Tk0tcElHVlpQVnFYZDE3OHgwM0dUTTBUYkFCdk5JamVBLWVSVks2NEM5UE5UeHBrOVlEdGNRVXh3Q2E1dDNyeTRmVXJjalZsV0t1ZnpmQ25ORFd2VHRxQ1RGMzR3UlB0YUdRN3RJSk5jTUk2b2hQVU91bzItMC1qWjBfX0JEbUNTaFdyaktWMkdXbEFqbWk2Z2l3Q3Y1cnNkVG5jQnZvUlNZV2N3Sw?oc=5",
       "pubDate": "Tue, 17 Mar 2026 20:12:00 GMT",
       "pubDateISO": "2026-03-17T20:12:00+00:00",
       "snippet": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut Barron's",
@@ -1182,6 +1182,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-16T08:00:00+00:00",
+      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "HIMERA raises over $2.5M for secure tactical comms",
       "source": "Resilience Media",
       "source_url": "https://resiliencemedia.co",
@@ -1219,6 +1229,16 @@
       "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian defense-tech startup HIMERA raises over $2.5 million to improve military communications",
+      "source": "Dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUJXZFptaHczRE4zVHZyV0NBdmxsNVlxWkNJbzlYZm53bzh0Wnp1N2xLYWkyWkIwYzJpZ0FpNjB1LWJtU29fbUtsd2FMLXZIMmxSUXI1NWM5WVh4dW9WY3Y0NW1CX29RNXc4VFUwUTNEZ2pJdVd0WVlDSlZDWXAtbkNWV2c5eDE5d2VLTTlSeUZ0MjBqSUtfSUVxQXZMM2hKWFhFczJ4anlWNUJsWTBmanhDUTgwVGRIUFE?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "Ukrainian defense-tech startup HIMERA raises over $2.5 million to improve military communications Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -1295,7 +1315,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVXJnaUQzT21HWVlLa2NzcXBlb1lvYUNaMUtSZmkxbHJtWTh1U1dnWG9HVE9Yd1hfNEZNa3VCTVdZZzVYUmU3MlJGLUtjLXMwa21FNmdZaHROc2RkWXNsMnJubExaVE90aWx6X0RDUnpvbC0zeWN1TGUxV0I0aDBQYTZsemtaOUljaWhpZ3NScWJwWTc0QksyM1k2WHBvN0tibkZmdHdXVFlEdXRFOXA2eG80cEZjRWwybTZ3bjViaFgtWWxjU3FESG13MjByalpqZkhYaDVSZV9tZHJYS0xzWlFrNVd2c2NUS1htaTdjVEoxX1J1bGN1Y0d6LTBxMm1VZE9tQ3ZaX2oxSXNWbktTT2VMM1J2VXBha2R4dWxsajJDWmUxTXljekRjUW5rVHZqcUo3dW45dWlZWUNtSldCN21ob2M0WHk1LVppWkVSYW9DV1VNUXkyMlBLRUc0dm1xLUNJcE4yUHdlY2luWjJsUUlkLUd5dTNpbzJzSkstTVR1VkVMR3gxLXAzcG1laWlpMkVCLUdn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNS29Pa3Q1SmI1aG1YLWd6QXU1bnRxYUh4VTN2YjJZa2sxN05pQmNHRDV4Mjl5U3NCZllZSzZVZ0tlR080YnFZUGIyampxX0VabFY3eDVWd0UtajFnMUxJVTRvdDhwVURvUGZ3UmxPdGhtc1F1VW01SXZRTGhmZ0VOQVFLdWg2U0ZjaFR6U3htT3JLWm5aMjFYTm1hVlZPTnNCM0VtbWFHWVRFdFRGS1lEWDdUUGJvV2FHMUpCWFE2U0VIcHd0WVJCTUtFcGVtaVdNMzZnLUp0a0pjaHhvcGpoclBhMFNTSjZnVHlUckw1c0x2V1pHY0JPcVphUnJ6ZnVMZmZFVTlULWhqVHp2Yi1tbGIxOTFHb0FxS3dSWU9mVFBSUm81Q2E3dDhBa3E4T2YwU1JPX2M2UjZEcWZDOERZR0JNa0t0d2M3NnF5NGVXUEE4dHVaOFJHcUJKWkpON0xHMHoxU3kwTmdTckd5aDRQWG1rLXo2WFFScWJmcHBlOFRVaURKVkRZV1pWN1RsN3dGVFY0MzV3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
