@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-03-21T10:32:16.590700+00:00",
+  "generatedAt": "2026-03-21T11:27:34.121568+00:00",
   "items": [
-    {
-      "headline": "SWMR Should I Buy",
-      "source": "Intellectia AI",
-      "source_url": "https://intellectia.ai",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80YzNvcEwtbURGVGFaaFc3WDhnT0ZSb0xSaThSMWNJTFF6Wm51TEdBZkpJMkZCczIxM2VlS2hDZnNzTGpaQ2ZpZ2ZPekI5LXl2SUJYanBKdkFyVmtCaVE?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 22:44:49 GMT",
-      "pubDateISO": "2026-03-20T22:44:49+00:00",
-      "snippet": "SWMR Should I Buy Intellectia AI",
-      "query": "\"SWMR\" stock"
-    },
     {
       "headline": "Drone manufacturer Swarmer Inc. closed down 30.14%, at $36.71.",
       "source": "Bitget",
@@ -60,6 +50,16 @@
       "pubDateISO": "2026-03-20T19:37:39+00:00",
       "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Is Swarmer the Palantir of drones? Investors bet big on defense tech stock",
+      "source": "MSN",
+      "source_url": "https://www.msn.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQa0VzMlBnY01WeWMwbHp0UmpxeHk1SmZsRVMtWE5Tb3pnNG4tNE5rNUp0Ry1nM01HRmpvYTFDZHdGc1VremtxdENrQmRNQk5rVG05bXdwcUpxcGJjOWlXUEExSFNwc0ptRzRNdHJPZU1QV3I2TGlGODJ2c3l4QXlkbTVJbG1LckF1MTlsNW1kS296V29CY0R4VXRSWjBQVHdlaVIzTENTM2FZSjdHZWh5ZTgwMlVGRmVHV1RhakZoUTV4T0hma25rdDM0ODVrd0FVaU1XOFFxWEV3cWpuZHlUZk8yLTQ5RmJzOTBuWGYySjl2aGo5MEVETW15eTFNV0x5Rkt5R3VQZ1hsTFh0RHI1b3J1b1JzTU1yUFdON3NEejNGT0F4WHZmZDZJMGxsaGNvS1pDMXNzUW5BRVlmR3RyZmpNVk91Zm9IVEJTQjhZOHcybWRrM1E?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 18:25:24 GMT",
+      "pubDateISO": "2026-03-20T18:25:24+00:00",
+      "snippet": "Is Swarmer the Palantir of drones? Investors bet big on defense tech stock MSN",
+      "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Is Swarmer the Palantir of Drones? Investors Bet Big on Defense Tech Stock - Swarmer (NASDAQ:SWMR)",
@@ -365,7 +365,7 @@
       "headline": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQcGFTX2F2RndOMi1LaDVld0k3SE5QaG5tbnNvZmFQeU1uclJZMk1MZGlLZVlQVHlLNE5WOE9zSEhfZnFXZXBPZE1BRU1jX3NvckJrQ2FTcTRoNXFQajdTVmxlcm5lX09zWFJZenluaHZGWWF0aTRhX1J6M0ZiOGhJa0paUXhmQ2dBMEVkSDN5MjlEZVl5OEVFQkZWbThkenlQVF9FRTk3LVN6NjM1SFVNRVdmeFFFTHd0Rk9mTEwzTXVmYzhsYjVPdHp0Mjk0b2xyX3JmOW5hRVo2RUxQWkxaT3NlMDBsVmJfRG4wVlhYelk2QllQaHdzbTdzMHlhQ2d0YnRJSWxxWFVuRGFCVWllMjJNd0VDa3lCSWdiWDA5ajdDcDdRTzgzTXZPM0otak5xbTRjMkszeU4taFh6SW4xZm81WFNvSFBPMlVUSlhGbjBBa0Zic0gxcE5LVjBjRHRaNHdLck9XU2hZdUQxYzFSZTlJWUQwY2QtTWl1Q25pYVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxORVJWdXhDWlNGSDM1UHY3TkZvMEJXY0VlY1ppS3pSZTBOQVRjTm84VUtYejZ5TnZ4MGpzTzFhZXJUcHhkOFY2V3BybmUtcXZqMGZyRFFVU216QW4zU1dWaUJZRDlMT2JWQzZrTG03aHYwNDFpWkxhRzNGdDFLN0phbGd5anVUdUM5QnRPaWNTbHRGWkh1eXRaX2FzcU9mYVo0d3lDSVRYLWlIcGhHWjM2RjdZNE0wT2VjeURrX21ZNW1mX19RSGl6REp1RF9IeEo0ay10dUZiNGRMaUVTeEg3eUhpaDByVkh4M3h4c1dSZnI1MFpPSGlHZHFvOVh6amJDT3FDZnFXOG9pa2lOblpsMV9nZWZkZmlHWUJ2WEd5SDB6R3I1VVlrSzlwWmdhdzZBYW5kZURIMHJ6Q2F2V1FJTDVpQ2htVFRPVkk3VGhpaElJYVpqM1o2ODloX21PZTBUdUhmZ3BwT052UEFNYXoyRms4b0lLUzNjcFBHOGJTc3M?oc=5",
       "pubDate": "Wed, 18 Mar 2026 20:15:00 GMT",
       "pubDateISO": "2026-03-18T20:15:00+00:00",
       "snippet": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today Barron's",
@@ -695,7 +695,7 @@
       "headline": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOWGVhTlF3aGFNZlNYWTZBbG1ZcTRoLVI1VEh1dXRobUlMZVZsQzE3aWVkNjJieWV0NnRDUzZPU2dXYnBoSDdqNkdTb2lTWGdabXh2anpWNEZYTlY4VGJ3YUpmU0h5Sk0xcDc0YWNQaUtUSDZWeE40bm15VDlGV29acWtxWW5kaFdYbi1ZSHdORE5GQTlvNHFnRTdocjh0S0d6d0tJejltT2VVZ003QVFJU3g2OXF4aEpXREVSRUNXaUZUd3lUaUpNZG96RUVBdDBZdGdmLVNDZDdjeFFtUkgtek1YSlFudVVON095MFlsZTNlYnVUWFRSd2N4VUlqaXhRdzJTbTljemN6ckpIS05DWnloMlU2Z28tRlJQVnV0c0ZPOUNZMlhsYUlpTnRZRW1NUlg2akkyYkxVVmJWMXBwRXpDdzNtYldvVTNEYTg3cGdDWVhiQXU5SEJwaHQxOHJLSUQ5Ukd0bVh1blQ0eTFLMGo1UXVhSDAxZ3BfTDBTRjA0NW5wcXB3Nw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNckJWQzBBS0hWTHpLQWJfX1pYRnNLRVZHeVZLTEUwMklvNVhOX2xuaTdfTm1DSE41ZXhwYXhUSlN1RnpVVDlQcEdhZFZ1WURWNDdWc243M3ZKMndJc3hndl9Vd0xnOGg3cjNlc091WmprZmdxOXNxZWs2M0F5V3A1akpNS29hclVfTE5xN210TmZqNUNaTFBTdkJZRUlZeS1BNTZwcGt2eHhmZ3BEOWdMc1MyM0NOQTh1WTNEb1JSSVgyN0YtSGYydzJyVGVTX09URWhUemxJWTFKZFFmM2pzTG5BS25WVmRZVUdocHp3OF9uR254MHV4ZFo3SUo5VFc3ZzAwVjV0VmlCcU50TnpZVnJsbGRWZTJiX0RHaFo0cXVEQ1pFMzE4UjlxTGpuOEJGOVRYM2tLRmdRQVJ5N0g2RnB5bGVSOWpNTDk0TURLbVdndmNmc2Z3dm81LUpLamJpUnh6ZTVlWE40SWE4aW5vNjNDeGlsbm1yd19PenJPSnh2YTR0STdQRQ?oc=5",
       "pubDate": "Tue, 17 Mar 2026 20:12:00 GMT",
       "pubDateISO": "2026-03-17T20:12:00+00:00",
       "snippet": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut Barron's",
@@ -813,12 +813,12 @@
     },
     {
       "headline": "Swarmer prices IPO at $5 per share, expects to raise $15 million",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2h1STF4SEtZSmM1N0IyS0dJVWxDaUpzSm5KNGtyTVI0a3FvRmhfU2tiaHEyVWFUT01pbUs2bHk4Um5UX1R3MlBzNTBMOVFNbC0yQzg1SmtXNXM1eElTX3gzOWxLckZ0bU80eV9vZks0RnNXeXFfaUhibTZZcE9aM1FZYzFzME9ScjZpWFAzUENBSnVGMzZEa0J6eVVFd1MwTTVxeVBUZkVTanIwV0x2RVlCdXBJUlBZQjQ0cUJsOWhKUQ?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 21:46:45 GMT",
-      "pubDateISO": "2026-03-16T21:46:45+00:00",
-      "snippet": "Swarmer prices IPO at $5 per share, expects to raise $15 million Investing.com",
+      "source": "Investing.com UK",
+      "source_url": "https://m.uk.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeEFkTllMTlhLal96eU9kWklobkVvcUU0ZHpwZTVKX1J5MG9Ha0lLQ1ExVERTVkJzNEd2Z0ZnM1dDUTJFUkxuaTBOUS1WODZ2SDRPNE1XUUNtLVF2Uk5oQXVUOVdKWWhhOVI0SWhRcFBoQmk1cGRGREhsT3lORk15U282VkFiWjdNdjR6VE9JSGFxQ3lXdl96RW52bGJ3dzZ6anlFN3NGQUJmWG5ZUkY5dnlCNFUxNTZsN0FNQ245cW40dEQyZ1NneVNZVEs2UmJO?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 21:46:19 GMT",
+      "pubDateISO": "2026-03-16T21:46:19+00:00",
+      "snippet": "Swarmer prices IPO at $5 per share, expects to raise $15 million Investing.com UK",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -1062,14 +1062,14 @@
       "query": "\"SWMR\" stock"
     },
     {
-      "headline": "Price to book ratio of Swarmer, Inc – NASDAQ:SWMR",
+      "headline": "Price to book ratio of SWMR – NASDAQ:SWMR",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemsyLTJIa3NMOEpFX3ktc01LZTR0aFFCSHRzZG40Ry1PQmZ6WF9QYzRORVFic2lyU29XNzlFckxodklLTlJsLVFob0hEdF9rcHVUcWczME51eURFeGJSS1Y3YmxuXzlJZzd4ZF9lbFNXa1dPQmVZRk8zWDNxTko2X3hDblF3X1JDc291Qmc3VlpkNHVvdGZN?oc=5",
       "pubDate": "Mon, 16 Mar 2026 13:34:21 GMT",
       "pubDateISO": "2026-03-16T13:34:21+00:00",
-      "snippet": "Price to book ratio of Swarmer, Inc – NASDAQ:SWMR TradingView",
-      "query": "\"Swarmer Inc\""
+      "snippet": "Price to book ratio of SWMR – NASDAQ:SWMR TradingView",
+      "query": "\"SWMR\" stock"
     },
     {
       "headline": "Return on invested capital % of SWMR – NASDAQ:SWMR",
@@ -1189,7 +1189,7 @@
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe Dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Dilution adjustment of Swarmer, Inc – NASDAQ:SWMR",
@@ -1492,6 +1492,26 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
+      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-16T08:00:00+00:00",
+      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
+      "source": "Inventure.com.ua",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3ZpSnk1NmhuVTRVWW00QjlrZzE0VDhnMUJNbndxMkZ1MkpYT2NXZVgwVzlfaVl2eDF2REJqVHBycEN4NFVOV3BBczI2YkRDSnZaZWVnNlh6aFlaOC1rNzlyX2R6Wkw0NmJra3lCN1IweldLUTdObFQwSFppd1hmMFFuUXFEc3l4ZV9jdDROX2oxZllXODMyODFuOVFaUWVPWUs0QjhuSHBMSllhVUpFclJaeDI2RHpPSHlVYUhpcnJJRTdwNDgtOXd6SjVYT21CWHc?oc=5",
+      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-23T08:00:00+00:00",
+      "snippet": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications Inventure.com.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "HIMERA raises over $2.5M for secure tactical comms",
       "source": "Resilience Media",
       "source_url": "https://resiliencemedia.co",
@@ -1595,7 +1615,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNeUlGUmpPLUt4ME1hMEh2SUdPTVk5bTdpcjY3OFFFYUtjdzFoQXI3YlFQNG1zSVhTMV90czljeTVsbTA2OUE1ang4cFdyRDlacUdQTVlidWptckg4S1p5YkZLcmxoVlBHNkJqaFFKQWJ6MTZWbzNFZXp1QzYwSFo0MC1qcnVUYmx5cDZsUVhkWnVoTnloTGpGd2o3ZzFnY1A4cVhEQ2p1aVBoUkZ6MV9tMmxKMHlRWFVMNmNfdXRuOTZBbFNKMTU2R1ZfMGFza3hOSjZWOU1oLUxYNkhuanEtMlNTaEFNQzFTaE5lX3hQUEZ0M3EwUGEwd096V2tFSDVtWUc5cXVOWkxCSHNCN194XzlKZ3ZnRTFKYnZCbGg1V2RIblkxVy0zZmJwZmhwS0JESmFCTkdZTldXNmI2S3Nla3p2WFh4Ukh5YTlLeGpId2dEM0U4VTJrYS1DUGJOSThHMjdmMWlTODczYXEtTTZfeEV0NEVuT0kwQlY2cjJrV3F4OVlMOWFQek5aOGg0Nlc5dXU2V3N3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNZzZ4RlVINnFSZ1IwYlkwRDNoejZ2V1hBdE5zdGpjcWxJbXZjYmNvX25ROFhwOFhJOTc5eHpSWndLU2p2d0lZc2JKczV1anFXUzZvVmVjZTRmLWhmTWloSGkwcld3bHhUZ3NKc2VZNV9yU1FLWlBXQ2Y3MFBISlFOcTZwYVBlNmxwYXpCQVAzWGxpQlQ3SWZkTlFSOTdnb3F1QjhNN1NpYVhZeGJEakc2U0VUWURMN2ZFOHZSNVZrYm12V1ZDUFphQUsyZm1tUWgyYTFQSHNRQVM1em8wV1Z0QzRaOUJQXzFJNGpqd2JOWkR2WEdjSUc5dXZRSVJ6bV9uNU9SelhHcHVhbDVVRzBIREVpbDdtaVBYVmpEN2I0bVRXdzhYMnFoOEFUaGVlaHR3NURJRm02NGpLa05DUEJGZGMtbDg3bmV4TkRIclpnWlh4d3pnSFpvRkYzTWxlR1VlRGhVVmlycXRXclRoajkwX2MzZzI5bU5meG93V2Exa3FNOGZjWmxGaTBRdWw5dkZwaDJLVFln?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -1650,16 +1670,6 @@
       "pubDateISO": "2025-10-06T07:00:00+00:00",
       "snippet": "Ukraine’s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones Forbes",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "11 Startups Secure Over $2.8M at IT Arena 2025",
-      "source": "Scroll.media",
-      "source_url": "https://scroll.media",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT21ZSlRCSXp2Y1dHaEtHRmRKQ0FKTXhhcVNMSnNreGNaRDJla0hMVmhUcFZmakcyeWtKMVJDa2haYWg2dXpXUktxZHJsZjQ3TmE2d0tvOFQ3NW9RemdFWU9vRmFMVEZxRV9iQ2NqTi0zZ3JZamdmbktQcTRJNkQ1dlFsYWhTb0Zn?oc=5",
-      "pubDate": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "pubDateISO": "2025-09-29T07:00:00+00:00",
-      "snippet": "11 Startups Secure Over $2.8M at IT Arena 2025 Scroll.media",
-      "query": "\"Green Flag Ventures\""
     }
   ]
 }
