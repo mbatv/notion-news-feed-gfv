@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-03-30T11:06:30.824274+00:00",
+  "generatedAt": "2026-03-30T13:43:06.726776+00:00",
   "items": [
-    {
-      "headline": "Swarmer stock cools off after the close Wednesday: What to know",
-      "source": "MSN",
-      "source_url": "https://www.msn.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlFtaGEwaFJOTEU5QXU2RXFadnlBWjBJWWV3dGdOU0lkc2dJVG1LWUZkcERHanliQjdIQjFTc25pNmdleUs4eWx0SWMzSU95MUtqTjB1M1IxU0sxV291aHpzYS1MMXFldGlLLS1sT1hrenNvN0QwZzVjcU9aVFE5YXVFMGlZZGJoQmtHU3NkdlE2ekpHZ2I4dmhsVDh4c1hjNkFKUHZVSXRrUkRwa0xUbA?oc=5",
-      "pubDate": "Sun, 29 Mar 2026 22:08:46 GMT",
-      "pubDateISO": "2026-03-29T22:08:46+00:00",
-      "snippet": "Swarmer stock cools off after the close Wednesday: What to know MSN",
-      "query": "\"Swarmer Inc\""
-    },
     {
       "headline": "Swarmer stock soars 700% in blockbuster AI drone IPO debut",
       "source": "MSN",
@@ -19,6 +9,16 @@
       "pubDate": "Sat, 28 Mar 2026 08:52:43 GMT",
       "pubDateISO": "2026-03-28T08:52:43+00:00",
       "snippet": "Swarmer stock soars 700% in blockbuster AI drone IPO debut MSN",
+      "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "Swarmer stock cools off after massive IPO surge",
+      "source": "MSN",
+      "source_url": "https://www.msn.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVZJVDRHNlZOYnpGT3ZTOGlDZWFIbXZablBodmo4aENfT0tZU19DTmlDRkxGQ0FmcGdtbmlPWnRwem9CbDIxb19kWnpKR3Yya0wydFdLdTdvNnQ2bW04WXE4d1hCaVZndWhUTnpVXzRiTl9BWFM2SFkxVGs4TVZBMktZbnh3YUdta0pyWERYbjlqSGtQRUlRQzJXdjM?oc=5",
+      "pubDate": "Fri, 27 Mar 2026 06:32:29 GMT",
+      "pubDateISO": "2026-03-27T06:32:29+00:00",
+      "snippet": "Swarmer stock cools off after massive IPO surge MSN",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -75,7 +75,7 @@
       "headline": "Swarmer Stock: Meet Erik Prince, Blackwater Founder and Big Backer of the Drone Company",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNcG8zYUlyNTRrUnNERkVxRndmcGZHc080SFozQzJnVFdSS3AyOWxhVkdRMi1wX2VIU0VoMC1Yb3Z4dkdEc2NLLVVzNlN2d2pscl9NRGsxMGs3NEhNTlRzVnlZQ1A3QU1NY0FnMnJiU1JsRVVmTk9TT19felZTd0xESXFkN3F2QUh3MHRWMHJYTUlVREY2dS14VTRBby01TWJxeVVJdkx5czZjMmxJM1Rmbm50M0prcTNNb0NZTjFyT196dm1LZmpveUtUTUg0bWNqYVYyQmtNMDc5cS1ZRndmcld2d1lQazNHNnN0TjFhSGFVM1Z6cWZtU1dBenNIMHF6YTNmSWMzM1NMSzNXcnlGdzRBSGg1a0lyaUVVTkE4Slp5R2lZakRhdy1CUk9QNng0Q1R5VHdmenFLZ3JtOFVDOUc5empZaThXcHZhNXpuMnZtRXlrZUt2aUpObW1kRkVwQnFzWkF2Y093dmNCOGw5TDlaU0ZpenFueXVnNm91NkhtckN0YUw3M2FqRXNINWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNWXh1b3lONS1SN25pcl9JUUpWRmhLVlUzRk04QnRkbExoaFN2eGVMT0dIM1l5VmlObHFDQzN4N0J4RzFaQl8yaDhncVJ6UEU2bFdqTjlPR2FlTWlkUk5fVHFhUHdrTGJ0Zm5VNUNURlJ3dllmeURUQ2YxbWZqSC13WFo3Y3hFQlo0ZDJwY0NGdzJLMS1hRmFfVVFGLTlvX0pfWmFsaXhRVV95cGZIbXFZYXJEd1VPcXpOdVdEREJLZHVmM0g5WDJnTVhKRDI5bHhXRnc5U1R6TFJ4SkFZVDBIaEUwTk1RS0NLb2hFM3p6UTN4NGNvV2dXaXVSa3JXY0xhRGZmTlRyNVNyV0hONmR1MVJsY2M3Q05QejZkZnBEa3U1VkgwQUphZWNwenB4UElVdTFodUpxdHNjd2VUckFodHcwcTZ1OUdFTklqN19FOVAxUmdFQ09QLWpydG1Zd09mcFVzbDFlcTNNS19iamVVTHUzTktJaGIwbHd0cDctem81bHdUZm5LclJ1cWdsMFE?oc=5",
       "pubDate": "Tue, 24 Mar 2026 20:18:00 GMT",
       "pubDateISO": "2026-03-24T20:18:00+00:00",
       "snippet": "Swarmer Stock: Meet Erik Prince, Blackwater Founder and Big Backer of the Drone Company Barron's",
@@ -142,16 +142,6 @@
       "query": "\"SWMR\" stock"
     },
     {
-      "headline": "Swarmer, Inc Common Stock (SWMR) Stock News & Articles",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iblAzdmlqWTVIWkVQWEx5dkxuZEctd2dVcUF0UjFtVVI1YXo5TlRnU0k4U0xGYzJmMUtRTzRIb2l0cnZUdF9VSXZFM0FFQQ?oc=5",
-      "pubDate": "Sun, 22 Mar 2026 11:00:56 GMT",
-      "pubDateISO": "2026-03-22T11:00:56+00:00",
-      "snippet": "Swarmer, Inc Common Stock (SWMR) Stock News & Articles 24/7 Wall St.",
-      "query": "\"Swarmer Inc\""
-    },
-    {
       "headline": "Swarmer Stock Price Slides 30% After IPO Frenzy, but SWMR Still Trades More Than 7x Above Offer",
       "source": "TechStock²",
       "source_url": "https://ts2.tech",
@@ -160,16 +150,6 @@
       "pubDateISO": "2026-03-22T07:00:00+00:00",
       "snippet": "Swarmer Stock Price Slides 30% After IPO Frenzy, but SWMR Still Trades More Than 7x Above Offer TechStock²",
       "query": "\"SWMR\" stock"
-    },
-    {
-      "headline": "SWMR : Swarmer, Inc Key Company Metrics & Non-finance Metrics",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1bDROWUZzSVBDVkI2ak1JSC13ZjlJakJGVmVkTlRURU5yb0pmRFdpMjRaMHdVZldMbHd6dXJlN2dBeVIyVlFKaGh5d29XbVhWSzladmlZT0JZTkVuNUtmbEhCb2ljaE9sUTZVczln?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 11:07:52 GMT",
-      "pubDateISO": "2026-03-21T11:07:52+00:00",
-      "snippet": "SWMR : Swarmer, Inc Key Company Metrics & Non-finance Metrics Zacks Investment Research",
-      "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Best wishes",
@@ -222,23 +202,23 @@
       "query": "\"SWMR\" stock"
     },
     {
-      "headline": "Swarmer, Inc (SWMR) Return On Equity (TTM)",
-      "source": "Zacks Investment Research",
+      "headline": "Dividend History - Swarmer, Inc (SWMR)",
+      "source": "zacks.com",
       "source_url": "https://www.zacks.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEMktkQmh4WXhrUVRidGZPYnhQNHpTVFZ0dGdMR1lhclJsZzFaMWVJU2YwVllhVFNlQmItU3h2ZElmLXdNMXl3SHA0Y19BYlVHdlhzRDZQaFBOdTVsanE4a0JaS18tMXlpMzk1VDl1aFJyVnFxUVRCSEdPRQ?oc=5",
-      "pubDate": "Fri, 20 Mar 2026 22:32:17 GMT",
-      "pubDateISO": "2026-03-20T22:32:17+00:00",
-      "snippet": "Swarmer, Inc (SWMR) Return On Equity (TTM) Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zTlZ6OFdKUDNqQmJLblVtaTRZVkFzTGxqcXFENmk5c1B5Y2poenJuajNFcHJmQ09iSVdMRlNJVWF5a3RWQm9obWhkQndyRFpUa0UzNDJSTG1GS2U5VU5UY3FQOXJOSjMwX1E?oc=5",
+      "pubDate": "Fri, 20 Mar 2026 20:36:19 GMT",
+      "pubDateISO": "2026-03-20T20:36:19+00:00",
+      "snippet": "Dividend History - Swarmer, Inc (SWMR) zacks.com",
       "query": "\"Swarmer Inc\""
     },
     {
       "headline": "What is the current Price Target and Forecast for SWARMER INC (SWMR)",
-      "source": "Zacks Investment Research",
+      "source": "zacks.com",
       "source_url": "https://www.zacks.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zU0hKWDhyVGRyS3IxcndtT2tjOUt0amNZcDhHMFBHU1J1RUY0T211R0ZSTmxBbXR5T1M4cmRrLUJERWo0N2hWcUNBcVNpdHVPUm94NTg5UlBSRTVlVzlDc0pGMnBvOGhnWkdvQUNWRG1lWUQweFgyRg?oc=5",
       "pubDate": "Fri, 20 Mar 2026 20:06:37 GMT",
       "pubDateISO": "2026-03-20T20:06:37+00:00",
-      "snippet": "What is the current Price Target and Forecast for SWARMER INC (SWMR) Zacks Investment Research",
+      "snippet": "What is the current Price Target and Forecast for SWARMER INC (SWMR) zacks.com",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -283,12 +263,12 @@
     },
     {
       "headline": "Swarmer, Inc News — NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9STExfMDN4MldOenUzdnlZS09tZXBCbnRfcHdvTnYyTHp6RUpyT2k4V0RlN1dXR2pWUmNvelgzWE10R3NtYlRSdFdtNlFrZEVmY3VhOW5uOUg5NUdkTERkQW81UQ?oc=5",
       "pubDate": "Fri, 20 Mar 2026 10:20:28 GMT",
       "pubDateISO": "2026-03-20T10:20:28+00:00",
-      "snippet": "Swarmer, Inc News — NASDAQ:SWMR TradingView",
+      "snippet": "Swarmer, Inc News — NASDAQ:SWMR tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -303,12 +283,12 @@
     },
     {
       "headline": "Drone Tech Maker’s 1,000% Surge Shows Latest Wall Street Fad",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOE9vMHU0WmZUTFVLS3dkUkRUMVp4UEdPTUh5cVJEMHVkN1NFNG45ZDg0QTNpRWNtRDdhQmI1TDduVkViTU5EU3dmM0wtaXlPc1ZGOUwtcFF0elhteUt1VTR0c0VSekVYSThlZjR2cnFvcHZRMEh5YkkyTU84WUdTekV2MHlyYm94ZEg3LXhNaXZQSEN2UnVHS29ZeDhoNzBwdEN3S1o4SW4wWUt0WHJj?oc=5",
       "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-20T07:00:00+00:00",
-      "snippet": "Drone Tech Maker’s 1,000% Surge Shows Latest Wall Street Fad Bloomberg.com",
+      "snippet": "Drone Tech Maker’s 1,000% Surge Shows Latest Wall Street Fad Bloomberg",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -359,16 +339,6 @@
       "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-19T07:00:00+00:00",
       "snippet": "Swarmer (SWMR): The High-Flying Drone Software IPO Cabot Wealth Network",
-      "query": "\"Swarmer Inc\""
-    },
-    {
-      "headline": "Swarmer Stock Cools Off After Massive IPO Surge",
-      "source": "Sahm",
-      "source_url": "https://www.sahmcapital.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmczaF9QQ0tiSWdYOWZDd1RPMU5wa1BCa3RKaG5ZRzMwYUp1MjVUUC14ckM3ZGFDQnRtbDNyWEVqVmJDTkxmSHJUU3g4TjhkaVB5R3Q1SldDT1lVeTZ0cEJiVDhtYkh1RGFYZGE2VFBHTzJBZkp3NG14SjdCNUlrV0NMbW5kV0o1ZUdFRzY0QWN2VTJINGtrUnFjQlBmeVM5?oc=5",
-      "pubDate": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-19T07:00:00+00:00",
-      "snippet": "Swarmer Stock Cools Off After Massive IPO Surge Sahm",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -433,12 +403,12 @@
     },
     {
       "headline": "Swarmer Shares Surge 700% in Debut, Close Up 520% at $31",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3lzMC1TRHdyZ2xiNmh4T1Y1RWMycFpsdzVKLU4xMjhQMW1ZWkxPMmtHSWpPVElkR21TR29QajI0SkN0UEdaeDRvLXFLZU14N2hfeHhYandvR1ZiM0ZmU3hDUjZQQTJ4TS1Edm1rYmR5NlBwbEVVYXJPRmU5VnBOdDB3a3JEZUc4eHlrT2FJeGlBcG5SMnI5Z1J2M1dGRlBQdGdBTlBZRTBzb1NZQ0RYM29B?oc=5",
       "pubDate": "Wed, 18 Mar 2026 18:00:04 GMT",
       "pubDateISO": "2026-03-18T18:00:04+00:00",
-      "snippet": "Swarmer Shares Surge 700% in Debut, Close Up 520% at $31 TradingView",
+      "snippet": "Swarmer Shares Surge 700% in Debut, Close Up 520% at $31 tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -453,12 +423,12 @@
     },
     {
       "headline": "Tiny AI Drone Technology Company Surges 1,000% in Two Days",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDVGU3FLTnRLTHpWNE51ekxOLWFybF9ZMWNsMFoxS3VLY0owcGFyS0UxQW8tNHpxVmVsREk3a2dkbVNkeUp3QXhVTW9mTm1zaWZzLXFsaEZsbWdRYnRVbG1PLVJnaklLOXlHNUFPRHRES3hpZWJaamtCcUVIZURBajZVRXhURlZfcFN4WFg5amJ5Z240X2dUb2ZRYmFxbk1FWGxnMW9TcXFEeC1B?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "Tiny AI Drone Technology Company Surges 1,000% in Two Days Bloomberg.com",
+      "snippet": "Tiny AI Drone Technology Company Surges 1,000% in Two Days Bloomberg",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -479,6 +449,16 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Mintz Represents Drone Autonomy Software Company Swarmer in Its Initial Public Offering on the Nasdaq Capital Market Mintz",
+      "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "Swarmer Stock Cools Off After The Close Wednesday: What To Know",
+      "source": "Sahm",
+      "source_url": "https://www.sahmcapital.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGRMMVdGaTh5b1A5QV9YbXhHZGVBdDFVb1o4SnNIZXJVbWFLdmVEVzhINF80UUxldzBNMTBYYnVKN25DdjNGc1ZhYV9aY291OHZDSlpCUDQ2dl9GYmNldGZ2M2FrdW4wa0I5LURVQlNGQURsN3ZQTUNBVWk5TzNHbTFlMHQ5TVNfTTZGUUZUUlhGSEh0aDctZEVjdWtKbTJkdkJ6WWI1SFNRVG95TEFqZ2FMbjE?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "Swarmer Stock Cools Off After The Close Wednesday: What To Know Sahm",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -512,16 +492,6 @@
       "query": "\"Swarmer Inc\""
     },
     {
-      "headline": "Swarmer (SWMR) insider converts Series A-1 preferred into common shares",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWNZRGRxVmo5UXN6MTBtbHQ1Zmx3S0NXVzN1N01KS0gzY3RnN25aOTF4TjN1Z3d5MXNMbm42cjNMVlo4WlBkY0lqU214V21mMTJvbWoxUlhOTy1GZFVXR28xdzVvcUFMSnJFRlJjR1dZVXZOT012aDU5dFRzMllGemF1SDhLeVg4R0RiVHNLVktQUDJ2b3ZhSGpKWXZEVkpSa0tfM1UxVzc?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "Swarmer (SWMR) insider converts Series A-1 preferred into common shares Stock Titan",
-      "query": "\"Swarmer Inc\""
-    },
-    {
       "headline": "Swarmer (SWMR) director awarded 1.34M RSUs and 400K options",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -532,10 +502,20 @@
       "query": "\"Swarmer Inc\""
     },
     {
+      "headline": "Swarmer (SWMR) insider converts Series A-1 preferred into common shares",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWNZRGRxVmo5UXN6MTBtbHQ1Zmx3S0NXVzN1N01KS0gzY3RnN25aOTF4TjN1Z3d5MXNMbm42cjNMVlo4WlBkY0lqU214V21mMTJvbWoxUlhOTy1GZFVXR28xdzVvcUFMSnJFRlJjR1dZVXZOT012aDU5dFRzMllGemF1SDhLeVg4R0RiVHNLVktQUDJ2b3ZhSGpKWXZEVkpSa0tfM1UxVzc?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "Swarmer (SWMR) insider converts Series A-1 preferred into common shares Stock Titan",
+      "query": "\"Swarmer Inc\""
+    },
+    {
       "headline": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQQUF1Mm9LdjVIQnBsZHdFRllFNTRoMFlWREp3aVg1OHNjcTI5LXVCZ0ZoUm1PdlMtdVNuYzBNLXFuaUVlSW5WREdGU3FZMkJyRExRdGVfZjZ0UTVwckY5azY1ZmJkNjdteHlFdmMxd3dZbnFRWHR0NkNzdndsdGNoS2p4dmdnNmluSWlMSm9VVTY0TUNKV25uZUJLcjhoX2pmTjN4S3FtZkZlUG9wNkdwWTJOV18wdHRrMlUtbEo0NHN3YUhpeG8yTVBlRmNrbi1ZbldpM2FFUngzUUtnQ2VTemRjSEdRVGU4bWMxaWxrbkNpM1FmX0hwWDdlRWxpbVViRzh4Ymltd1hFYmpac243bHFVS0ZxRW1kZUpLWHpRb184SnBZbkFFN2M2bDVfV1UycURSZEFwTjIyQ0UyZkpDOEhKOFJWUHJtYURJaW52ZDNBWWYzZ0NPaGFxTHRCVTFjR3AzVWhTeGxOQ3gxcUlrdTdfbVFqM1F5VVNmdlJFU0I?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQWnFuV1Y5V3RSQlh1cHRmMVAzODZjbG91UFVSMU9Yb2ViYjhRTDBKWXVPcVRUT2I1Y0Q5aHBvN29GTUw0enRlaU84N0lPdjhwTmhsTUJnTmpwXy1xdm8wMFYwTlotQjhZTXFONllkRWpIcl9leGItVVUxVURaZXpUUmxkNUdyZnRiWG9nZUdDWG54MURWZV9kaC1yZzViem5IaWs5TGxNTTUtbF82X1EwRUF5OGxYOWY5RlJxNW5qakFxbHB3eGF5WTRUd2w3RUptV0dXS3E3bDJzdEkyXzlNZk5iczJtQjZ6bGVMY1lLZ0JTMExPZjEwUlN4TUdHSmJJdzhUNG1rRWFOSGwyeC02OERLR0oyZnZjLWV2bEdQdWZ0WC1xY3hPb2JGcENpSnJGUDJQQ29WZFFVMU02OGVzb1YzNGlqQWpGWXRBaG5LXzJmeWVlWmxFWjRmNVhCaXotMV96b0VGVjFkekV4UWdjMXE2Wm1HQjFhcjVuNkVzSmo?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Stock: 3 Reasons the Drone IPO Soared 520% and Is Up Again Today Barron's",
@@ -553,12 +533,12 @@
     },
     {
       "headline": "This Ukraine War Drone Company Just Skyrocketed After Its IPO. Should You Buy Swarmer (SWMR) Stock Here?",
-      "source": "barchart.com",
+      "source": "Barchart.com",
       "source_url": "https://www.barchart.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdmFYWjlSdEx3M1FkZktlOE91V2ZQMk5EQ2pqc0lZX1hiWFp2SC01dGJELWJCXzRXSl82SV9NYnU4OUxNeGl2NWZGUmw1cG01dUZSWnFOVmczUGk1bGQxa21MY0lzZ09sSFZnSDVKSjF2ekMyUnMzdzFYdFJuNGhrdVlNR3VXZGw3aURWTE9JUF8zUm12VmNMOGFlQXl1czdtQWtqd1gzQy1yN2tVRzZucDZRZXI1REhjWkFSNGVrN0R4MGFzMzNiTE5IOEdjM3JHbFRFTlY2TDZfcEk?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "This Ukraine War Drone Company Just Skyrocketed After Its IPO. Should You Buy Swarmer (SWMR) Stock Here? barchart.com",
+      "snippet": "This Ukraine War Drone Company Just Skyrocketed After Its IPO. Should You Buy Swarmer (SWMR) Stock Here? Barchart.com",
       "query": "\"SWMR\" stock"
     },
     {
@@ -603,13 +583,23 @@
     },
     {
       "headline": "Watch Swarmer Inc.'s Erik Prince highlights battle-tested tech Online",
-      "source": "fox.com",
+      "source": "FOX One Streaming",
       "source_url": "https://www.fox.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1JaS25iVGI5NTZEdVpLbm1LT0VtZnhHVnpkM0FOQU5FN2JWbjhjQ19UYWVvMnNKQnA3UXFBeDIxSU8yZTlISTBXdS1wQXVUTk1ZR2kyNF94QzBkdHBvdlhGZGJtMWdCNHdLeUhjVC1RWjRTMzVvNGVlQ0o2anE5eTJjQ0hIV2JPRDRuUzRvb183aFhQSlJxSWRtWFdtOUZrbXc?oc=5",
       "pubDate": "Tue, 17 Mar 2026 19:07:33 GMT",
       "pubDateISO": "2026-03-17T19:07:33+00:00",
-      "snippet": "Watch Swarmer Inc.'s Erik Prince highlights battle-tested tech Online fox.com",
+      "snippet": "Watch Swarmer Inc.'s Erik Prince highlights battle-tested tech Online FOX One Streaming",
       "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "SWMR Should I Buy",
+      "source": "Intellectia AI",
+      "source_url": "https://intellectia.ai",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80YzNvcEwtbURGVGFaaFc3WDhnT0ZSb0xSaThSMWNJTFF6Wm51TEdBZkpJMkZCczIxM2VlS2hDZnNzTGpaQ2ZpZ2ZPekI5LXl2SUJYanBKdkFyVmtCaVE?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 16:37:20 GMT",
+      "pubDateISO": "2026-03-17T16:37:20+00:00",
+      "snippet": "SWMR Should I Buy Intellectia AI",
+      "query": "\"SWMR\" stock"
     },
     {
       "headline": "SWMR Stock: Price, Forecast, Financials & AI Analysis",
@@ -619,7 +609,7 @@
       "pubDate": "Tue, 17 Mar 2026 16:25:53 GMT",
       "pubDateISO": "2026-03-17T16:25:53+00:00",
       "snippet": "SWMR Stock: Price, Forecast, Financials & AI Analysis Intellectia AI",
-      "query": "\"Swarmer Inc\""
+      "query": "\"SWMR\" stock"
     },
     {
       "headline": "symbol__ Stock Quote Price and Forecast",
@@ -663,22 +653,32 @@
     },
     {
       "headline": "AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3VBaDk1VXd0S1pwWGV5di1ZOFVPbXpreUVSaXlXT1BhNTBXY3ZGS0xPbWlfTklNNkRJN2tBS0VSdlh4ZkJFNm5kTWlUUkotTE01eHVZN0lhcEFYX1VIWVhqU1drYVAwMWNIUTA2S2ItUktmdUdrUzcxeGdrTVQxY3NBYndMR09rM2FUMXEyWTBiLVo5Q1cyWWRsUW5ybnZFekNEUUNwcmJ4WEx4QlpN?oc=5",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-17T07:00:00+00:00",
-      "snippet": "AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax Bloomberg.com",
+      "snippet": "AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax Bloomberg",
       "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Swarmer, Autonomous Drone Swarm Software, Files for NASDAQ IPO",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3k3dkEtV2NsbGFla0hhaU1Md0dCaUMzbEtEdU9ldFVLVjNITDRuTldUenhEZkNDbVI5UFU1N0J0N005amF2bEo1ZDRGV0FxTEdkTTZIZEdULTFNMzRPdTE1MXJOanc5blFGMGhUbWlsRlNzeFZBZTh2bEdfZ0hNSTVTTE9UZ2NoajdGdnhtaGdZTVdCMDhHWEFzNzZwaXVITjZHQzZSU1JMVWp3UU1rZE5EQVJHTTh3N1pBMF9kOA?oc=5",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-17T07:00:00+00:00",
-      "snippet": "Swarmer, Autonomous Drone Swarm Software, Files for NASDAQ IPO TradingView",
+      "snippet": "Swarmer, Autonomous Drone Swarm Software, Files for NASDAQ IPO tradingview.com",
+      "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "Swarmer (SWMR) Stock Rockets 250% on IPO Day as Drone Warfare Bets Pay Off Fast",
+      "source": "MEXC",
+      "source_url": "https://www.mexc.com",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pVEt3LUd5OGlvRUdIRVJjdV9hbGVqdUU3eEM0TkY5Z1NFUTFnd1FNS0tzTlE1T0tyeU9kLUlndzlIaGZYc3RR?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-17T07:00:00+00:00",
+      "snippet": "Swarmer (SWMR) Stock Rockets 250% on IPO Day as Drone Warfare Bets Pay Off Fast MEXC",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -689,6 +689,16 @@
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-17T07:00:00+00:00",
       "snippet": "Why SWMR Stock Soared Over 500% In Nasdaq Debut Today Stocktwits",
+      "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "Swarmer, Lululemon, Oklo, Trade Desk And Rocket Lab: Why These 5 Stocks Are On Investors' Radars Today",
+      "source": "Sahm",
+      "source_url": "https://www.sahmcapital.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajVUWEhGQm5BMTlRUFNnSk9nZVFFNmVuclNjYlJ1RXZyc3VfXzZ4S0ZGMGJSbkhlaTFoOWU4RjRyelVFbGhuUUpNOXg4NWtYekNJQXJkcDVEcXdPOVVhdUFLY0xOYUthNlYxd0c4Qkl2RnBDMFNwWm5Oek50SnFsTWJWLXNMZjluRkNhQnNNc2Y5a0FkeVMwYkhqNkZDb0lLUWpOWXR5Y2VnY2ZsTVh1NVE0OVRLYzczVkFTVnl0QkNlOGx4aFFyOExCX0NhTVZfbUZTWFpmd0ZFQzVqdmY1NG5HVQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-17T07:00:00+00:00",
+      "snippet": "Swarmer, Lululemon, Oklo, Trade Desk And Rocket Lab: Why These 5 Stocks Are On Investors' Radars Today Sahm",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -705,7 +715,7 @@
       "headline": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxObm9DOGJ0U2Q4T1BkV1o0bGd5TnpweXVUQ0RUcEpsZG04RXBIb0tneTcwUHVpUWQ1Q3FtdlhvRnhwYVl4NmoyUE1BYjlSczZYdldqWTZQeVV6YzRvZWVsM3JiNXBwbTkxSWIwOGV3QWQ4ejdiazRaQWlIaTNoZ184aWZSMmI2SkZMX2NFNVFwUFdLWUc0czVwSnhNS1htcU9DdlNudkp1UW1XRnFwUkZScE42NVpvY1owSmpBY2pFQmtDbnIxZGZZYXRHRjVXSldtRl9tLWN5RUp0OUFHdHBScl9uMjdDMGpUcnh6S2RhSktNU2xGRW9vcW5Kb1BnbXFtMHc0R1ktbmxHNXBCVzlablU1cWNPS2czYlFtV3dNX1BiTGxHRjlsVDludXBBdWw5QjFEQVZlb25FZUtKVmVNOS1sdVo0TTF4N3l2N05EbDF1WGNUT3pzWDN3WW1aaklzQWR6ano2R1ZSNGhrRGRzRHNCZC0tR0xjY185d25ndjNhVEQtb1VQTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPWXRvWHljV293NmNhNFd3RjdDRzZSVXRhcXhzbXlGVXVLRnZXVHh1c1gzdXN5RlI2NldWVWhqdkhJQ21meG5DSjFjY0JZZ0w5QnM3RkpzTTg4V0RORXFjWjdHUGtlMll4Vk92eXptZHMwM0VUS21kWGF0c005MHJXaElLMnFaMEozcDl1RUxiVUZOR3BCRDQ0bi1VdUZDejB2d19qaU9OQmQ2MDRpRjBVeXB5N3BNWmx6VW9JcVd3NDRBRDVBNE9yYWc0TEc2SjUtaFRONUNMdjhra2VaWXRYSWs4MFhidXd2MThyd1hNcTNtcE5fcDc2UnVJdDJYWUU2NjVrTmZSLUFVdDZWLUpDMjljUHg4WFRJeVlvREozWmh4b1J2LUVVX09tUHczN1pnT0F0WGVPUlRCZ19vMjJ4VlNFODNqOUtRZGN0RXRQaTRkTVA4UmhER1dBWk5seTFjX0VFM0l4ZDZ2VmtKVE5KYkJ4MnpTR0FCTDRyUmNZVWRhd1d1bjlzaw?oc=5",
       "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-17T07:00:00+00:00",
       "snippet": "Swarmer IPO: New Drone Technology Stock Soars 520% in Trading Debut Barron's",
@@ -742,63 +752,73 @@
       "query": "\"SWMR\" stock"
     },
     {
+      "headline": "Enterprise value of Swarmer, Inc – NASDAQ:SWMR",
+      "source": "tradingview.com",
+      "source_url": "https://www.tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmNQRXI5bmx5dmtQMzFiZGliakVvSGMwR0JVMmVNa3VnQ053dHc4ZVdrQ1dIWW12TC1zNlNuN1Rvdm0xb1JlZmVkNVVsU0Ffd24zTFo3c2V2V1lCWXlVa3JJYUxyaEViUGMtWGh0eHZjZ1Vwejdacko5WDhfZGN3cTBxYkl0NWpGSzN6SkdCa0VVZThqWENzNmZFVXBlZ3c?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 13:33:52 GMT",
+      "pubDateISO": "2026-03-16T13:33:52+00:00",
+      "snippet": "Enterprise value of Swarmer, Inc – NASDAQ:SWMR tradingview.com",
+      "query": "\"Swarmer Inc\""
+    },
+    {
       "headline": "CapEx per share of Swarmer, Inc – NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFdiU1NzR3JpSFhTM0lkdEVMQXhkc0F1VFcxczBxX2VocEZ6eDZSV1FjVjZ4RlZNYk9aMjlodnpIYndLU1pBWnllYnpzYzZRcVBvTThaWTVPTjVUWDB4bzZkd2pZcW1WRllWeElLOW5WTmFfRzFzbGZzZEVzTUxrcHF6VDZ0S2ItNWxFMEc0aVlFS25YRFFmeUZEVHM3dw?oc=5",
       "pubDate": "Mon, 16 Mar 2026 13:33:52 GMT",
       "pubDateISO": "2026-03-16T13:33:52+00:00",
-      "snippet": "CapEx per share of Swarmer, Inc – NASDAQ:SWMR TradingView",
+      "snippet": "CapEx per share of Swarmer, Inc – NASDAQ:SWMR tradingview.com",
       "query": "\"SWMR\" stock"
     },
     {
-      "headline": "Free cash flow of Swarmer, Inc – NASDAQ:SWMR",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjJ1RXY0Tm5UaWwzcVZMSXJ0cERwcGdiZWNiU21iTUtPWHU0c2MtSVJ3VE44clJZbjItalZpZ2Q3VEw5V0stbWxBbExxMkE5eHUxeEI2S1JkRGpqZldHczM1QUZ3ZlFvSzFKUWNpMkhJWndCQWlLaWdLdVl2RzdfRWNOMXowU2k2QjJMNg?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 13:27:53 GMT",
-      "pubDateISO": "2026-03-16T13:27:53+00:00",
-      "snippet": "Free cash flow of Swarmer, Inc – NASDAQ:SWMR TradingView",
-      "query": "\"Swarmer Inc\""
-    },
-    {
       "headline": "Swarmer, Inc Balance Sheet – NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YQ2NQUjJNeEhueDlKWFB5MVFmUl9CdDJMME9hcFFUQ0JoZnZVU3VqNnZnWEkxb2sxNDBRaFlOQWlaaU1mTkhSSmZINmpzdUFuNjRpanhvRnhDY2xmbl9EVjl2RnIxSGhHQ0ZjdHEtR0d5REk0WTVXNngxX2ktZw?oc=5",
       "pubDate": "Mon, 16 Mar 2026 13:24:41 GMT",
       "pubDateISO": "2026-03-16T13:24:41+00:00",
-      "snippet": "Swarmer, Inc Balance Sheet – NASDAQ:SWMR TradingView",
-      "query": "\"Swarmer Inc\""
+      "snippet": "Swarmer, Inc Balance Sheet – NASDAQ:SWMR tradingview.com",
+      "query": "\"SWMR\" stock"
     },
     {
       "headline": "Swarmer, Inc Cash Flow – NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNSWtNMkZrb0RudDIwSDNrWDRuN0IxeXNXUUZ4dV92T1FIbzBab3dvV2FOa0ctbExLamZ1enpxY01wbnNQMzgtQ3hSTEdYSDBwS2h4SFBkbWdpc3dTZV9raExNQ19yeW9uTlE2djVpVDNDZURUSFhTcQ?oc=5",
       "pubDate": "Mon, 16 Mar 2026 13:01:33 GMT",
       "pubDateISO": "2026-03-16T13:01:33+00:00",
-      "snippet": "Swarmer, Inc Cash Flow – NASDAQ:SWMR TradingView",
+      "snippet": "Swarmer, Inc Cash Flow – NASDAQ:SWMR tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Preferred dividends of Swarmer, Inc – NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzhNWC15d2dqNjNmUUsyeERFM3hraTlSeHpCZHhSQjUtdUxlZHZXa2xRcVhfaVNFRjJ2Zkh0WkxyRWJWTmU1RUY5T282VDd0T0w5XzZ0US1xdHZuZlVZbVhMZU5aWG16d2tkUTRuWC00ZTNYUVkxTDVZTkNPVzFqbjR0Rm1qbm5IRHZybzdCZExnWWxLN0szWTl6eDQ?oc=5",
       "pubDate": "Mon, 16 Mar 2026 11:05:17 GMT",
       "pubDateISO": "2026-03-16T11:05:17+00:00",
-      "snippet": "Preferred dividends of Swarmer, Inc – NASDAQ:SWMR TradingView",
+      "snippet": "Preferred dividends of Swarmer, Inc – NASDAQ:SWMR tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Basic earnings per share (basic EPS) of Swarmer, Inc – NASDAQ:SWMR",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTVMZjdGeGRSQ0J1RFFFVlRqZ1RQSlVYZkx2cXNXREJWVGw5SFRoYW0tN19qaXd3akxmNW1wOFRmYS16eGx6Tkd3MzMyVG5uMkFtSnJVYW5HaEQwTTg1Rld0dHU4Q2E5ZTZSMGhteUJ4TzdrWHFUUWFFcU5ncHIyX05NWTZWMHBpdldNVFdDRGVFUGF5dzVBSG52MjlEcDlWalFV?oc=5",
       "pubDate": "Mon, 16 Mar 2026 08:05:20 GMT",
       "pubDateISO": "2026-03-16T08:05:20+00:00",
-      "snippet": "Basic earnings per share (basic EPS) of Swarmer, Inc – NASDAQ:SWMR TradingView",
+      "snippet": "Basic earnings per share (basic EPS) of Swarmer, Inc – NASDAQ:SWMR tradingview.com",
+      "query": "\"Swarmer Inc\""
+    },
+    {
+      "headline": "Swarmer prices IPO at $5 per share, expects to raise $15 million",
+      "source": "investing.com",
+      "source_url": "https://www.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2h1STF4SEtZSmM1N0IyS0dJVWxDaUpzSm5KNGtyTVI0a3FvRmhfU2tiaHEyVWFUT01pbUs2bHk4Um5UX1R3MlBzNTBMOVFNbC0yQzg1SmtXNXM1eElTX3gzOWxLckZ0bU80eV9vZks0RnNXeXFfaUhibTZZcE9aM1FZYzFzME9ScjZpWFAzUENBSnVGMzZEa0J6eVVFd1MwTTVxeVBUZkVTanIwV0x2RVlCdXBJUlBZQjQ0cUJsOWhKUQ?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "Swarmer prices IPO at $5 per share, expects to raise $15 million investing.com",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -913,22 +933,22 @@
     },
     {
       "headline": "Swarmer Inc - Lucid Capital Markets Is Underwriter To IPO",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVNwLUFzQjdRdHYxQ3NlZUxNZVhRRHZFdkdINVZXZENtZkFsQnRYTGtYYWowcXVkY0UxTUJRSG9oUzhFS2otZ2Q5T0U5SU1paEI5cHVmLTEyMDJEeUdyMERYU3hYZFZTZGpYb1FSS296MDM3Mkt5dkZOZzJtdXdGOHNSaVE1Y3VXVmdHbG5ZbnlfdjVicDdKVTd3eDd6aWlqV3ExdnVzZmc1UXFqSEozaTVuWWN6NmEzOHBselVFOHdDMU0?oc=5",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-02T08:00:00+00:00",
-      "snippet": "Swarmer Inc - Lucid Capital Markets Is Underwriter To IPO TradingView",
+      "snippet": "Swarmer Inc - Lucid Capital Markets Is Underwriter To IPO tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
       "headline": "Swarmer, Software Platform for Autonomous Drone Swarms and Battlefield AI, Files for Nasdaq Capital Market IPO",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSVJjS0VEUzM2aXZRRklucnZPMWt4SnJJQ0kzNHRFNXQ1TkFZMDA1d05yNW1ZWjFDam1xbXJQSWpnd21HQkE4dFg5TVdtUUIzYXVlT2QtTVVDTmpPeUZyalpBcERHbUZUdmV1MEdOQWk4MkZUOWt3Wk5JOTlKRlFnOWlSUmp6MEJGME40VVdIUkJtcmNCT1BUcHNfcnpqWXBlOTBMTENIbE9IY0hCWjVsOFpBZGh0UnpNbW5sbnZ5dGdubUQ4a2RCck1MTTNaWWNLQXF3cEFNUjZwQy1YVEZ1bmwxU2ZqOVVkd3pEQlhnUmZEUFdKcDNVU045U3Y1bjA?oc=5",
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-02T08:00:00+00:00",
-      "snippet": "Swarmer, Software Platform for Autonomous Drone Swarms and Battlefield AI, Files for Nasdaq Capital Market IPO TradingView",
+      "snippet": "Swarmer, Software Platform for Autonomous Drone Swarms and Battlefield AI, Files for Nasdaq Capital Market IPO tradingview.com",
       "query": "\"Swarmer Inc\""
     },
     {
@@ -1013,12 +1033,12 @@
     },
     {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3Q1bjlnb3ZLLXA2S1ZuVWM5YjVzVHkwQVU5SnEyd1NiNWlQX0ZxdUdEVkhSSzJTbEJwVTFRSUpxdmE1NVFaSGlGS3ZzU0M4elFseXFRRlZfTUFOczFqNVpRRXJwV3lmODhGREJyaFlhMFNIeFlJd0NKM0gwZXpDUHpiSnlKV01KanI3NFpUeXNBR0pDazlWWXFQNWJyWGlzZERYU3NuWlFRMU1qMzd5SG1vZDBvN0c0ZTlZSWxsWXNuQ0RWd19lX0JEQlY4M1hVb3ZFM09GaWRmVldZNWQ4YmRPT2tyN240R05IQ2E2Nnc?oc=5",
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
+      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -1065,7 +1085,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNVTd3R1RPZ2hQaVh4aG1YNGRUZjZoOG5vbjlSMnJ3QW5CTW1saXpBNVZEVGV2anRoTUhqUUloejFZWGtOMTd3U2IwMDc0a29yYTJneHNyNk5sUGxDd0k3a1AzQnN5emJwTGR3V3Rub21lRTYwR0xhVGVBaUhhMVNYcTRuVzM5aHYwLUxicHJ4UEtlUmNWYmhjc0J3NkJxdm8zbkJNR2dKNDBQNW1XbF9kTndqMGMyQmJOWm9tT21HM3ZNRTJFanRUUHB1bERuWmFvRDhtUjFUa2xqRUJQRUc5anNIa0N5bFdXN2VVZEZxTTVXSnBMVl9BTHc0eHlYdEl3cXBVbC1wbElPWU16dm5mYmhxRkZzbkNUY0UyRmxRSUNnb0p6bEtfaGZfeGplVHVfNk1xVGh1ZEM1U2pwOUtlbUhBLW56MGtkZHMwZ3ZNUzBqZk9DbTg1VnlPRlI2U20ycDNjclluVHdUVVIwQWJ6OHUxOFR5V1pSaXRSWUVXZUN1U2lzby1IUjdDS3g2dVU3MkN4ZHF3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVlAtOS1zT1JQbDJJcWxia2F6WWt3cHUzX2VVUXBhZnJTOWo0dXV6YnhRVmRzeXQ3ZmZTM2FxMjBTcU1QS0Z5RGI5di02Tm96S2dPZF90UE1IWVFBSTVMS2ZBaTlJWXpDVUU1ZVg4LVdnbGcydElMMFBRYnFEbmEyU2t0T3JZMHR2ZkQ1VHNFaGI4Q1hfLVhFQlR2Nl9ST0tLX3pNQVdLbWtwZWg5S1M4bmU2bzhyX1ZJVVE4eUZOaS1MeUQwUnJpZHZlVTkyVGJYRUY5NWJ4bGJxLU44aHRoR2pyRjVvTVlVdzc5b041bk9saERodEFDZkFQNHV2VUdaNGNteG1OLWhlSXRCUy03OTVjNHpibnpoWnZnR2R2UWZFYllfVVRDWTdoM1RBaElyeWREMWM4NlFzdDUxRTFEaDFyY1k4ZU1wdHB3ZTBuSzhlUkNyRXFuMDBONlJDU3o3MlFZYmZtaG1wT2pNSUxFX1F6NjB2R216OXRRMHJxclF2RFR2eDUtWEJ0VnRPUjA1SDNqbWhR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
