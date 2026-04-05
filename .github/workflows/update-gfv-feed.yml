@@ -38,8 +38,6 @@ jobs:
               '"Green Flag Ventures"',
               '"Justin Zeefe"',
               '"Deborah Fairlamb"',
-              '"Swarmer Inc"',
-              '"SWMR" stock',
               'GFV -("gross floor value") -("good faith violation") -("gross floor")',
               '("Green Flag Ventures" OR "Justin Zeefe" OR "Deborah Fairlamb" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)',
           ]
