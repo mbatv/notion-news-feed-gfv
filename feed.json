@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T13:19:44.771837+00:00",
+  "generatedAt": "2026-04-06T14:53:28.627805+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -23,22 +23,22 @@
     },
     {
       "headline": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop",
-      "source": "Resilience Media",
+      "source": "resiliencemedia.co",
       "source_url": "https://resiliencemedia.co",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWl9SS2RqZ1pJWk1FU1lMakdNdFctdGxzMWsxVXM0LUF3ZG5BYkktMUhvbVlwV19QS054YVNVS2ZFdVZlR3BDaHJzUlVHQkFxNElMd2VxY2QtRmtOY0RsaVZNUjdiQXFzOWptVXlWSFBOV2d4LTZCU2pQbUdhUUgwUlZGbTNseWtDWEVYc2s4N0pRQ0ZDcE5MYm9KcGRuRVJycWdSMHk3WU9EN184NU5DSlZneDJMT21ib2c?oc=5",
       "pubDate": "Fri, 20 Mar 2026 14:21:08 GMT",
       "pubDateISO": "2026-03-20T14:21:08+00:00",
-      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
+      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop resiliencemedia.co",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "venturecapitaljournal.com",
+      "source": "Venture Capital Journal",
       "source_url": "https://www.venturecapitaljournal.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO venturecapitaljournal.com",
+      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -49,7 +49,7 @@
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
@@ -69,7 +69,7 @@
       "pubDate": "Mon, 23 Feb 2026 13:26:00 GMT",
       "pubDateISO": "2026-02-23T13:26:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -142,6 +142,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -153,12 +163,12 @@
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
-      "source": "united24media.com",
+      "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcS1BZnNJcnFGd0RCdHdkSUNaS3pDd1l6SThqTGJCZkFBVEo4QURoZFRpRTZtejBpbzhLTzJCRlVZeGs5M1NVUE41ZmxBTEhjVGJKQklHUlMwN2NKcTQ2RFFmYkVwY19fd2NGV1pVeUpkWmlNNFVqV3VLak0xeEZNODl5NjRMSm5Hc2FHVDhBN3hJNW13SVlnaHo1QVhsaElWZWM3UnpmR21VZ2J0Qk1vcUU3ak5NZFY2WHdYT1E1V3I?oc=5",
       "pubDate": "Wed, 17 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-17T08:00:00+00:00",
-      "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech united24media.com",
+      "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -215,7 +225,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVFFVV1R1OVVva2NzcXViRHBmamoya0g1Q3hQOVhGcm42M2pCNFBWMXYxSnFNWmcxZUJlMGhiN0preU5wdTNETkYxX0wzOGxJREk1YkpqaGhIZklmaWs2UXlMaUZhWF9TLWpHVENTSWRpTFlZckhQcVdaUEVUbU1KT0tnbzI3dmdZaURkTmlVSXNwRkdxX1ZjNmhsX2d1a2dmcFBqUTY1Z2YyNkU0NDkwVS1qQ3ZRZzl6RDluVTR0b1BkQzJUWUhEOVJFemh3T2tSNHBZUi1HOWJGZ0NGY2d4V2JTTS1JYXlnSWNpS3VBSnEzbUE0d0RkTjBhZzRkWHduQ3Y5TVl3X0FOdXpzVWNiV2hPX2swWmZybE5nM2FfMXhXVzcxQWRnV29pQzE5VGNoNzk5ZlRmU0ZJRm0wWGZyTVdMY2VzRXhEbl9KUmpac2JTdkxhNERaVUlVTHhTNVFjN3VWVkJLN3NWM29seHlQRjYybkxoRzJLVDRJWEZtanFOUmEtOGgwV2VZUUxUdm9PSFZsYzRn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQbkt5YW5Fd2hRMVRlR3Qxalk5WTgyRlZXMjhnRld2c0dmenJiTzlWd05vdlo2VkNPOWNna0tLOHpWTW9lY2tWclNaN0hWZkltOWw2cEd5VmdOZG41RHhRNDNUZ05vT3dmZzRsQ2piTjJKYmY4QXVTNFBubW91MWZwMTQtY1VVQ2x4WkczT2N0cml4YnFwVW1LN1NrbldpcHRwZUJjRWpNaXVyQk05UWNIa2Z2aFRYYUxXYlRwXzBEZ3JQbjRBR2x5RHRueS03T0FhVTdYczcxenFQX09XSHNLNWJRUmpMbjdHbTZFdEZTTkE5bkM5WnNVOGNvRTEteEViWGVtZUhlRjBqV2ozRmpYd3ZvQldHVm9ReU9lcUx1NFUtOER6anNKNVU3ZGVrSDBXYXJZaEFCZFZzZjBpcTJOXzNBajdJaXM0a3hGYUNxWUlPVzY4bUpuWkdRa2pUbFNmMkNtWjJLOG5uLUxydTl4TEhBdWc0NHZWV0hUZEMzSDBGWF9keFlETEp2aEthNkZYSmZvZkl3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -223,12 +233,12 @@
     },
     {
       "headline": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War",
-      "source": "united24media.com",
+      "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUp1SDBodGxHUGhNX080MEprdHYtQUM1WlRlZEZuVTFDbTV0YV9fNEV0c3VaemVnUEhXTXk4dEpvSGxieURVZWd3Zm9UbjVYNmFrbV9oUUxqcC16MGhkWjZGbG1oUmVaaW9Ma1ZSdEltNldhei1pVHIyY0dXclFWVERkLVFNdmtKZFZUN3NBTloyTnl6azM4Wk1VclBIUzNwNHgzNGtueWNtdTIybVVYeG53aDkxX0hSaXZHSmxlWQ?oc=5",
       "pubDate": "Thu, 30 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-30T07:00:00+00:00",
-      "snippet": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War united24media.com",
+      "snippet": "Ukraine’s Drone Revolution Is Forcing Europe to Rethink the Economics of War UNITED24 Media",
       "query": "\"Deborah Fairlamb\""
     },
     {
