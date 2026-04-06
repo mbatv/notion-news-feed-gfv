@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T17:51:08.518636+00:00",
+  "generatedAt": "2026-04-06T19:08:00.155430+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -33,12 +33,12 @@
     },
     {
       "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "venturecapitaljournal.com",
+      "source": "Venture Capital Journal",
       "source_url": "https://www.venturecapitaljournal.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO venturecapitaljournal.com",
+      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -49,7 +49,7 @@
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
@@ -62,6 +62,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
+      "pubDateISO": "2026-03-05T14:14:00+00:00",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
       "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
@@ -69,7 +79,7 @@
       "pubDate": "Mon, 23 Feb 2026 13:26:00 GMT",
       "pubDateISO": "2026-02-23T13:26:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
@@ -143,12 +153,12 @@
     },
     {
       "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
-      "source": "The Recursive",
+      "source": "therecursive.com",
       "source_url": "https://therecursive.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
       "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-19T08:00:00+00:00",
-      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals therecursive.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -225,7 +235,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPQ1FvQV9WRkJ1NHVMTmFOU01RVmRxTlhWN0tYWWRjVm15LVBvVFJTMTdFSG5tNXl0ZjNjUjVKNGxiVkxIb2J5RTBtX1NlSEhESkdmV25lZDROWGlhbGluTVVuVXN6U014RTNNSUhlTDRmZnhxb1IycXdpWkdwbmdVSzg3Q1RlZnByNjdIVGFramdXNXlvQzdwcXRZVWR4UlJXbEFWU0I0N3NBcGg4NWdWV20wUng2bHhBU2VfeV8wRXU0ZEtna0YwSk5kYnMzYUlsNXBLYlZXV1c4NGROelBvWmwwOEJDYUxmUjRyd2hhRUplLUNYOWZ0NjdDaG92TFJqaTFQVU9jcWoyckFmRUd1NDBLb0NZRTJkQVBpOXRGUGdLekZVdUNkd1A3OVhIOUxpZVFBVEVuZExCd3V0MnF5cUFhcXFSeUVrMU1iSC02NzBjazhmR0NyVV9BVXBKME54aTJUc2F6d2ZydUJnSG85MFpPbS1PenpZVnZGQXozX0M0aVNaelRGeXFuSGxYZWFTR3B1NUVB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPcjNWMkhTVDRod0JFOXYtcTEwOFRUbDNYVVdvUjIzVmlmQzIxa0pqQmRqWExvd2ZrOW5kM2I3UFA1MkZlUDhGcGVpOE1SQThDNXJMYnQ1TzlLaVZRbWdqLS05dWJvbGs2elAzM0xtYkFtcWRybWNmTnZmdzZxZU1JUEFmMDZnSkxmTXdkcTlONm9LeWpGUVVTRmRVUWJtUmpwaElVbW42bzNwOFdLbmtOR0MwNXNuN2lPZlVESzhEWFN5dENPT1BXaE91dFdKdzl0aGZqUTBhcGxObkt2eXhfSTd0RVFybHozWTI1ZzFnVV9vcVo0Z2ZJLXU1OWtNOUlLTTJVS0VfOVBiUmJRVFJ6UFVjSWNsWHMtenRRc2w0QjB4NkgyUGFEZThKNWdjTWdTMS1WcmFRQUV6TW1rc2QyZWozWXJaSlVWYWVnanU2TEE3TDY1RFF4NGNMRmttWDJmLVVVZmJvTFlCU1BqUDlJRmp3b1Y3ZFBEWUNHUjNnZTB3djFEUzJMZ0VPNnRySldDTlJ5V1ZR?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -253,12 +263,12 @@
     },
     {
       "headline": "CEE-Based Funds: Investing in European Defense",
-      "source": "The Recursive",
+      "source": "therecursive.com",
       "source_url": "https://therecursive.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKUVhOZTE3RjNRVF9mX0lZQXprNVp1RjlROE5YMjZkSXZZVjRXZ3BJaFdzT0lFM3FkSW03blN2Z3cxdEJTMElaQ1hVYlVoMnpnZnlKLTNNejhqeHp4alQyckRsVnNaU0R2Q3MxdU1UWWZtQQ?oc=5",
       "pubDate": "Wed, 15 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-15T07:00:00+00:00",
-      "snippet": "CEE-Based Funds: Investing in European Defense The Recursive",
+      "snippet": "CEE-Based Funds: Investing in European Defense therecursive.com",
       "query": "\"Green Flag Ventures\""
     },
     {
