@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T23:38:26.490291+00:00",
+  "generatedAt": "2026-04-06T02:53:44.012202+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop",
-      "source": "Resilience Media",
+      "source": "resiliencemedia.co",
       "source_url": "https://resiliencemedia.co",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWl9SS2RqZ1pJWk1FU1lMakdNdFctdGxzMWsxVXM0LUF3ZG5BYkktMUhvbVlwV19QS054YVNVS2ZFdVZlR3BDaHJzUlVHQkFxNElMd2VxY2QtRmtOY0RsaVZNUjdiQXFzOWptVXlWSFBOV2d4LTZCU2pQbUdhUUgwUlZGbTNseWtDWEVYc2s4N0pRQ0ZDcE5MYm9KcGRuRVJycWdSMHk3WU9EN184NU5DSlZneDJMT21ib2c?oc=5",
       "pubDate": "Fri, 20 Mar 2026 14:21:08 GMT",
       "pubDateISO": "2026-03-20T14:21:08+00:00",
-      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
+      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop resiliencemedia.co",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTZ6blN3RGFkcnRCalhNcmUxaXZoNFdrQUxFZnVSOVNhMmRhMGsxenBzdzVTeVpaTmlJSTAxNUpsUkM0Rm5hMXI5NVVvamVOanJhMXF2LVJyTVFQQ3ZHZWw5Q3hoOUM5THh0T09rV0VJa2ZsS0sycEVGS00xdEhXTGl4UkxNZnRvRHFwN2pzRVNsTHd4NUZIQWdrbFFiR2ItOE56dQ?oc=5",
       "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
       "pubDateISO": "2026-03-16T12:32:00+00:00",
-      "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe Dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
@@ -63,12 +63,12 @@
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "inventure.com.ua",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lEZTkxaEZVVldVaTFjZ3cxNHVVTWF6dW1pbVNfRDlVREdqazFHMkFfMnlrczZDN1dPRk9Sc0k5MVZwZVAzS1A1XzZSbzE2cFJORDRZMW5ISE9iUE5raVNpMnhZd1RyV0Fxc2hFNzhXcDNzTV9rajVkX3IyalNSTUFkcUg1eDRFSHZOaXllNG9CWmlJTXBsSktpNmZ3YVdvaC12VzJlU0dlLUpvQUQ2SEluZXAycGVi?oc=5",
       "pubDate": "Mon, 23 Feb 2026 13:26:00 GMT",
       "pubDateISO": "2026-02-23T13:26:00+00:00",
-      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -102,23 +102,13 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Swarmer files for IPO",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmpwMjhCLVZGV2E2ZGtHZ2hiYTFJT2xVVlFoYVRYblZScFhGNDQ3V09jZDFzaEZ5UEtvY0Q3VXFXVi1lakFWNUV4NjM2YmtZWkF3b3pRNzRoZDN5QTRQdmo1YWZIdw?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Swarmer files for IPO Defender Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
-      "source": "english.nv.ua",
+      "source": "The New Voice of Ukraine",
       "source_url": "https://english.nv.ua",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHk2OGhyNXJyV3J6U3ctWkhYQWJ4TlZfdnZrNFNyQkpqYlRKN0ZkVGIyTm1nZlVuVE1CaDFLR0dLU0E0S0pLcENTbHBCNzVIRkFiR1k2a1d5M3NudDYyOUYxWE5jc0I4T1pRR3BCQ2NkT1JFQ2RQUWp0dHFGU05POXc5aGZiOGxwcy1FZ0Y2UENaY0l6UjFGOElPZ29TNHBf0gGaAUFVX3lxTE1LMXFrd0hBOFVib19nQ0t0ajdkTjVwOXFBWUJtNVhtVm41ZjRsUThqWHR5bVk4X0JKdWd6QTZicklzNDlrV182SlFBM3lpQWNWQzVmcTR3eTNRb2haUl9VSy1NY0lJUXY1UDdJUlJRdDZZd2NHZWtyRVhQaTFweHREM0ZTcFl0d3FMZnRtRTJPSEp5aVV5aDFPRUE?oc=5",
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
-      "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 english.nv.ua",
+      "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -130,6 +120,16 @@
       "pubDateISO": "2026-01-15T23:01:37+00:00",
       "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-05T08:00:00+00:00",
+      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -163,12 +163,12 @@
     },
     {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3Q1bjlnb3ZLLXA2S1ZuVWM5YjVzVHkwQVU5SnEyd1NiNWlQX0ZxdUdEVkhSSzJTbEJwVTFRSUpxdmE1NVFaSGlGS3ZzU0M4elFseXFRRlZfTUFOczFqNVpRRXJwV3lmODhGREJyaFlhMFNIeFlJd0NKM0gwZXpDUHpiSnlKV01KanI3NFpUeXNBR0pDazlWWXFQNWJyWGlzZERYU3NuWlFRMU1qMzd5SG1vZDBvN0c0ZTlZSWxsWXNuQ0RWd19lX0JEQlY4M1hVb3ZFM09GaWRmVldZNWQ4YmRPT2tyN240R05IQ2E2Nnc?oc=5",
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
+      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -183,12 +183,12 @@
     },
     {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
-      "source": "IEEE Spectrum",
+      "source": "spectrum.ieee.org",
       "source_url": "https://spectrum.ieee.org",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMFloVmlvaGNyTU9pUWpmNWxlTXBXSzJPcW02bjJEc0E4ajRVQ2JGV3ZGd01veGN2Zll5YTcyek40TUF6dUlvZmVFV05QOWdDVDRV0gFnQVVfeXFMT3FqanFJQ0NpZEFXU2NEZVlkdDc1ckllZkdNQy1sTDZIVm00dUNWdHlrQzBWZEZEMmJWbFphYUpyOGE2ai0zTFNXUGdfOGk1S2lfSmx6cVNGaWVFcm1PaTNldmFlbkJ1TQ?oc=5",
       "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT",
       "pubDateISO": "2025-11-10T08:00:00+00:00",
-      "snippet": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule IEEE Spectrum",
+      "snippet": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule spectrum.ieee.org",
       "query": "\"Justin Zeefe\""
     },
     {
@@ -205,7 +205,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPQlNGNnFzeGZCbDl4LXZKRU1qTWF5SkNwUTlPNW1WWHU1WlBpVTFCOWhxQlJHUkR3MzVvU2RpVEhTa01aMk5DNUZvMmJKYmo0bWVIcWxEN3ZWRjU0WTNtY2xqNElVZkFXM3h5c09HNWt4VjA5NXdtT0xUaG83Y3N6QjFMcTc1c1VaR3NIUU5XZWlYZFJSMTdJSXYwRFota1RteGpVZkdXM0s5bDQ2WnU5NlJZQmFOY1p4dF9abzVZYXJCZENXQnVuSlliWXB2VDFOUThSTzY2SjhJc2RhYVpKemhrQm1XS0JMMmxiRW5KUzc3V0VEaWgwclZRWElCaVpqd1FsUFBvRXFOT1R2bFg2SDUxb2ZpVG5sb3UwQzFQYjc1cUlnR2J1dnBWMkVwTUVCdGtFOC1FQzJvS1hnYkxHYXY1NGVFdzJKdHNMcFducV9wMGduWWR3OE5PZkFxZ0hHekdHZUZNb2t2cmh5RnBOM1dqNExKRlRqZGN2UGlLS2Jyakd1NkpXclIzZmFKMENnUG1rUzR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQZkNlaTI3bVFBdHB2RDN1ZGdod2U0T0xuY042ZHpKLWZORVY3dTNyTmN2cHMyVElRTjlqcDJHNkVCdVJ0SEZSZGtwQnBGNlg5ZkRCZTRDNXg0UUx0LXNIdTFnSzVIN3lMbEZEaDVTZnZJUTBOdjRGaGozTlBZaTM3eXRhVUg5NGUtdFdFSXNCMjUxU05WUElwSDV5MzAyLXo1MG9LcVRCRlJpMUU5QVhfSk1fTmR2RF9uOGlDUHJmeHYtVFBxanBKRnRORzl0aWozMDhDTWxka2tOVmJZQWRFRnRPaTJlbmRWaXBVVEpJX0syQ2REb1lZd25PbGkwTmZ5bGdzaXV2MXBySHlXM0x6SHJvX2V2eW0tRFRVQ0RPbTgzLTdqakFRaG1zcjFpTUpDazRZSzdRQ0FKbUFFalpaaFctaGoya0MxQlBZNXA3NmZkd2FqdlhIQ0J1RHJfQ2pLMlVuZzhPM2QyVzdRSl9UWnp3S240aXVjUnItUkZHZzlialB0OW0wRWJjSXVPbXQzVzZHRU9R?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
