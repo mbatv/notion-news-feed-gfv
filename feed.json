@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T19:10:56.598519+00:00",
+  "generatedAt": "2026-04-07T20:53:30.065392+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -13,12 +13,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -152,6 +152,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-05T08:00:00+00:00",
+      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -192,16 +202,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12emJJbElkd3ppOFBMTDVvMmYzTHVnTjJiWUJlOW9vaUs3OWhjcmxnWGNPMDZvYmU3ZTlyRWt2dkFUekd2NlVFS05GRQ?oc=5",
-      "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-23T08:00:00+00:00",
-      "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -225,7 +225,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQLTlTTXYya2NFTHdtOFhEaVRpVG1HazhFX0J5X1g0VnJxemNSSWtOTGtBTU50cl90SW1QOWJhbGJmNEpKeEdNalppWFBiNUhiVFFLeWNSMHBrOFlzVFJLVGlKRGRrcVZxckVTSWlIelZtbG9sQVlzeExXb3hhaXkyMVFGcW5iSm5oSFFXRGsxY0tjWGdlYXozT1lhMHhzQ1piMnJCbUY4RDFJYW9KV3NmRzdrSTBaRXc3SWJUcFFfUDlFYWVsSnZoWWQ5TjZSWFdmejNHakMzT1d5Z3g4UkNEN1VENHdYR2UxbVRNUGFZV3FqaEZUZE5XUHpYZkZHQVpNU0JuZjVmYWF6NGNJSE1sS0wxRUNIVWo1dDFiVEVRcTdqVVBvWDFzSFFFZHFPOHFiOHNRSF9ieVZFdk9nNThkWDd5dEd2R1pzemQ0OUN5QUxKS1UyWWpYc1hLMjEwMl80WHladjFzdlVpam9yc3Rfc0JFc2ZWVkktQjduRG5KZEpGTWxSSEtYQWtwTHZLT3NrZGl4U2Jn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPZEd4TkNtMUN1LVZkT19ELWxrZWhId0FpOHdkZVlkUXF6ZGV6a2ZNWGFrNUZYZGtycnJ2bml2YWpxeEZyTkt3eWJIcll3VEpjY1hKMEZSZ0VRUkFyTVhHcV9mMkV5VlVTWW9DT0cxdGFCbzA2ZndNTzR2aDQ1Umc1Wmg3c0pzbnJzdTFfZTdPS04xUjFKM3ppUnBuVlNrTlhGei1CbjFldE52aHZwam52Y1k0UHd3ZGo3U0s0eUFFWWVWaTFCcS1IVEItbm9lQmJDbjdMU2NTS2NRbnB0UUp5UXRjUFZfOTNQOUZIOU8zQTB3TDN0dVZOTmVRVlJaeHdQTGJtYW9SVTJrd013ZW9iejF1Wk9iR1p5MzFPRHVNS0xpZk5RdGNQYXZfeXhRcGVKcEVmTjJTZ3hiaDJ0Q1lqNXMzV1VncmNJaWFVWjU3WXV5NVVxUEdqYWZaNWtwUnUzeG9oQTY0ejdTVXdqTzdXUGFSSC1sOE5XZEtVd0otV2xzTXlIdU5sQ1N2NXZqX3k3NVFBSXR3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -283,12 +283,12 @@
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDRiYk94bTZnSGJTVGdZeU5EZW8wT0xaQWpxWlRfcDBTWGJqemtZS09fTGJKS0lfakhVd3REWTk2TWhTLWVkRUM3NEp4ZFk2aDkzc2NXcTVGVUZubUQ0R28wdmk5ZnRob0hFeDh1WjM5a0oxTk5JdjVPZGJhS0dDVHV2TEFWdjltOEZWWmh5cnBmZw?oc=5",
       "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-14T07:00:00+00:00",
-      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up The National Interest",
+      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up nationalinterest.org",
       "query": "\"Deborah Fairlamb\""
     }
   ]
