@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T11:00:50.088130+00:00",
+  "generatedAt": "2026-04-07T13:26:43.148783+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop",
-      "source": "Resilience Media",
+      "source": "resiliencemedia.co",
       "source_url": "https://resiliencemedia.co",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWl9SS2RqZ1pJWk1FU1lMakdNdFctdGxzMWsxVXM0LUF3ZG5BYkktMUhvbVlwV19QS054YVNVS2ZFdVZlR3BDaHJzUlVHQkFxNElMd2VxY2QtRmtOY0RsaVZNUjdiQXFzOWptVXlWSFBOV2d4LTZCU2pQbUdhUUgwUlZGbTNseWtDWEVYc2s4N0pRQ0ZDcE5MYm9KcGRuRVJycWdSMHk3WU9EN184NU5DSlZneDJMT21ib2c?oc=5",
       "pubDate": "Fri, 20 Mar 2026 14:21:08 GMT",
       "pubDateISO": "2026-03-20T14:21:08+00:00",
-      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
+      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop resiliencemedia.co",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -76,10 +76,10 @@
       "source": "dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
-      "pubDateISO": "2026-03-05T14:14:00+00:00",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
@@ -139,6 +139,16 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
+      "pubDate": "Thu, 15 Jan 2026 23:01:37 GMT",
+      "pubDateISO": "2026-01-15T23:01:37+00:00",
+      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -213,19 +223,19 @@
     },
     {
       "headline": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West",
-      "source": "newsukraine.rbc.ua",
+      "source": "RBC-Ukraine",
       "source_url": "https://newsukraine.rbc.ua",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEtFbG9QUU9Wdk9XMTM1NGVaU3Zyb1Z4c214dFc3WC00c1VjWHNwckliQ0duSWF4NU5TRVpoYjlyZ1h5N0d6STlCTUwwWXVFUnlJNTYwWFZyZnBwVFdXMVNveFFCZm1yZERhV0lzUVZHemM1UXphTXI3cDFUbkQxUG5QT201LTRacGVmbUpGWW5YS0RVbUtn?oc=5",
       "pubDate": "Sun, 02 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-02T07:00:00+00:00",
-      "snippet": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West newsukraine.rbc.ua",
+      "snippet": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West RBC-Ukraine",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPMTJrR1dFUndPb183T0tQeGtnajUxR1F0Rk9zRjd0RDd1QXNwN1N2WFlfSDBSd2FLVDYzU2JXWUQzZXVoeERFQ0NqbktNMGU2cWIya0tNTjZ3ZUdIeXdGR1BvTUZpTkVoYkpfWC1NVlZLN2JZaUxHTVB4UGp2Q0RXOVRMbDAycm13X0EwX2V0UkJMRS14bnB4YWtlalFjUVpjZFdJek96UXN3LUNzZ0REWTdZRWcwaWU5cjJqQ3R5VE1WUXZWUmttN0FKeC14QTBUa1d0U0xYa1dBRXVNMkxMZ1d4QWQ3NGNmOEJPTFcxODl4cVdPTmExZW5QcGZ4ZUNnRklwMDM2WnFpRUdXT0tiQTFvVW1NSXdCMndTYlVXc1M5UHhqTkZTeDVfQXB1d0swSmNXTk9PeHVOV1RJZzNTREFtUFhKWnNwVTRfbmV5Y0x3US1HbEJNRTI1MlBnQlJwaDVSdUFSVl9tb2hMdnZPYTg2UHNxdGg0WmFUaTQwSWxvWngyb1hVVmUyZWk4OTBEZjVCOGd3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPbUE0ODc1MjlaVkJrcjFmZ3RHSlVGY3pVMllnYUo5X3N2c1JuQ0laWW9wd2c2dWFwelUxeHZQclZ6VTl0SzJCNS1Mb1QtWnA5MXc5dHhWSTFvSXlrTjQ2eHRDU0lMN0pIR3hmSE9ZUFhQNE1sRGJLVzVfanNXNmM1Q0dUNUxQSGd4dlVuNTE0SG16dTl5VlZ2RUMxNE0tWkFFZnlOSHRIYjlmaGF2RU1uUE9oX3pmQjhQODhIQTdkX1RTMk1fa2RRUEtrUndCd0huVHJta21TckpBNFd1Vnk2LUVqd0tZODVuZ0ZTb05qOGxRRkxqUmRzRzZsSjZINm1Ic0ZJdW5DeWdLWDFXdXJfZGxmV3QxUVg4V1JzQ3FlclY5WlZ4NjIwbDJIZVNoaTNmUUZwQTFhNXhGZ184LS1vSFI0ZWJoaDlQdzgzTzQ4QW1ieG5Tc1k2TkN2STk0VnFVTDdCNW1XRDgtVVRaSGJFOFMzX0hGQmczWF9LMUtMaTFqVWFsVEZseUtYWmtYaHZCWkFDOE5R?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -283,12 +293,12 @@
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDRiYk94bTZnSGJTVGdZeU5EZW8wT0xaQWpxWlRfcDBTWGJqemtZS09fTGJKS0lfakhVd3REWTk2TWhTLWVkRUM3NEp4ZFk2aDkzc2NXcTVGVUZubUQ0R28wdmk5ZnRob0hFeDh1WjM5a0oxTk5JdjVPZGJhS0dDVHV2TEFWdjltOEZWWmh5cnBmZw?oc=5",
       "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-14T07:00:00+00:00",
-      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up The National Interest",
+      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up nationalinterest.org",
       "query": "\"Deborah Fairlamb\""
     }
   ]
