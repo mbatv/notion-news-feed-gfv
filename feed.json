@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T09:08:48.503761+00:00",
+  "generatedAt": "2026-04-07T11:00:50.088130+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -50,6 +50,16 @@
       "pubDateISO": "2026-03-16T12:32:00+00:00",
       "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXM0bWdoMDJRMHJsZTNHcFE1MG5TZjc2WTZmbTF3ZzZrSmlKY1RnWUhmSkJYdlpXeGdqaEI4clpFVGU1RllJQ1dVU0RlQnAtaU1zZlItNFE0cG8xelJ0UzVHLUpRVFRPX3c4UkFiZjY4MlhNZWpINWNOSVNOWEhYVVF5dG5sSjc2YzhCNmRKRDZjQzJBZTRXd1FNM1U4U216Qm1Lb0tEdlNBSXVDcC0yMVVHVng2cWFXV3ZV?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-13T07:00:00+00:00",
+      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
@@ -123,23 +133,13 @@
     },
     {
       "headline": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology",
-      "source": "Rubryka",
+      "source": "Рубрика",
       "source_url": "https://rubryka.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5USmhQNFRRaHZPOTFSWks2SmZvWEZFNVYybjA4LXhNZE85LV9Jdlp3dHBmWXlHUjBwRV9HME1jdnpjNXlGaHd0cFdhYVVXTS1jdF9VTUllTzBxbUI2S1NQYmhpbw?oc=5",
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
-      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Rubryka",
+      "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
@@ -213,19 +213,19 @@
     },
     {
       "headline": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West",
-      "source": "RBC-Ukraine",
+      "source": "newsukraine.rbc.ua",
       "source_url": "https://newsukraine.rbc.ua",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEtFbG9QUU9Wdk9XMTM1NGVaU3Zyb1Z4c214dFc3WC00c1VjWHNwckliQ0duSWF4NU5TRVpoYjlyZ1h5N0d6STlCTUwwWXVFUnlJNTYwWFZyZnBwVFdXMVNveFFCZm1yZERhV0lzUVZHemM1UXphTXI3cDFUbkQxUG5QT201LTRacGVmbUpGWW5YS0RVbUtn?oc=5",
       "pubDate": "Sun, 02 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-02T07:00:00+00:00",
-      "snippet": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West RBC-Ukraine",
+      "snippet": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West newsukraine.rbc.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQS3lubUgta3Y1VkxvWWpvcjAwUnpBZXJTTXloWXVXTWdfbkg0SzBDMVRpOWh6bmlKb2wxYXNibzR1QmZWVXp3Z0diX3pUSUlOX1VVRnR1Q2pTb1FoOUZUM0pDWXBYemhyZnMzSEN6bWJsbl9adVpKZzZiYnZFUWJPQ0FESW5HeEptTlRoSTRyeTJULThTOUp5blZEdzFBS2J5bjNSUllUZXVJSDcyeFJ1VnA5VkEtQkhOZ2dXUzhwU0N4SHM3eHZOdDg3WmpXbjZlaXFlTkN0ZURla0xNLVR2SVZ4UVctRURCTHBKSFZtSmFVYzRlWnVQTHZtN0VoMDFFTUowV3pPb25FMUhUNzVDeEtqbDVOcWNacDgwVmtBc2pFU05qNXRPLWNYUWplYjRxa1c2VWlzdTJfRU45NDktbjlaLVlqN0lzN2FTMmVpdkU1S3JwQnVWcGJrSDVyQThmWUdFZnh5eUsxZzYyMmR1aXFSMUozdlN0R3BPWTZHd0RELTlYMFJNdVZEenJndnREbnlyN1d3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPMTJrR1dFUndPb183T0tQeGtnajUxR1F0Rk9zRjd0RDd1QXNwN1N2WFlfSDBSd2FLVDYzU2JXWUQzZXVoeERFQ0NqbktNMGU2cWIya0tNTjZ3ZUdIeXdGR1BvTUZpTkVoYkpfWC1NVlZLN2JZaUxHTVB4UGp2Q0RXOVRMbDAycm13X0EwX2V0UkJMRS14bnB4YWtlalFjUVpjZFdJek96UXN3LUNzZ0REWTdZRWcwaWU5cjJqQ3R5VE1WUXZWUmttN0FKeC14QTBUa1d0U0xYa1dBRXVNMkxMZ1d4QWQ3NGNmOEJPTFcxODl4cVdPTmExZW5QcGZ4ZUNnRklwMDM2WnFpRUdXT0tiQTFvVW1NSXdCMndTYlVXc1M5UHhqTkZTeDVfQXB1d0swSmNXTk9PeHVOV1RJZzNTREFtUFhKWnNwVTRfbmV5Y0x3US1HbEJNRTI1MlBnQlJwaDVSdUFSVl9tb2hMdnZPYTg2UHNxdGg0WmFUaTQwSWxvWngyb1hVVmUyZWk4OTBEZjVCOGd3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
