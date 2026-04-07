@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T20:53:30.065392+00:00",
+  "generatedAt": "2026-04-07T21:47:33.600878+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -83,12 +83,12 @@
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
-      "source": "Inventure.com.ua",
+      "source": "inventure.com.ua",
       "source_url": "https://inventure.com.ua",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lEZTkxaEZVVldVaTFjZ3cxNHVVTWF6dW1pbVNfRDlVREdqazFHMkFfMnlrczZDN1dPRk9Sc0k5MVZwZVAzS1A1XzZSbzE2cFJORDRZMW5ISE9iUE5raVNpMnhZd1RyV0Fxc2hFNzhXcDNzTV9rajVkX3IyalNSTUFkcUg1eDRFSHZOaXllNG9CWmlJTXBsSktpNmZ3YVdvaC12VzJlU0dlLUpvQUQ2SEluZXAycGVi?oc=5",
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
-      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
+      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -102,6 +102,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 09:08:00 GMT",
+      "pubDateISO": "2026-02-20T09:08:00+00:00",
+      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -109,16 +119,6 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -150,16 +150,6 @@
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -202,6 +192,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12emJJbElkd3ppOFBMTDVvMmYzTHVnTjJiWUJlOW9vaUs3OWhjcmxnWGNPMDZvYmU3ZTlyRWt2dkFUekd2NlVFS05GRQ?oc=5",
+      "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-23T08:00:00+00:00",
+      "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -225,7 +225,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPZEd4TkNtMUN1LVZkT19ELWxrZWhId0FpOHdkZVlkUXF6ZGV6a2ZNWGFrNUZYZGtycnJ2bml2YWpxeEZyTkt3eWJIcll3VEpjY1hKMEZSZ0VRUkFyTVhHcV9mMkV5VlVTWW9DT0cxdGFCbzA2ZndNTzR2aDQ1Umc1Wmg3c0pzbnJzdTFfZTdPS04xUjFKM3ppUnBuVlNrTlhGei1CbjFldE52aHZwam52Y1k0UHd3ZGo3U0s0eUFFWWVWaTFCcS1IVEItbm9lQmJDbjdMU2NTS2NRbnB0UUp5UXRjUFZfOTNQOUZIOU8zQTB3TDN0dVZOTmVRVlJaeHdQTGJtYW9SVTJrd013ZW9iejF1Wk9iR1p5MzFPRHVNS0xpZk5RdGNQYXZfeXhRcGVKcEVmTjJTZ3hiaDJ0Q1lqNXMzV1VncmNJaWFVWjU3WXV5NVVxUEdqYWZaNWtwUnUzeG9oQTY0ejdTVXdqTzdXUGFSSC1sOE5XZEtVd0otV2xzTXlIdU5sQ1N2NXZqX3k3NVFBSXR3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNM2RWeUlxZFoxME93NEo2d2ZsSGIxbFNqXzJqNjRaeWt6MDNYT0NRdzFybjFMZk92bzkxM3RxY0V2R040M1BUeGx2SmFvQVBqUW9vNHNXRF8zUkZfLWMyUk9pdEtwOWxHZ3Rrc3VPdkM4QlJZWV8zVjZaTldfWWJRa2gyaFlHQmQ3am9YRzBhc3E3TkRIUGt1Ukg0b2tGVTRVeFNJWkhaem1lUGd1U0FJUlhyakxRZjlZT0dLQzhsVWViZkYxcnlWVER0dFFvc2Y3U01PeC10YVNSWnFTU2p0RzdTZXVVbVJnMENXNzRkc01nNERzWWcwWW03R0duUk9wNEZCdmRuemdmVlBSbkdFZjJRRW5YWmZjMlh0bXFrOFBRdmxSbVh5ekpZbGJEWTBadllFNlVrU1NnWVU2VHA1Rm0xcTRpZUR0Y05kNk1lUTRsX2RPZVhqZW9YQlZPZTFYUmh1OGYzR2JUYzZoT3J6WHJiYXRNMjhQNWpjd0xTVlBkTzVSdmhhRTdNVnZKUlh1NjFRSFFn?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
@@ -283,12 +283,12 @@
     },
     {
       "headline": "Ukraine’s Drone War Over the Black Sea Is Heating Up",
-      "source": "nationalinterest.org",
+      "source": "The National Interest",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDRiYk94bTZnSGJTVGdZeU5EZW8wT0xaQWpxWlRfcDBTWGJqemtZS09fTGJKS0lfakhVd3REWTk2TWhTLWVkRUM3NEp4ZFk2aDkzc2NXcTVGVUZubUQ0R28wdmk5ZnRob0hFeDh1WjM5a0oxTk5JdjVPZGJhS0dDVHV2TEFWdjltOEZWWmh5cnBmZw?oc=5",
       "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
       "pubDateISO": "2025-10-14T07:00:00+00:00",
-      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up nationalinterest.org",
+      "snippet": "Ukraine’s Drone War Over the Black Sea Is Heating Up The National Interest",
       "query": "\"Deborah Fairlamb\""
     }
   ]
