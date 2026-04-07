@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T15:13:23.072229+00:00",
+  "generatedAt": "2026-04-07T17:05:14.119303+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -53,12 +53,12 @@
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
-      "source": "euromaidanpress.com",
+      "source": "Euromaidan Press",
       "source_url": "https://euromaidanpress.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXM0bWdoMDJRMHJsZTNHcFE1MG5TZjc2WTZmbTF3ZzZrSmlKY1RnWUhmSkJYdlpXeGdqaEI4clpFVGU1RllJQ1dVU0RlQnAtaU1zZlItNFE0cG8xelJ0UzVHLUpRVFRPX3c4UkFiZjY4MlhNZWpINWNOSVNOWEhYVVF5dG5sSjc2YzhCNmRKRDZjQzJBZTRXd1FNM1U4U216Qm1Lb0tEdlNBSXVDcC0yMVVHVng2cWFXV3ZV?oc=5",
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-13T07:00:00+00:00",
-      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses euromaidanpress.com",
+      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -76,10 +76,10 @@
       "source": "dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "pubDateISO": "2026-03-05T08:00:00+00:00",
+      "pubDate": "Thu, 05 Mar 2026 14:14:00 GMT",
+      "pubDateISO": "2026-03-05T14:14:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
@@ -100,6 +100,16 @@
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 09:08:00 GMT",
+      "pubDateISO": "2026-02-20T09:08:00+00:00",
+      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -139,16 +149,6 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
-      "source": "The Recursive",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-19T08:00:00+00:00",
-      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -225,7 +225,7 @@
       "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNMFdEZ1ZQZVNuMmtqSTJSQ1dyV2g5d1ljcVY5MU5KSkY3eWpHeWtleFR4QW9qUzBnV3JYZWY3RHFSeFVyd1UwNG5NTFMzaU91ZnFPUUJuRDQ1aHZwSUtTR1FNWFZpV2lOQ2pDa1ZZMm81bDJUYzZGaUxUd3V2NG0zcXZPUWN0Y3dVdGNQaDg2RHREdWdtNGRVS0RQWU0xdy15TS1OdXZvbTJYMS1COTRmYVdVN2drTFN0cHQzRFRBQmhPNjdKODRJbXhZZVpWODBvMlVoWXhlaml1ZEoxWTR2RHE0UGNFSzczVHY5QkV4T1pOUkpPSWEtdGFHYkI2S0djYlNMdEI1Nm9lSm41T2NzTUxIem9DT3Q1eWVJQkpydmxWT2xzOXlrbUVtNmxOSm9KLUNhdVJDZUpwQ0cwbXkxWlg1Wi1HS2pjenBhRDExYm4wOW1SanVYVmNCUmktRlhXTVlQTmxtMUhPb0Z6VUZrVGZGT29ORFRicnNZQWxCeGJPMXFER0pnRmtBbVFFUUFlUVhzVEpB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNbElQQnlSQ3pTbnZRTDJkdXB2dWZycVVWNDRyb0RpTDhUeWFXQUVVV2tDVllzM0ZPWUVLbUd4NjJKakE2Vk93Ukh1UjltTTFzQWVJVlBCR2gwa3RKUV9ORUNMaTk2M0pEVS1qbzFHcEliSFNlWkFlMWZnVjNyNXBoazlwOUZFNjh6Wm9oczllNlZhR0xVWXF0N1Z6RmdPcXIzeFhSZjdabVNxdWJDbDBldFZITll3OHY3Wlk4cXNKbHBCaUV4NFkwQVRGYW5aaVh6bFFkdXFBUnA2T3lYd1VtZXhiNGNvalBYMXBJdHJIemROQ1ZWMFBhVHdiSDVxMVA1RkNnZUVZNUdHajdFRzBBdEI5RDlZUkY2R2F1Smd4X2lqa1ppVHNVU2hEVUpTZkNfbmRST1Q3Z1o3TGptTGhnekNmYVdVT2hFSTN2cEw3bExKZTkybll3b0JJNE4tNzlQa2VuZl9OdFlxWHV2aTRzYTMtcHM2ai00dEhhS0RlZjlHWW93aEVfbTU1YS0yc2dyZXp0cHJ3?oc=5",
       "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
       "pubDateISO": "2025-11-01T07:00:00+00:00",
       "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
