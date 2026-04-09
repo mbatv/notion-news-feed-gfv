@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T19:14:09.445740+00:00",
+  "generatedAt": "2026-04-09T20:56:23.482329+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -172,6 +172,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
       "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
@@ -210,16 +220,6 @@
       "pubDateISO": "2025-11-23T08:00:00+00:00",
       "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWkF5cUh0VXpzTnllNTcwSElpRWtCVXozNjdkLU9Yd0pka1JDNk8yeHVnVmwtSlBjc0tzbzI4QzlRMHliQ0dMUFRkYkxPZWl4SVhEdXJZd1FQUkxPaXlLem1IazVENkg2VW15Zw?oc=5",
-      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-20T08:00:00+00:00",
-      "snippet": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity en.ain.ua",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
