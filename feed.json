@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T09:14:17.792665+00:00",
+  "generatedAt": "2026-04-09T11:03:08.721390+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -210,6 +210,16 @@
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWkF5cUh0VXpzTnllNTcwSElpRWtCVXozNjdkLU9Yd0pka1JDNk8yeHVnVmwtSlBjc0tzbzI4QzlRMHliQ0dMUFRkYkxPZWl4SVhEdXJZd1FQUkxPaXlLem1IazVENkg2VW15Zw?oc=5",
+      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-20T08:00:00+00:00",
+      "snippet": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity en.ain.ua",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
