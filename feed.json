@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T02:39:18.750115+00:00",
+  "generatedAt": "2026-04-11T04:58:50.402523+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -99,7 +99,7 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
