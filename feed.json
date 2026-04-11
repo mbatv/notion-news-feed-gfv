@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T10:39:30.849611+00:00",
+  "generatedAt": "2026-04-11T11:34:39.308999+00:00",
   "items": [
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-04-03T16:27:21+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Which sectors in Ukraine are currently seeing investment",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 00:36:54 GMT",
-      "pubDateISO": "2026-04-01T00:36:54+00:00",
-      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -40,16 +30,6 @@
       "pubDateISO": "2026-03-20T14:21:08+00:00",
       "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTZ6blN3RGFkcnRCalhNcmUxaXZoNFdrQUxFZnVSOVNhMmRhMGsxenBzdzVTeVpaTmlJSTAxNUpsUkM0Rm5hMXI5NVVvamVOanJhMXF2LVJyTVFQQ3ZHZWw5Q3hoOUM5THh0T09rV0VJa2ZsS0sycEVGS00xdEhXTGl4UkxNZnRvRHFwN2pzRVNsTHd4NUZIQWdrbFFiR2ItOE56dQ?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
-      "pubDateISO": "2026-03-16T12:32:00+00:00",
-      "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -99,7 +79,7 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -122,6 +102,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Which sectors in Ukraine are currently seeing investment",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
+      "pubDate": "Mon, 16 Feb 2026 20:20:36 GMT",
+      "pubDateISO": "2026-02-16T20:20:36+00:00",
+      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
       "source": "The New Voice of Ukraine",
       "source_url": "https://english.nv.ua",
@@ -139,6 +129,16 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "TheRecursive.com",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals TheRecursive.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
