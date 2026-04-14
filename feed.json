@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T22:00:20.290521+00:00",
+  "generatedAt": "2026-04-14T23:46:54.580479+00:00",
   "items": [
     {
       "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
@@ -49,7 +49,7 @@
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -160,16 +160,6 @@
       "pubDateISO": "2026-01-05T08:00:00+00:00",
       "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRS13ZHI1QTJsMVU5eEpHSTgxMklzRUhXbjdaeV8zeEZFSkt3WVo4RXhuRTY5YWlHNHJmejdJM3I4VVBHd1REYzRfVlo1ZU93Z0FOT1kxY1dSV21OV2ZoY0dONjNha2JsTkhFM2Q0bjFvUVNVd0ZZRk5zSmFabW9ZR05wZmU4QnQ2bzFLYzVuVmlkRWJtUkJYMENmeS1LWklQaDBJT2ZJemE2ODY4UlE?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-02T08:00:00+00:00",
-      "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
