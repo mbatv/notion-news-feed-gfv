@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T13:48:00.572818+00:00",
+  "generatedAt": "2026-04-15T15:09:03.155666+00:00",
   "items": [
     {
       "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
@@ -42,13 +42,13 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "Venture Capital Journal",
-      "source_url": "https://www.venturecapitaljournal.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
+      "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
+      "source": "Dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTZ6blN3RGFkcnRCalhNcmUxaXZoNFdrQUxFZnVSOVNhMmRhMGsxenBzdzVTeVpaTmlJSTAxNUpsUkM0Rm5hMXI5NVVvamVOanJhMXF2LVJyTVFQQ3ZHZWw5Q3hoOUM5THh0T09rV0VJa2ZsS0sycEVGS00xdEhXTGl4UkxNZnRvRHFwN2pzRVNsTHd4NUZIQWdrbFFiR2ItOE56dQ?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 12:32:00 GMT",
+      "pubDateISO": "2026-03-16T12:32:00+00:00",
+      "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -59,6 +59,16 @@
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures Dev.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
+      "source": "Inventure.com.ua",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEhIemJpLWEwM2QzaGctWW9XYVZYV2tjdW9Vd2RJbk5qaXB4ZWFWcGdiTDlENXZrYkdlSnZ6bHU5WXNkNkZKT0xULXRFSUNlYU1vQ3RGOG5HVWdNNVk3SGdyNjdCbklpLXdkaFdJaU05Rmw0aXR5V2dsYklBemNlbEtETzIzWXZKa0RxZVBvWEJhanBmTkRWRHMyR2o5cUxURHo3a0xpSjVWSWo4bHdlRkRvQjBreWxFckkxRUZqTUdTcmZJV1E?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-13T07:00:00+00:00",
+      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -149,16 +159,6 @@
       "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "United to win: UCDI Investor Club Platform launches in Ukraine to attract investment in military technology Рубрика",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
-      "source": "ubn.news",
-      "source_url": "https://ubn.news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQy04eEJBV0JILVVXbTNkTVJvenVpc1B1Q1Nmc1VmaDkyU1dvU1FJOE5YN0UzbzhMWDNucUp1QmFiWGZkb3VhU3B1QkdvTWZ5eWRwVHNJVTRnRk9hSlJtMEZ0RkVfQTl4MUFXcG5VT01GNWZ2dF93SThlamtxeExMb1dNNWlrUHVGOU9FUVh4bEViYjlZWGliamJraV9sdmhRXzltdG1MQ3VFTW4yNGfSAbYBQVVfeXFMT1hXdW8zZW8xckREY19Za0NZR2RGcmo1SGFoRVNHdWdtQXotd1ozbGd2NTFPdjhBekxUaVNsUDZHbjhjSHcwWVN2NmVtS0dHdHF0ajJfWTJmWlMxMWZac3dhc2l6bFZpVlF3Yi1RZTF1LW51M0J6cTNCSXRMWkVqRmtQelhVeTNibmpabVRDMEEwXzNLNHduMFFFWWlOVGxhNFZhWnhSREwwMHZIWVA5TUVicVlkaHc?oc=5",
-      "pubDate": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-16T08:00:00+00:00",
-      "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
