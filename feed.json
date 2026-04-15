@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T21:57:55.227760+00:00",
+  "generatedAt": "2026-04-15T22:52:23.182832+00:00",
   "items": [
     {
       "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
@@ -119,7 +119,7 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -129,16 +129,6 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
