@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T17:39:40.173995+00:00",
+  "generatedAt": "2026-04-18T18:57:15.647008+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -230,6 +230,16 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology",
+      "source": "Odessa Journal",
+      "source_url": "https://odessa-journal.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFBzZTc5VUpudGExZ3A4cjg5Y3I3am5QaVcxaHZJQmdYSzVnaTlDOGs3SkFIaVZ2ajNtMGc1cjJ5dFdTeGhmazNuaXNUZFJHM3owVVFMRVRUV1VwS0NGbGt4TGtNU2hQNkdmaXFqamJXQTNKYkphcnhFZzBKd0RReS1zZjFmTmVLZjdpNGdCNEhJQ29ZWTB4NTZtUVlTWnVNMnlnM2pGR09MMDU4d1E?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology Odessa Journal",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
