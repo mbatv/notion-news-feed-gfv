@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T09:08:27.961070+00:00",
+  "generatedAt": "2026-04-20T11:20:53.598278+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -199,6 +199,16 @@
       "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-03T08:00:00+00:00",
       "snippet": "Swarmer files for IPO thedefender.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Swarmer has filed for an IPO",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZcnBaSUMtYnktYmNpeFhJY1RqWHIwOC1DWG82WkRhaldWbU94amhQd25TX3JCS2lVem5TRk1zWGVHOUx3UjZDb0gwLXRzd2R0S1JZeG01WlI?oc=5",
+      "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-02T08:00:00+00:00",
+      "snippet": "Swarmer has filed for an IPO en.ain.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
