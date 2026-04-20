@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T06:19:17.357289+00:00",
+  "generatedAt": "2026-04-20T09:08:27.961070+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-04-17T16:09:23+00:00",
       "snippet": "Deborah Failamb on Swarmer’s IPO and new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
-      "source": "Meyka",
-      "source_url": "https://meyka.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZhaDdDaEhFT1pUYmFGcDdmRlFpTHdvYS0tNFkwRk95RUJ2VzE1NlBMSW43b1VPWktpRlc3Q25hWFkyM2lDMThXWlNKTGhqWUFfbTNFQk5aZjY3ekxsMFc4MGFBdHZlWElHckQwazU5a0M3RXNPUHlCVmxxd2h2dDBRbWZoMTBPeksyT3ZwSUFrSkRLTHgtRQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 01:27:07 GMT",
-      "pubDateISO": "2026-04-13T01:27:07+00:00",
-      "snippet": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging Meyka",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -132,6 +122,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Autonomy investments prove prescient amid Iran conflict",
+      "source": "PitchBook",
+      "source_url": "https://pitchbook.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmkxX3M0RkxKWUVDMFpwX21aUWRnT0hBVE9INl9mZk1wZlA1bk5mVnh3ei1mS1l3bGJoVDd6U2hQWUl5ZmJzMVEyRXJ0NmNRN0dCejc3ZzRyNG1Wb29MR1J3azdFSnRJLXRCMC11WXAxM0Itd19EYTB0T3ItTUZDZG5yUVVPNkdaRmg1eGs2SGFUY0hqYlE?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-03T08:00:00+00:00",
+      "snippet": "Autonomy investments prove prescient amid Iran conflict PitchBook",
+      "query": "\"Justin Zeefe\""
+    },
+    {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -190,6 +190,16 @@
       "pubDateISO": "2026-02-05T08:00:00+00:00",
       "snippet": "Two Ukrainian drone manufacturers are bidding for Pentagon contracts. What lies ahead for them thedefender.media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Swarmer files for IPO",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmpwMjhCLVZGV2E2ZGtHZ2hiYTFJT2xVVlFoYVRYblZScFhGNDQ3V09jZDFzaEZ5UEtvY0Q3VXFXVi1lakFWNUV4NjM2YmtZWkF3b3pRNzRoZDN5QTRQdmo1YWZIdw?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Swarmer files for IPO thedefender.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
