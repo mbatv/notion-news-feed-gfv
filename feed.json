@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T17:09:01.770499+00:00",
+  "generatedAt": "2026-04-21T19:18:57.845153+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -152,6 +152,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMVlNM2Rna1hLTFEtODBzS1EyenlMOEczMjh1NTRRQTQyM3J5WjVIYUk0dEpRbXhXVmNUN2xMNDl6QWNIQ2ZWVnIzMEV4Z1FxVFdaQWFiVldBNkpINlRlblRJeS1RWW1DWk81bDdKX0w?oc=5",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-19T08:00:00+00:00",
+      "snippet": "Ukrainian Drone Fight Group bids for a Pentagon contract thedefender.media",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "Which sectors in Ukraine are currently seeing investment",
       "source": "The Kyiv Independent",
       "source_url": "https://kyivindependent.com",
@@ -220,16 +230,6 @@
       "pubDateISO": "2026-01-16T08:00:00+00:00",
       "snippet": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Major investments in Ukrainian companies in 2025",
