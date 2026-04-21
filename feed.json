@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T15:17:31.332692+00:00",
+  "generatedAt": "2026-04-21T17:09:01.770499+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -19,6 +19,16 @@
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-21T07:00:00+00:00",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -140,16 +150,6 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMVlNM2Rna1hLTFEtODBzS1EyenlMOEczMjh1NTRRQTQyM3J5WjVIYUk0dEpRbXhXVmNUN2xMNDl6QWNIQ2ZWVnIzMEV4Z1FxVFdaQWFiVldBNkpINlRlblRJeS1RWW1DWk81bDdKX0w?oc=5",
-      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-19T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Fight Group bids for a Pentagon contract thedefender.media",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Which sectors in Ukraine are currently seeing investment",
@@ -330,6 +330,16 @@
       "pubDateISO": "2025-11-23T08:00:00+00:00",
       "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWkF5cUh0VXpzTnllNTcwSElpRWtCVXozNjdkLU9Yd0pka1JDNk8yeHVnVmwtSlBjc0tzbzI4QzlRMHliQ0dMUFRkYkxPZWl4SVhEdXJZd1FQUkxPaXlLem1IazVENkg2VW15Zw?oc=5",
+      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-20T08:00:00+00:00",
+      "snippet": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "How Ukraine’s Technologists and Artists are Rewriting the Country’s Future",
