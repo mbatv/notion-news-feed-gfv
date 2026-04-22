@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T22:51:38.007951+00:00",
+  "generatedAt": "2026-04-22T23:49:49.197745+00:00",
   "items": [
     {
       "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
@@ -152,6 +152,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
+      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-20T08:00:00+00:00",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
       "source": "thedefender.media",
       "source_url": "https://thedefender.media",
@@ -289,16 +299,6 @@
       "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukrainian defense-tech startup HIMERA raises over $2.5 million to improve military communications",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUJXZFptaHczRE4zVHZyV0NBdmxsNVlxWkNJbzlYZm53bzh0Wnp1N2xLYWkyWkIwYzJpZ0FpNjB1LWJtU29fbUtsd2FMLXZIMmxSUXI1NWM5WVh4dW9WY3Y0NW1CX29RNXc4VFUwUTNEZ2pJdVd0WVlDSlZDWXAtbkNWV2c5eDE5d2VLTTlSeUZ0MjBqSUtfSUVxQXZMM2hKWFhFczJ4anlWNUJsWTBmanhDUTgwVGRIUFE?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "Ukrainian defense-tech startup HIMERA raises over $2.5 million to improve military communications dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
