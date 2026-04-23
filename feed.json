@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T20:56:45.559287+00:00",
+  "generatedAt": "2026-04-23T21:54:32.641615+00:00",
   "items": [
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -20,6 +20,16 @@
       "pubDateISO": "2026-04-17T16:09:23+00:00",
       "snippet": "Deborah Failamb on Swarmer’s IPO and new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Which sectors in Ukraine are currently seeing investment",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
+      "pubDate": "Sat, 11 Apr 2026 09:14:45 GMT",
+      "pubDateISO": "2026-04-11T09:14:45+00:00",
+      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -132,6 +142,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Autonomy investments prove prescient amid Iran conflict",
+      "source": "PitchBook",
+      "source_url": "https://pitchbook.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmkxX3M0RkxKWUVDMFpwX21aUWRnT0hBVE9INl9mZk1wZlA1bk5mVnh3ei1mS1l3bGJoVDd6U2hQWUl5ZmJzMVEyRXJ0NmNRN0dCejc3ZzRyNG1Wb29MR1J3azdFSnRJLXRCMC11WXAxM0Itd19EYTB0T3ItTUZDZG5yUVVPNkdaRmg1eGs2SGFUY0hqYlE?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-03T08:00:00+00:00",
+      "snippet": "Autonomy investments prove prescient amid Iran conflict PitchBook",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -179,16 +199,6 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Which sectors in Ukraine are currently seeing investment",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
-      "pubDate": "Mon, 16 Feb 2026 20:20:36 GMT",
-      "pubDateISO": "2026-02-16T20:20:36+00:00",
-      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
