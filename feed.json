@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T15:15:18.804369+00:00",
+  "generatedAt": "2026-04-23T17:23:56.541318+00:00",
   "items": [
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -22,16 +22,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Which sectors in Ukraine are currently seeing investment",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
-      "pubDate": "Sat, 11 Apr 2026 09:14:45 GMT",
-      "pubDateISO": "2026-04-11T09:14:45+00:00",
-      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
       "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
@@ -43,12 +33,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -192,6 +182,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Which sectors in Ukraine are currently seeing investment",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
+      "pubDate": "Mon, 16 Feb 2026 20:20:36 GMT",
+      "pubDateISO": "2026-02-16T20:20:36+00:00",
+      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
       "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
@@ -292,16 +292,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology",
-      "source": "Odessa Journal",
-      "source_url": "https://odessa-journal.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFBzZTc5VUpudGExZ3A4cjg5Y3I3am5QaVcxaHZJQmdYSzVnaTlDOGs3SkFIaVZ2ajNtMGc1cjJ5dFdTeGhmazNuaXNUZFJHM3owVVFMRVRUV1VwS0NGbGt4TGtNU2hQNkdmaXFqamJXQTNKYkphcnhFZzBKd0RReS1zZjFmTmVLZjdpNGdCNEhJQ29ZWTB4NTZtUVlTWnVNMnlnM2pGR09MMDU4d1E?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology Odessa Journal",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -320,6 +310,16 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
