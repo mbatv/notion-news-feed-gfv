@@ -1,15 +1,25 @@
 {
-  "generatedAt": "2026-04-25T22:41:36.503781+00:00",
+  "generatedAt": "2026-04-25T23:42:22.086655+00:00",
   "items": [
     {
-      "headline": "Deborah Failamb on Swarmer’s IPO and new $60 million fund",
+      "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
       "source": "Defender Media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 16:09:23 GMT",
-      "pubDateISO": "2026-04-17T16:09:23+00:00",
-      "snippet": "Deborah Failamb on Swarmer’s IPO and new $60 million fund Defender Media",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-17T07:00:00+00:00",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund Defender Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Which sectors in Ukraine are currently seeing investment",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
+      "pubDate": "Sat, 11 Apr 2026 09:14:45 GMT",
+      "pubDateISO": "2026-04-11T09:14:45+00:00",
+      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
@@ -30,6 +40,16 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-25T07:00:00+00:00",
+      "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known Defender Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -212,16 +232,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Which sectors in Ukraine are currently seeing investment",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
-      "pubDate": "Mon, 16 Feb 2026 20:20:36 GMT",
-      "pubDateISO": "2026-02-16T20:20:36+00:00",
-      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
       "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
@@ -240,16 +250,6 @@
       "pubDateISO": "2026-02-05T08:00:00+00:00",
       "snippet": "Two Ukrainian drone manufacturers are bidding for Pentagon contracts. What lies ahead for them Defender Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer files for IPO",
@@ -372,16 +372,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -389,6 +379,16 @@
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
