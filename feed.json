@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T05:16:20.618086+00:00",
+  "generatedAt": "2026-04-25T07:24:22.114009+00:00",
   "items": [
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -252,6 +252,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Swarmer files for IPO",
       "source": "Defender Media",
       "source_url": "https://thedefender.media",
@@ -372,16 +382,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
       "source": "Resilience Media",
       "source_url": "https://resiliencemedia.co",
@@ -389,6 +389,16 @@
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
