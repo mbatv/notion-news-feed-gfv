@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T10:54:02.808144+00:00",
+  "generatedAt": "2026-04-26T11:41:52.142244+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -13,12 +13,22 @@
     },
     {
       "headline": "Which sectors in Ukraine are currently seeing investment",
-      "source": "The Kyiv Independent",
+      "source": "kyivindependent.com",
       "source_url": "https://kyivindependent.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekpqSmJoX3pmQVotbmptMVo2Z3Z2ZTVscmp0cjdHYW5hclhlMEl4Z3RzTlh6Qk9ETHpGcDNfaHhoTnJ1MkVBM0RxNmE1bnlMVnBodDR4a0RWaFh6QnlzNFUybEJsVmZHSnFpMDhvVVpPQlBraDJ2czJLakRQS1dWZHlWbWw?oc=5",
       "pubDate": "Sat, 11 Apr 2026 09:14:45 GMT",
       "pubDateISO": "2026-04-11T09:14:45+00:00",
-      "snippet": "Which sectors in Ukraine are currently seeing investment The Kyiv Independent",
+      "snippet": "Which sectors in Ukraine are currently seeing investment kyivindependent.com",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "source_url": "https://cepa.org",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
+      "pubDate": "Sat, 04 Apr 2026 05:02:24 GMT",
+      "pubDateISO": "2026-04-04T05:02:24+00:00",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -400,16 +410,6 @@
       "pubDateISO": "2025-11-20T08:00:00+00:00",
       "snippet": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity en.ain.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "How Ukraine’s Technologists and Artists are Rewriting the Country’s Future",
-      "source": "International Policy Digest",
-      "source_url": "https://intpolicydigest.org",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUhEbHpyT2tDM1MxbWdNUjI1aUpaNWYtNlpnSFlzVi1RSGFrX1ROaEpNeF9pRklUMTNHUkIweHlyRTRzdW5lUVYzaFF1cTUwX3Z1WnpxQ0xlMm5MdXJxSDFrcm1rRFlkTHViWmdicXJDYlM1RU92WHlnVkYzYVZ2UDJQd2hiRG42T3RTLWtuemhtRzFlbTkwS21wQ1k3aV9lMnc5Rmh3?oc=5",
-      "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-19T08:00:00+00:00",
-      "snippet": "How Ukraine’s Technologists and Artists are Rewriting the Country’s Future International Policy Digest",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
