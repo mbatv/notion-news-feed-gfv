@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T21:56:34.480463+00:00",
+  "generatedAt": "2026-04-27T22:59:16.866864+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -102,16 +102,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "The Audi Open Haus Sales Event Launches in South Africa",
-      "source": "Arrive Alive",
-      "source_url": "https://carinsurance.arrivealive.co.za",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkRVTXVJeDR5eThOTnZpZklsbV9MT3VLTlM3Rk43NC1EM0Z3UEd6U1ZBczRwSWRzS1REOW5vR0ZSRDVFb2N5Ry04VWVSbDlCRlRad1RpTHo4dG1FRUJsRXR5bDFmU1hKNkc4R2Zzei1mQ3hnWjZPRlo3ZDVvLVp1Y2thZ2pRVVk3OW5YeDd1MUZJOE9Wa3ppVUZIYw?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "The Audi Open Haus Sales Event Launches in South Africa Arrive Alive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
       "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
@@ -130,6 +120,16 @@
       "pubDateISO": "2026-03-13T07:00:00+00:00",
       "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Russian Soldiers Are Surrendering To Ukrainian Drones And Robots",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdURhQnRyREYwRFZFQTFVR1FGX3lrSEE1SzdkWVNpM0VWQm1UMGJWM0JzLVRiWlpkRVpwbXktQkQ5UDJydHM4U1Z3LUtqc0VSVS1UODhUTVl5VURMVW91anhDRDZIZk03aGxXY1VCeFhBSFAwQmZscV80Rk1fREtoNFRZby1Ed2UzcEl6TTRVZklCbzlqcFNfbEo1b1J2QQ?oc=5",
+      "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-11T07:00:00+00:00",
+      "snippet": "Russian Soldiers Are Surrendering To Ukrainian Drones And Robots Yahoo",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
