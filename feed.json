@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T21:10:26.247212+00:00",
+  "generatedAt": "2026-04-28T22:59:08.242977+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -122,16 +122,6 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "Ukrainian SkyFall’s drone wins at Pentagon’s Drone Dominance selection",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0czZnWDg2dmtYZXdYRmlqNVA2T2NoQldfYUpQaVJFQ2xWcjJtUi1UaEZqT3B1V2lwck90SUVmVkZDOHBFdUo4QnhMM19sSUxIN0N4ZkJaSWo5a0RhWTg4WEJ5QUViNS1zRExXOFozd1d3WmFWd1NuZExJSQ?oc=5",
-      "pubDate": "Sat, 07 Mar 2026 08:00:00 GMT",
-      "pubDateISO": "2026-03-07T08:00:00+00:00",
-      "snippet": "Ukrainian SkyFall’s drone wins at Pentagon’s Drone Dominance selection thedefender.media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -200,6 +190,16 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMVlNM2Rna1hLTFEtODBzS1EyenlMOEczMjh1NTRRQTQyM3J5WjVIYUk0dEpRbXhXVmNUN2xMNDl6QWNIQ2ZWVnIzMEV4Z1FxVFdaQWFiVldBNkpINlRlblRJeS1RWW1DWk81bDdKX0w?oc=5",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-19T08:00:00+00:00",
+      "snippet": "Ukrainian Drone Fight Group bids for a Pentagon contract thedefender.media",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
@@ -302,16 +302,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3ZpSnk1NmhuVTRVWW00QjlrZzE0VDhnMUJNbndxMkZ1MkpYT2NXZVgwVzlfaVl2eDF2REJqVHBycEN4NFVOV3BBczI2YkRDSnZaZWVnNlh6aFlaOC1rNzlyX2R6Wkw0NmJra3lCN1IweldLUTdObFQwSFppd1hmMFFuUXFEc3l4ZV9jdDROX2oxZllXODMyODFuOVFaUWVPWUs0QjhuSHBMSllhVUpFclJaeDI2RHpPSHlVYUhpcnJJRTdwNDgtOXd6SjVYT21CWHc?oc=5",
-      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-23T08:00:00+00:00",
-      "snippet": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications Inventure.com.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
       "source": "Scroll.media",
       "source_url": "https://scroll.media",
@@ -332,16 +322,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -349,6 +329,16 @@
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
