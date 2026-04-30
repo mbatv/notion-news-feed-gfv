@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T12:16:18.066021+00:00",
+  "generatedAt": "2026-04-30T15:12:19.760987+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -90,6 +90,16 @@
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "The Audi Open Haus Sales Event Launches in South Africa",
+      "source": "Arrive Alive",
+      "source_url": "https://carinsurance.arrivealive.co.za",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkRVTXVJeDR5eThOTnZpZklsbV9MT3VLTlM3Rk43NC1EM0Z3UEd6U1ZBczRwSWRzS1REOW5vR0ZSRDVFb2N5Ry04VWVSbDlCRlRad1RpTHo4dG1FRUJsRXR5bDFmU1hKNkc4R2Zzei1mQ3hnWjZPRlo3ZDVvLVp1Y2thZ2pRVVk3OW5YeDd1MUZJOE9Wa3ppVUZIYw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "The Audi Open Haus Sales Event Launches in South Africa Arrive Alive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
@@ -279,16 +289,6 @@
       "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-05T08:00:00+00:00",
       "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRS13ZHI1QTJsMVU5eEpHSTgxMklzRUhXbjdaeV8zeEZFSkt3WVo4RXhuRTY5YWlHNHJmejdJM3I4VVBHd1REYzRfVlo1ZU93Z0FOT1kxY1dSV21OV2ZoY0dONjNha2JsTkhFM2Q0bjFvUVNVd0ZZRk5zSmFabW9ZR05wZmU4QnQ2bzFLYzVuVmlkRWJtUkJYMENmeS1LWklQaDBJT2ZJemE2ODY4UlE?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-02T08:00:00+00:00",
-      "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
