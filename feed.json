@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T04:33:35.283577+00:00",
+  "generatedAt": "2026-04-30T07:29:10.040154+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -362,16 +362,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWkF5cUh0VXpzTnllNTcwSElpRWtCVXozNjdkLU9Yd0pka1JDNk8yeHVnVmwtSlBjc0tzbzI4QzlRMHliQ0dMUFRkYkxPZWl4SVhEdXJZd1FQUkxPaXlLem1IazVENkg2VW15Zw?oc=5",
-      "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-20T08:00:00+00:00",
-      "snippet": "SOC Prime attracts investment from u.ventures for AI solutions in cybersecurity en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -390,16 +380,6 @@
       "pubDateISO": "2025-11-02T07:00:00+00:00",
       "snippet": "Made in Ukraine: WSJ reveals how drone makers attract millions from the West RBC-Ukraine",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "The Latest Buzzy Tech Investment: Ukrainian Drones",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMmZXNDVRNGtBYU44c1JxbHdROGJzT1RqSWpmcExTWTk2RFJNYThoNVR4TGFlbzNnREtPVmQyZkVDWko5dzFrYmw2UEF5ZTdVNkx6NUFHYXNlVHNUTVdPZnhZM2JuSTVDVnZsR1g3cXhFTTRMb0NFdi15OVFCTTNrNXY4czNZS3BhTms2N1RoVnM?oc=5",
-      "pubDate": "Sat, 01 Nov 2025 07:00:00 GMT",
-      "pubDateISO": "2025-11-01T07:00:00+00:00",
-      "snippet": "The Latest Buzzy Tech Investment: Ukrainian Drones WSJ",
-      "query": "\"Justin Zeefe\""
     }
   ]
 }
