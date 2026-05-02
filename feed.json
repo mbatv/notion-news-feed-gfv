@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-02T15:51:57.826639+00:00",
+  "generatedAt": "2026-05-02T16:54:35.864960+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-17T07:00:00+00:00",
-      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund Defender Media",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -129,16 +129,6 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukrainian SkyFall’s drone wins at Pentagon’s Drone Dominance selection",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0czZnWDg2dmtYZXdYRmlqNVA2T2NoQldfYUpQaVJFQ2xWcjJtUi1UaEZqT3B1V2lwck90SUVmVkZDOHBFdUo4QnhMM19sSUxIN0N4ZkJaSWo5a0RhWTg4WEJ5QUViNS1zRExXOFozd1d3WmFWd1NuZExJSQ?oc=5",
-      "pubDate": "Sat, 07 Mar 2026 08:00:00 GMT",
-      "pubDateISO": "2026-03-07T08:00:00+00:00",
-      "snippet": "Ukrainian SkyFall’s drone wins at Pentagon’s Drone Dominance selection thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -299,7 +289,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
@@ -350,6 +340,16 @@
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12emJJbElkd3ppOFBMTDVvMmYzTHVnTjJiWUJlOW9vaUs3OWhjcmxnWGNPMDZvYmU3ZTlyRWt2dkFUekd2NlVFS05GRQ?oc=5",
+      "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-23T08:00:00+00:00",
+      "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule",
