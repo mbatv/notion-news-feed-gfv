@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T11:49:15.322565+00:00",
+  "generatedAt": "2026-05-02T13:20:57.888793+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -299,7 +299,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
