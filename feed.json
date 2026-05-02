@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T22:49:40.640024+00:00",
+  "generatedAt": "2026-05-02T23:50:53.739488+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -192,16 +192,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
       "source": "thedefender.media",
       "source_url": "https://thedefender.media",
@@ -339,6 +329,16 @@
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3Q1bjlnb3ZLLXA2S1ZuVWM5YjVzVHkwQVU5SnEyd1NiNWlQX0ZxdUdEVkhSSzJTbEJwVTFRSUpxdmE1NVFaSGlGS3ZzU0M4elFseXFRRlZfTUFOczFqNVpRRXJwV3lmODhGREJyaFlhMFNIeFlJd0NKM0gwZXpDUHpiSnlKV01KanI3NFpUeXNBR0pDazlWWXFQNWJyWGlzZERYU3NuWlFRMU1qMzd5SG1vZDBvN0c0ZTlZSWxsWXNuQ0RWd19lX0JEQlY4M1hVb3ZFM09GaWRmVldZNWQ4YmRPT2tyN240R05IQ2E2Nnc?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
