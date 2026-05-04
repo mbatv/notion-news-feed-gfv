@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T20:18:34.695203+00:00",
+  "generatedAt": "2026-05-04T22:05:04.626768+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -182,16 +182,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -230,6 +220,16 @@
       "pubDateISO": "2026-02-05T08:00:00+00:00",
       "snippet": "Two Ukrainian drone manufacturers are bidding for Pentagon contracts. What lies ahead for them thedefender.media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer files for IPO",
@@ -299,7 +299,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
