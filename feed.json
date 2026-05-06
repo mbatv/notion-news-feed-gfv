@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T22:00:16.404491+00:00",
+  "generatedAt": "2026-05-06T23:54:00.661193+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -122,6 +122,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Autonomy investments prove prescient amid Iran conflict",
+      "source": "PitchBook",
+      "source_url": "https://pitchbook.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmkxX3M0RkxKWUVDMFpwX21aUWRnT0hBVE9INl9mZk1wZlA1bk5mVnh3ei1mS1l3bGJoVDd6U2hQWUl5ZmJzMVEyRXJ0NmNRN0dCejc3ZzRyNG1Wb29MR1J3azdFSnRJLXRCMC11WXAxM0Itd19EYTB0T3ItTUZDZG5yUVVPNkdaRmg1eGs2SGFUY0hqYlE?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-03T08:00:00+00:00",
+      "snippet": "Autonomy investments prove prescient amid Iran conflict PitchBook",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -192,16 +202,6 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "Swarmer files for IPO",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmpwMjhCLVZGV2E2ZGtHZ2hiYTFJT2xVVlFoYVRYblZScFhGNDQ3V09jZDFzaEZ5UEtvY0Q3VXFXVi1lakFWNUV4NjM2YmtZWkF3b3pRNzRoZDN5QTRQdmo1YWZIdw?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Swarmer files for IPO thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Swarmer has filed for an IPO",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -229,7 +229,7 @@
       "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
