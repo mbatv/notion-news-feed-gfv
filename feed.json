@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T14:23:57.052778+00:00",
+  "generatedAt": "2026-05-06T16:45:22.133107+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -139,7 +139,7 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -229,7 +229,7 @@
       "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
@@ -249,7 +249,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
