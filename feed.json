@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T14:24:31.134691+00:00",
+  "generatedAt": "2026-05-07T16:54:26.145506+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -219,7 +219,7 @@
       "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
@@ -239,16 +239,6 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3ZpSnk1NmhuVTRVWW00QjlrZzE0VDhnMUJNbndxMkZ1MkpYT2NXZVgwVzlfaVl2eDF2REJqVHBycEN4NFVOV3BBczI2YkRDSnZaZWVnNlh6aFlaOC1rNzlyX2R6Wkw0NmJra3lCN1IweldLUTdObFQwSFppd1hmMFFuUXFEc3l4ZV9jdDROX2oxZllXODMyODFuOVFaUWVPWUs0QjhuSHBMSllhVUpFclJaeDI2RHpPSHlVYUhpcnJJRTdwNDgtOXd6SjVYT21CWHc?oc=5",
-      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-23T08:00:00+00:00",
-      "snippet": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications Inventure.com.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
