@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T18:27:48.693073+00:00",
+  "generatedAt": "2026-05-07T20:17:10.798446+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -20,16 +20,6 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-25T07:00:00+00:00",
-      "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -212,16 +202,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRS13ZHI1QTJsMVU5eEpHSTgxMklzRUhXbjdaeV8zeEZFSkt3WVo4RXhuRTY5YWlHNHJmejdJM3I4VVBHd1REYzRfVlo1ZU93Z0FOT1kxY1dSV21OV2ZoY0dONjNha2JsTkhFM2Q0bjFvUVNVd0ZZRk5zSmFabW9ZR05wZmU4QnQ2bzFLYzVuVmlkRWJtUkJYMENmeS1LWklQaDBJT2ZJemE2ODY4UlE?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-02T08:00:00+00:00",
-      "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -239,6 +219,16 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications",
+      "source": "Inventure.com.ua",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3ZpSnk1NmhuVTRVWW00QjlrZzE0VDhnMUJNbndxMkZ1MkpYT2NXZVgwVzlfaVl2eDF2REJqVHBycEN4NFVOV3BBczI2YkRDSnZaZWVnNlh6aFlaOC1rNzlyX2R6Wkw0NmJra3lCN1IweldLUTdObFQwSFppd1hmMFFuUXFEc3l4ZV9jdDROX2oxZllXODMyODFuOVFaUWVPWUs0QjhuSHBMSllhVUpFclJaeDI2RHpPSHlVYUhpcnJJRTdwNDgtOXd6SjVYT21CWHc?oc=5",
+      "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-23T08:00:00+00:00",
+      "snippet": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications Inventure.com.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -260,16 +250,6 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
