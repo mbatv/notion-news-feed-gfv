@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T18:12:14.951476+00:00",
+  "generatedAt": "2026-05-08T20:07:32.424839+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -20,16 +20,6 @@
       "pubDateISO": "2026-04-13T07:00:00+00:00",
       "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday thedefender.media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
-      "source": "Meyka",
-      "source_url": "https://meyka.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZhaDdDaEhFT1pUYmFGcDdmRlFpTHdvYS0tNFkwRk95RUJ2VzE1NlBMSW43b1VPWktpRlc3Q25hWFkyM2lDMThXWlNKTGhqWUFfbTNFQk5aZjY3ekxsMFc4MGFBdHZlWElHckQwazU5a0M3RXNPUHlCVmxxd2h2dDBRbWZoMTBPeksyT3ZwSUFrSkRLTHgtRQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 01:27:07 GMT",
-      "pubDateISO": "2026-04-13T01:27:07+00:00",
-      "snippet": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging Meyka",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -70,16 +60,6 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
-      "source": "TheRecursive.com",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xWnpwRjFDcmhwbVMtTDNOYUZOV1BONkwyYV8yLTIyU1c2OWNRRGpocE9uYVBYMlg0ekRHSGNxcU5lUE1HTnM0bUdBaXhRa0lrWW91dlEteWJwc1o4Zl95SWcxbDlXNmFGemJDX0xR?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq TheRecursive.com",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
@@ -229,6 +209,16 @@
       "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-23T08:00:00+00:00",
       "snippet": "Ukrainian DefenceTech Startup HIMERA Raises Over $2.5 Million to Scale Secure Communications Inventure.com.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "TheRecursive.com",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals TheRecursive.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
