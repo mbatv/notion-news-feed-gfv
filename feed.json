@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T06:00:15.831885+00:00",
+  "generatedAt": "2026-05-08T08:22:13.133125+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
-      "source": "Meyka",
-      "source_url": "https://meyka.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZhaDdDaEhFT1pUYmFGcDdmRlFpTHdvYS0tNFkwRk95RUJ2VzE1NlBMSW43b1VPWktpRlc3Q25hWFkyM2lDMThXWlNKTGhqWUFfbTNFQk5aZjY3ekxsMFc4MGFBdHZlWElHckQwazU5a0M3RXNPUHlCVmxxd2h2dDBRbWZoMTBPeksyT3ZwSUFrSkRLTHgtRQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 01:27:07 GMT",
-      "pubDateISO": "2026-04-13T01:27:07+00:00",
-      "snippet": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging Meyka",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -72,16 +62,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
-      "source": "Euromaidan Press",
-      "source_url": "https://euromaidanpress.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-17T07:00:00+00:00",
-      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -119,6 +99,16 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYlFtbko3cVhnTXJzQlROSmZRN09rYlI1VFBzaGU1VWdNd1ZZZkQ4dUszUEJNWFhKZEp2dXRxNEpEbWdHYVNjQVVoWXhsR3RJWW4zLUJrd2UyMkd6RjhuTmI5YUtVR0MzeVEwd2pTdGhmQXJCclI0QmN5c0ZNZ9IBgwFBVV95cUxQNi10aUxlT1pDQ1ZzMVVVQV80Z1ItSVdKQUlOc3VqSTR0MHlGYTRMaEJLQm9URDFUNEZxLUxxSC1PZEhraTVtdUMtWWRBZ09HZ05EQWJuQ1hDZG9GR3d2ZUEyUUVwaUh4UDdGekwwX25zcHNYVVNHZE5KTGt6aEM5R1VhSQ?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-06T08:00:00+00:00",
+      "snippet": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time CBS News",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -180,6 +170,16 @@
       "pubDateISO": "2026-02-19T08:00:00+00:00",
       "snippet": "Ukrainian Drone Fight Group bids for a Pentagon contract thedefender.media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
+      "source": "UNITED24 Media",
+      "source_url": "https://united24media.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FHd1R0SmtCM0FtUVM1R3pDVlhKbnd0Z1prSHk4YmJhU0o0bjRQYXJQMFZvSm9aM0diTWo4UkpfTVNrU1N6RnlBcE1PZ2pjYlliYmhlellvYmVCQWVZeHdPS01jd3hxNl9jSkRBQW5PV0JWQjRaaHF2QXBPeWlQQ3JjNlNlamZKbTVTbEstQ21IczVlSVBnd0lKMWhpUW1SQi1qRjRQS3ZqYVRPenlxa0twZmk1UWhMdGhPU3Bn?oc=5",
+      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-06T08:00:00+00:00",
+      "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer has filed for an IPO",
@@ -266,8 +266,8 @@
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMFloVmlvaGNyTU9pUWpmNWxlTXBXSzJPcW02bjJEc0E4ajRVQ2JGV3ZGd01veGN2Zll5YTcyek40TUF6dUlvZmVFV05QOWdDVDRV0gFnQVVfeXFMT3FqanFJQ0NpZEFXU2NEZVlkdDc1ckllZkdNQy1sTDZIVm00dUNWdHlrQzBWZEZEMmJWbFphYUpyOGE2ai0zTFNXUGdfOGk1S2lfSmx6cVNGaWVFcm1PaTNldmFlbkJ1TQ?oc=5",
-      "pubDate": "Mon, 10 Nov 2025 16:16:19 GMT",
-      "pubDateISO": "2025-11-10T16:16:19+00:00",
+      "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-10T08:00:00+00:00",
       "snippet": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule IEEE Spectrum",
       "query": "\"Justin Zeefe\""
     }
