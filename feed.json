@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T03:41:29.153964+00:00",
+  "generatedAt": "2026-05-08T06:00:15.831885+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
+      "source": "Meyka",
+      "source_url": "https://meyka.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZhaDdDaEhFT1pUYmFGcDdmRlFpTHdvYS0tNFkwRk95RUJ2VzE1NlBMSW43b1VPWktpRlc3Q25hWFkyM2lDMThXWlNKTGhqWUFfbTNFQk5aZjY3ekxsMFc4MGFBdHZlWElHckQwazU5a0M3RXNPUHlCVmxxd2h2dDBRbWZoMTBPeksyT3ZwSUFrSkRLTHgtRQ?oc=5",
+      "pubDate": "Mon, 13 Apr 2026 01:27:07 GMT",
+      "pubDateISO": "2026-04-13T01:27:07+00:00",
+      "snippet": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging Meyka",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -172,16 +182,6 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
-      "source": "UNITED24 Media",
-      "source_url": "https://united24media.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FHd1R0SmtCM0FtUVM1R3pDVlhKbnd0Z1prSHk4YmJhU0o0bjRQYXJQMFZvSm9aM0diTWo4UkpfTVNrU1N6RnlBcE1PZ2pjYlliYmhlellvYmVCQWVZeHdPS01jd3hxNl9jSkRBQW5PV0JWQjRaaHF2QXBPeWlQQ3JjNlNlamZKbTVTbEstQ21IczVlSVBnd0lKMWhpUW1SQi1qRjRQS3ZqYVRPenlxa0twZmk1UWhMdGhPU3Bn?oc=5",
-      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-06T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Swarmer has filed for an IPO",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -230,16 +230,6 @@
       "pubDateISO": "2025-12-18T08:00:00+00:00",
       "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "HIMERA has attracted over $2.5 million in investments for the development of secure communications",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZODAtai1YeE4zNWVxbExkU2x2dWlJZG5jeURqaDctX2dKVFNQdUxlU0RfZDh3bEMxSVAtcWNaWExLNk9qaGV5ck9mX0cwZS1Xa1lJb1NUUVh6dVM4REFxR3dR?oc=5",
-      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "HIMERA has attracted over $2.5 million in investments for the development of secure communications en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
