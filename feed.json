@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T20:07:32.424839+00:00",
+  "generatedAt": "2026-05-08T22:00:06.008068+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kLWdzTnlqa0ptdk8yYzFLQnA3TExiQ2g0Y014SmlMWUUxTG5LX1ZFSFJmUE5Cak1CZXUybmhGc21JSjU5bkN4VmRSOFRUamRoQ1ZMUjQ2OXF3b2VBUHlz?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-13T07:00:00+00:00",
-      "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday thedefender.media",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -99,6 +89,16 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYlFtbko3cVhnTXJzQlROSmZRN09rYlI1VFBzaGU1VWdNd1ZZZkQ4dUszUEJNWFhKZEp2dXRxNEpEbWdHYVNjQVVoWXhsR3RJWW4zLUJrd2UyMkd6RjhuTmI5YUtVR0MzeVEwd2pTdGhmQXJCclI0QmN5c0ZNZ9IBgwFBVV95cUxQNi10aUxlT1pDQ1ZzMVVVQV80Z1ItSVdKQUlOc3VqSTR0MHlGYTRMaEJLQm9URDFUNEZxLUxxSC1PZEhraTVtdUMtWWRBZ09HZ05EQWJuQ1hDZG9GR3d2ZUEyUUVwaUh4UDdGekwwX25zcHNYVVNHZE5KTGt6aEM5R1VhSQ?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-06T08:00:00+00:00",
+      "snippet": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time CBS News",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -276,8 +276,8 @@
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMFloVmlvaGNyTU9pUWpmNWxlTXBXSzJPcW02bjJEc0E4ajRVQ2JGV3ZGd01veGN2Zll5YTcyek40TUF6dUlvZmVFV05QOWdDVDRV0gFnQVVfeXFMT3FqanFJQ0NpZEFXU2NEZVlkdDc1ckllZkdNQy1sTDZIVm00dUNWdHlrQzBWZEZEMmJWbFphYUpyOGE2ai0zTFNXUGdfOGk1S2lfSmx6cVNGaWVFcm1PaTNldmFlbkJ1TQ?oc=5",
-      "pubDate": "Mon, 10 Nov 2025 16:16:19 GMT",
-      "pubDateISO": "2025-11-10T16:16:19+00:00",
+      "pubDate": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "pubDateISO": "2025-11-10T08:00:00+00:00",
       "snippet": "At Ukraine’s Top Tech Event, Faster and Cheaper Rule IEEE Spectrum",
       "query": "\"Justin Zeefe\""
     }
