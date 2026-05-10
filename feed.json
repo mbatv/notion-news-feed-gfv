@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T23:53:37.556747+00:00",
+  "generatedAt": "2026-05-10T03:41:19.269570+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -122,6 +122,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYlFtbko3cVhnTXJzQlROSmZRN09rYlI1VFBzaGU1VWdNd1ZZZkQ4dUszUEJNWFhKZEp2dXRxNEpEbWdHYVNjQVVoWXhsR3RJWW4zLUJrd2UyMkd6RjhuTmI5YUtVR0MzeVEwd2pTdGhmQXJCclI0QmN5c0ZNZ9IBgwFBVV95cUxQNi10aUxlT1pDQ1ZzMVVVQV80Z1ItSVdKQUlOc3VqSTR0MHlGYTRMaEJLQm9URDFUNEZxLUxxSC1PZEhraTVtdUMtWWRBZ09HZ05EQWJuQ1hDZG9GR3d2ZUEyUUVwaUh4UDdGekwwX25zcHNYVVNHZE5KTGt6aEM5R1VhSQ?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-06T08:00:00+00:00",
+      "snippet": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time CBS News",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
       "source": "Dev.ua",
       "source_url": "https://dev.ua",
@@ -170,16 +180,6 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukrainian Drone Fight Group bids for a Pentagon contract",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMVlNM2Rna1hLTFEtODBzS1EyenlMOEczMjh1NTRRQTQyM3J5WjVIYUk0dEpRbXhXVmNUN2xMNDl6QWNIQ2ZWVnIzMEV4Z1FxVFdaQWFiVldBNkpINlRlblRJeS1RWW1DWk81bDdKX0w?oc=5",
-      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-19T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Fight Group bids for a Pentagon contract Defender Media",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
