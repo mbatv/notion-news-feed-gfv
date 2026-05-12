@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:05:56.722479+00:00",
+  "generatedAt": "2026-05-12T16:22:31.770251+00:00",
   "items": [
     {
       "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
@@ -72,6 +72,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-17T07:00:00+00:00",
+      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -132,16 +142,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-23T08:00:00+00:00",
-      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
       "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
@@ -149,6 +149,16 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
+      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-23T08:00:00+00:00",
+      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -200,16 +210,6 @@
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
