@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T22:09:46.658172+00:00",
+  "generatedAt": "2026-05-12T00:01:27.728297+00:00",
   "items": [
     {
       "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
@@ -9,7 +9,7 @@
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund Defender Media",
-      "query": "\"Justin Zeefe\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
@@ -40,16 +40,6 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukrainian Kara Dag Technologies partners with Anduril Industries",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-25T07:00:00+00:00",
-      "snippet": "Ukrainian Kara Dag Technologies partners with Anduril Industries Defender Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -222,16 +212,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
       "source": "Inventure.com.ua",
       "source_url": "https://inventure.com.ua",
@@ -259,7 +239,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
