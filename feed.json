@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-05-14T10:22:51.580817+00:00",
+  "generatedAt": "2026-05-14T12:27:19.622110+00:00",
   "items": [
     {
-      "headline": "Three companies join Swarmer’s autonomous air defence project",
-      "source": "thedefender.media",
+      "headline": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag",
+      "source": "Defender Media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
       "pubDate": "Tue, 12 May 2026 18:09:35 GMT",
       "pubDateISO": "2026-05-12T18:09:35+00:00",
-      "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "snippet": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag Defender Media",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
-      "source": "thedefender.media",
+      "source": "Defender Media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kLWdzTnlqa0ptdk8yYzFLQnA3TExiQ2g0Y014SmlMWUUxTG5LX1ZFSFJmUE5Cak1CZXUybmhGc21JSjU5bkN4VmRSOFRUamRoQ1ZMUjQ2OXF3b2VBUHlz?oc=5",
       "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-13T07:00:00+00:00",
-      "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday thedefender.media",
+      "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday Defender Media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -190,6 +190,16 @@
       "pubDateISO": "2026-02-06T08:00:00+00:00",
       "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer has filed for an IPO",
