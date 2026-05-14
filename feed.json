@@ -1,24 +1,34 @@
 {
-  "generatedAt": "2026-05-14T12:27:19.622110+00:00",
+  "generatedAt": "2026-05-14T15:22:34.232302+00:00",
   "items": [
     {
       "headline": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
       "pubDate": "Tue, 12 May 2026 18:09:35 GMT",
       "pubDateISO": "2026-05-12T18:09:35+00:00",
-      "snippet": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag Defender Media",
+      "snippet": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag thedefender.media",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-23T07:00:00+00:00",
+      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
-      "source": "Defender Media",
+      "source": "thedefender.media",
       "source_url": "https://thedefender.media",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kLWdzTnlqa0ptdk8yYzFLQnA3TExiQ2g0Y014SmlMWUUxTG5LX1ZFSFJmUE5Cak1CZXUybmhGc21JSjU5bkN4VmRSOFRUamRoQ1ZMUjQ2OXF3b2VBUHlz?oc=5",
       "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-13T07:00:00+00:00",
-      "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday Defender Media",
+      "snippet": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -80,16 +90,6 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq TheRecursive.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
-      "source": "Euromaidan Press",
-      "source_url": "https://euromaidanpress.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-17T07:00:00+00:00",
-      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
@@ -182,26 +182,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
-      "source": "UNITED24 Media",
-      "source_url": "https://united24media.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FHd1R0SmtCM0FtUVM1R3pDVlhKbnd0Z1prSHk4YmJhU0o0bjRQYXJQMFZvSm9aM0diTWo4UkpfTVNrU1N6RnlBcE1PZ2pjYlliYmhlellvYmVCQWVZeHdPS01jd3hxNl9jSkRBQW5PV0JWQjRaaHF2QXBPeWlQQ3JjNlNlamZKbTVTbEstQ21IczVlSVBnd0lKMWhpUW1SQi1qRjRQS3ZqYVRPenlxa0twZmk1UWhMdGhPU3Bn?oc=5",
-      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-06T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Swarmer has filed for an IPO",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -209,6 +189,16 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-02T08:00:00+00:00",
       "snippet": "Swarmer has filed for an IPO en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "The UCDI launches the Investor Club",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XeUNnODZRZGhQRF81T1k4ZUx5Zm9RRGFlTDNxN2F1T0otaldBSDFuMkktYmxDZE93aXNEQWhIbVcyVzZ5V3RQRGstNzJDR0I5UHNEYXFuMEZ5bngyLXdGZ1NfTEwzMkhjcDdVV0puT2w?oc=5",
+      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-14T08:00:00+00:00",
+      "snippet": "The UCDI launches the Investor Club thedefender.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
