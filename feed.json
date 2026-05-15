@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T10:28:24.622437+00:00",
+  "generatedAt": "2026-05-15T12:56:31.980964+00:00",
   "items": [
     {
       "headline": "Swarmer is launching an autonomous air defence project in partnership with X-Drone, Norda and Kara Dag",
@@ -70,16 +70,6 @@
       "pubDateISO": "2026-03-20T07:00:00+00:00",
       "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "Venture Capital Journal",
-      "source_url": "https://www.venturecapitaljournal.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
@@ -222,16 +212,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlh3QXRYOXpKc2JrUXhpYndOTTZBVVBiSElkQVAwZm9CSVZGSFF4MnppZUFqY2pHUU9MZ1hfeE1QNWJHQmVSXzhCYzFSUE40cXB5bmx5VExtYVVTYUdaeFh4Q1p5aW04TTY1VVJMMG02N3U5NGc1TnM3cE9LbDVELUE5YjRSNGVJd21hcEdzeTZyeF9ERnE1ZVkyVU1mdllRbkNSLV9nbkRPZThmc1ppV3RKZGc1dHA3RU00dkpR?oc=5",
-      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-30T08:00:00+00:00",
-      "snippet": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025 dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Major investments in Ukrainian companies in 2025",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -289,7 +269,7 @@
       "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
       "pubDateISO": "2025-11-23T08:00:00+00:00",
       "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
-      "query": "\"Deborah Fairlamb\""
+      "query": "\"Green Flag Ventures\""
     }
   ]
 }
