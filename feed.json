@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T11:11:13.589150+00:00",
+  "generatedAt": "2026-05-17T13:39:19.936711+00:00",
   "items": [
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-04-23T07:00:00+00:00",
       "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics Defender Media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-17T07:00:00+00:00",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund Defender Media",
+      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Every day is a day of Ukrainian weapons. Congratulations to the nation’s armourers on their professional holiday",
@@ -150,16 +160,6 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer files for IPO",
