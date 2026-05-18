@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-05-17T23:59:37.880976+00:00",
+  "generatedAt": "2026-05-18T04:36:17.985118+00:00",
   "items": [
+    {
+      "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
+      "source": "ubn.news",
+      "source_url": "https://ubn.news",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGJIMGhwMk90cTQyYVdJU2FtbV85YWU0cnllNjg4OFJfNmVYWU5FSERkV3VmLTE3R0FmV2cySzFuc2RXQ2gxNDNYQVF0c2JoX1lxUXc4Q18tc3Nvb05PTlJRbnZFeU1Db1FzNkc1d0tMa0VaQWx3bjd5SHFzYXAyZkQzOGhCcDN0R254YVNFdWcwZDBJVnBUd1Y2cE5mdmsyVHBreEV5Rm0wZEp4NTlRQWZFdGpPS2lpQUpNdHlkZmlSRGdTbVR1YmhhOW_SAcwBQVVfeXFMT1RiSDBocDJPdHE0MmFXSVNhbW1fOWFlNHJ5ZTY4ODhSXzZlWFlORUhEZFd1Zi0xN0dBZldnMksxbnNkV0NoMTQzWEFRdHNiaF9ZcVF3OENfLXNzb29OT05SUW52RXlNQ29RczZHNXdLTGtFWkFsd243eUhxc2FwMmZEMzhoQnAzdEdueGFTRXVnMGQwSVZwVHdWNnBOZnZrMlRwa3hFeUZtMGRKeDU5UUFmRXRqT0tpaUFKTXR5ZGZpUkRnU21UdWJoYTlv?oc=5",
+      "pubDate": "Mon, 18 May 2026 01:31:48 GMT",
+      "pubDateISO": "2026-05-18T01:31:48+00:00",
+      "snippet": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market. ubn.news",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
       "source": "Tech.eu",
@@ -60,6 +70,16 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukrainian Kara Dag Technologies partners with Anduril Industries",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-25T07:00:00+00:00",
+      "snippet": "Ukrainian Kara Dag Technologies partners with Anduril Industries Defender Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -270,6 +290,16 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
