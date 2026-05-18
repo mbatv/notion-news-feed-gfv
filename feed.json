@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-18T12:36:14.368150+00:00",
+  "generatedAt": "2026-05-18T16:28:20.500028+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
       "source": "ubn.news",
       "source_url": "https://ubn.news",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGJIMGhwMk90cTQyYVdJU2FtbV85YWU0cnllNjg4OFJfNmVYWU5FSERkV3VmLTE3R0FmV2cySzFuc2RXQ2gxNDNYQVF0c2JoX1lxUXc4Q18tc3Nvb05PTlJRbnZFeU1Db1FzNkc1d0tMa0VaQWx3bjd5SHFzYXAyZkQzOGhCcDN0R254YVNFdWcwZDBJVnBUd1Y2cE5mdmsyVHBreEV5Rm0wZEp4NTlRQWZFdGpPS2lpQUpNdHlkZmlSRGdTbVR1YmhhOW_SAcwBQVVfeXFMT1RiSDBocDJPdHE0MmFXSVNhbW1fOWFlNHJ5ZTY4ODhSXzZlWFlORUhEZFd1Zi0xN0dBZldnMksxbnNkV0NoMTQzWEFRdHNiaF9ZcVF3OENfLXNzb29OT05SUW52RXlNQ29RczZHNXdLTGtFWkFsd243eUhxc2FwMmZEMzhoQnAzdEdueGFTRXVnMGQwSVZwVHdWNnBOZnZrMlRwa3hFeUZtMGRKeDU5UUFmRXRqT0tpaUFKTXR5ZGZpUkRnU21UdWJoYTlv?oc=5",
-      "pubDate": "Mon, 18 May 2026 01:31:48 GMT",
-      "pubDateISO": "2026-05-18T01:31:48+00:00",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVRwN0lQUXhxVl9HeVM2MHVuNDh5d1lEWUkteWNSX0kzY3NBdVBXZGdoOVhOWWRMNjRKbmEwVm8yX1dfazc3UU00UFg5cWVhOEZRWHhQbS14Qm9CQXVGcTdHUTB3SkpMa2Z4WFdfd3NhbTdtMU93SXN1OEF3MThkZjdlNkhOQlJpUERQbk11MnRvSllaRlA3Z0E0TjhEdFN6cDFsano3ajJzLXA2MUxaTEM3Q09jXzl6ZWJYakhHcGU1SjZS0gHMAUFVX3lxTE9UYkgwaHAyT3RxNDJhV0lTYW1tXzlhZTRyeWU2ODg4Ul82ZVhZTkVIRGRXdWYtMTdHQWZXZzJLMW5zZFdDaDE0M1hBUXRzYmhfWXFRdzhDXy1zc29vTk9OUlFudkV5TUNvUXM2RzV3S0xrRVpBbHduN3lIcXNhcDJmRDM4aEJwM3RHbnhhU0V1ZzBkMElWcFR3VjZwTmZ2azJUcGt4RXlGbTBkSng1OVFBZkV0ak9LaWlBSk10eWRmaVJEZ1NtVHViaGE5bw?oc=5",
+      "pubDate": "Mon, 18 May 2026 02:35:51 GMT",
+      "pubDateISO": "2026-05-18T02:35:51+00:00",
       "snippet": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market. ubn.news",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
-      "source": "Tech.eu",
-      "source_url": "https://tech.eu",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
-      "pubDate": "Fri, 15 May 2026 11:31:28 GMT",
-      "pubDateISO": "2026-05-15T11:31:28+00:00",
-      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -70,16 +60,6 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukrainian Kara Dag Technologies partners with Anduril Industries",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-25T07:00:00+00:00",
-      "snippet": "Ukrainian Kara Dag Technologies partners with Anduril Industries Defender Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -202,16 +182,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
-      "source": "UNITED24 Media",
-      "source_url": "https://united24media.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FHd1R0SmtCM0FtUVM1R3pDVlhKbnd0Z1prSHk4YmJhU0o0bjRQYXJQMFZvSm9aM0diTWo4UkpfTVNrU1N6RnlBcE1PZ2pjYlliYmhlellvYmVCQWVZeHdPS01jd3hxNl9jSkRBQW5PV0JWQjRaaHF2QXBPeWlQQ3JjNlNlamZKbTVTbEstQ21IczVlSVBnd0lKMWhpUW1SQi1qRjRQS3ZqYVRPenlxa0twZmk1UWhMdGhPU3Bn?oc=5",
-      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-06T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Swarmer files for IPO",
       "source": "Defender Media",
       "source_url": "https://thedefender.media",
@@ -239,7 +209,7 @@
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "The UCDI launches the Investor Club",
@@ -300,16 +270,6 @@
       "pubDateISO": "2025-12-17T08:00:00+00:00",
       "snippet": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech UNITED24 Media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pUHdhVGt3MGZGem5sNHR3RDhCU2hwaUFBZm02eVlhN3FNS28tRmpQZ0hHSDZaU0kxY2dwZzdzbWFpUFRYU0hDRU93RkxzaXNqbkJOWTlmM0xONEZwVzd5NGtZWU4xV3ZsbFA2N3JjMmFyY08w?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defence tech startups raised $105 million USD in 2025 Resilience Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
