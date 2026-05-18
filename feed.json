@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T08:47:04.742437+00:00",
+  "generatedAt": "2026-05-18T12:36:14.368150+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -232,6 +232,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
+      "source": "The New Voice of Ukraine",
+      "source_url": "https://english.nv.ua",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHk2OGhyNXJyV3J6U3ctWkhYQWJ4TlZfdnZrNFNyQkpqYlRKN0ZkVGIyTm1nZlVuVE1CaDFLR0dLU0E0S0pLcENTbHBCNzVIRkFiR1k2a1d5M3NudDYyOUYxWE5jc0I4T1pRR3BCQ2NkT1JFQ2RQUWp0dHFGU05POXc5aGZiOGxwcy1FZ0Y2UENaY0l6UjFGOElPZ29TNHBf0gGaAUFVX3lxTE1LMXFrd0hBOFVib19nQ0t0ajdkTjVwOXFBWUJtNVhtVm41ZjRsUThqWHR5bVk4X0JKdWd6QTZicklzNDlrV182SlFBM3lpQWNWQzVmcTR3eTNRb2haUl9VSy1NY0lJUXY1UDdJUlJRdDZZd2NHZWtyRVhQaTFweHREM0ZTcFl0d3FMZnRtRTJPSEp5aVV5aDFPRUE?oc=5",
+      "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-25T08:00:00+00:00",
+      "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "The UCDI launches the Investor Club",
       "source": "Defender Media",
       "source_url": "https://thedefender.media",
@@ -292,16 +302,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
-      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukrainian defence tech startups raised $105 million USD in 2025",
       "source": "Resilience Media",
       "source_url": "https://resiliencemedia.co",
@@ -312,6 +312,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXUVRtVDFVenZuTHlpM0VueDl4VV8xR0k0T1Nva1BSbGloN2F2VGR1ZUtaSWoxczc5LS1NcnRBVHJqUUtKSXo2eE03Yw?oc=5",
+      "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-08T08:00:00+00:00",
+      "snippet": "Ukrainian Defense Startups Raise Over $105M in 2025 – Brave1 Kyiv Post",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -319,16 +329,6 @@
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
       "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12emJJbElkd3ppOFBMTDVvMmYzTHVnTjJiWUJlOW9vaUs3OWhjcmxnWGNPMDZvYmU3ZTlyRWt2dkFUekd2NlVFS05GRQ?oc=5",
-      "pubDate": "Sun, 23 Nov 2025 08:00:00 GMT",
-      "pubDateISO": "2025-11-23T08:00:00+00:00",
-      "snippet": "Weaponizing Capital: Why Some Argue Waiting for Peace to Invest Is a Strategic Mistake Kyiv Post",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
