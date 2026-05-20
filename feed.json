@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T21:59:16.244189+00:00",
+  "generatedAt": "2026-05-20T23:23:06.178826+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -53,12 +53,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -140,16 +140,6 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer files for IPO",
