@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T16:55:31.122983+00:00",
+  "generatedAt": "2026-05-20T19:28:32.604690+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -142,16 +142,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Swarmer files for IPO",
       "source": "Defender Media",
       "source_url": "https://thedefender.media",
@@ -202,14 +192,14 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology",
-      "source": "Odessa Journal",
-      "source_url": "https://odessa-journal.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFBzZTc5VUpudGExZ3A4cjg5Y3I3am5QaVcxaHZJQmdYSzVnaTlDOGs3SkFIaVZ2ajNtMGc1cjJ5dFdTeGhmazNuaXNUZFJHM3owVVFMRVRUV1VwS0NGbGt4TGtNU2hQNkdmaXFqamJXQTNKYkphcnhFZzBKd0RReS1zZjFmTmVLZjdpNGdCNEhJQ29ZWTB4NTZtUVlTWnVNMnlnM2pGR09MMDU4d1E?oc=5",
+      "headline": "HIMERA Raises $2.5 Million in Seed Round",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0phT3VQZ19qczhoQTE2TzUzX0Fsa1EyRXpfT05CQUNySHlELWJtR3dnTUFLeUc3Szk5ZU1PeUFVN2p1SEw1MEo0Wms3NFRtYWZqSXFucWpWR3Jna1J6cnVMM0JsMXdHclV1MUNHcnBWYlIyZjBBaGdaeU9sc1Q4aQ?oc=5",
       "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-18T08:00:00+00:00",
-      "snippet": "Ukrainian HIMERA Raises $2.5M to Expand Secure Communications Technology Odessa Journal",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Why Global Investors Are Pouring Millions Into Ukraine’s Combat-Tested Defense Tech",
