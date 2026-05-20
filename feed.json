@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T19:28:32.604690+00:00",
+  "generatedAt": "2026-05-20T21:59:16.244189+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -140,6 +140,16 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer files for IPO",
