@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T23:23:06.178826+00:00",
+  "generatedAt": "2026-05-21T04:07:00.947072+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-05-18T02:35:51+00:00",
       "snippet": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market. ubn.news",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
+      "source": "Tech.eu",
+      "source_url": "https://tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
+      "pubDate": "Fri, 15 May 2026 11:31:18 GMT",
+      "pubDateISO": "2026-05-15T11:31:18+00:00",
+      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -32,16 +42,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging",
-      "source": "Meyka",
-      "source_url": "https://meyka.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZhaDdDaEhFT1pUYmFGcDdmRlFpTHdvYS0tNFkwRk95RUJ2VzE1NlBMSW43b1VPWktpRlc3Q25hWFkyM2lDMThXWlNKTGhqWUFfbTNFQk5aZjY3ekxsMFc4MGFBdHZlWElHckQwazU5a0M3RXNPUHlCVmxxd2h2dDBRbWZoMTBPeksyT3ZwSUFrSkRLTHgtRQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-13T07:00:00+00:00",
-      "snippet": "April 13: Denza Australia adds GFV, 5-year service, 1500kW charging Meyka",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
       "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
@@ -53,12 +53,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -140,6 +140,16 @@
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer files for IPO",
