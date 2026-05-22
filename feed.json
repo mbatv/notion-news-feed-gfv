@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T19:56:05.670989+00:00",
+  "generatedAt": "2026-05-22T21:17:11.121791+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-05-18T02:35:51+00:00",
       "snippet": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market. ubn.news",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
+      "source": "Tech.eu",
+      "source_url": "https://tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
+      "pubDate": "Fri, 15 May 2026 11:31:18 GMT",
+      "pubDateISO": "2026-05-15T11:31:18+00:00",
+      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
