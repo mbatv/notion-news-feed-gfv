@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T05:03:15.988082+00:00",
+  "generatedAt": "2026-05-24T08:33:57.649883+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -9,7 +9,7 @@
       "pubDate": "Mon, 18 May 2026 02:35:51 GMT",
       "pubDateISO": "2026-05-18T02:35:51+00:00",
       "snippet": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market. ubn.news",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -39,7 +39,7 @@
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -109,7 +109,7 @@
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
@@ -152,6 +152,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
+      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "pubDateISO": "2026-02-03T08:00:00+00:00",
+      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Swarmer files for IPO",
       "source": "thedefender.media",
       "source_url": "https://thedefender.media",
@@ -169,7 +179,7 @@
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Since 2023, public investments in Ukraine’s domestic defense sector have surged a hundredfold.",
@@ -189,6 +199,16 @@
       "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lS3JSb3RsVjJNR0tVS1ZKdHcxUDNVZjRZdHRtMTd5YTdZM3c0bTBXWndZRm5yRFpqSENyamhuaFJuN0ZWMmY0LV9WNVI0MGVjNEh0ZWtrU2ZkSVoyN2tVN1BpNWR4T0EzdFB1a2NGTlNQTms?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-19T08:00:00+00:00",
+      "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
       "query": "\"Green Flag Ventures\""
     },
     {
