@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T16:03:13.206604+00:00",
+  "generatedAt": "2026-05-24T17:59:51.344700+00:00",
   "items": [
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -20,6 +20,16 @@
       "pubDateISO": "2026-04-23T07:00:00+00:00",
       "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-17T07:00:00+00:00",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -52,16 +62,6 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
-      "source": "The Recursive",
-      "source_url": "https://therecursive.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xWnpwRjFDcmhwbVMtTDNOYUZOV1BONkwyYV8yLTIyU1c2OWNRRGpocE9uYVBYMlg0ekRHSGNxcU5lUE1HTnM0bUdBaXhRa0lrWW91dlEteWJwc1o4Zl95SWcxbDlXNmFGemJDX0xR?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -90,6 +90,16 @@
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-05T08:00:00+00:00",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
