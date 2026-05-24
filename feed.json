@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T10:43:16.642863+00:00",
+  "generatedAt": "2026-05-24T12:01:50.130329+00:00",
   "items": [
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -29,7 +29,7 @@
       "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-17T07:00:00+00:00",
       "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
-      "query": "\"Deborah Fairlamb\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
@@ -80,16 +80,6 @@
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTZ6blN3RGFkcnRCalhNcmUxaXZoNFdrQUxFZnVSOVNhMmRhMGsxenBzdzVTeVpaTmlJSTAxNUpsUkM0Rm5hMXI5NVVvamVOanJhMXF2LVJyTVFQQ3ZHZWw5Q3hoOUM5THh0T09rV0VJa2ZsS0sycEVGS00xdEhXTGl4UkxNZnRvRHFwN2pzRVNsTHd4NUZIQWdrbFFiR2ItOE56dQ?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "Startup Choice raises $7.1 million to accelerate expansion in Europe dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -199,7 +189,7 @@
       "pubDate": "Fri, 19 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-19T08:00:00+00:00",
       "snippet": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals The Recursive",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA Raises $2.5 Million in Seed Round",
