@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T22:00:28.456862+00:00",
+  "generatedAt": "2026-05-24T00:00:18.066854+00:00",
   "items": [
     {
       "headline": "Ukrainian accelerator YEP opens a representative office in the US to support startups entering the US market.",
@@ -82,6 +82,16 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
+      "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Startup Choice raises $7.1 million to accelerate expansion in Europe",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -152,26 +162,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDFNcHZfZ0xOdS1DbGNEaXlyWDhqUXY2bnpXUGJGMUdhdENLMkFKNVQ5NE9waEtMaXFMeUNXRllrRE8zZlhfVUxFTTJsTHJSVFlJUVRhOW11UHd6QjFCNHpfRlpaeW01YjljWDl0RjMzUDhnSXRuQ0d2N3poaFVuQUZ3YXQxTGhNRml2UXNlYWJ0RS16aDlDTWF0Wk82d1ljb3diSg?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Drone swarming software company with Ukraine battlefield experience moves toward IPO The Business Journals",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Swarmer files for IPO",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmpwMjhCLVZGV2E2ZGtHZ2hiYTFJT2xVVlFoYVRYblZScFhGNDQ3V09jZDFzaEZ5UEtvY0Q3VXFXVi1lakFWNUV4NjM2YmtZWkF3b3pRNzRoZDN5QTRQdmo1YWZIdw?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Swarmer files for IPO thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
       "source": "The New Voice of Ukraine",
       "source_url": "https://english.nv.ua",
@@ -179,7 +169,7 @@
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
@@ -192,13 +182,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Portugal announces plans to collaborate with Ukraine on the production of naval drones and allocates €50M for the procurement of US-made weapons.",
-      "source": "ubn.news",
-      "source_url": "https://ubn.news",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbWM4RWNRSU9ma0RBQ1lCRmV3RHBvNzJLYjdSa3R4Tm95OHIyQ3ZjaVpaemUyZm9KZE9VYmt1NWtFMm9VOHBaNG9fNzVGZ0tuMmxaelNkMVlYQlZDUUIwdmttd2pLaFl6TTZrSWVOYkhsRXhVbzRHVWJ4RUdLcnpqeVA2bUJIWHVJNlNWMHRVTFhqbDlvSGtLdVhDUV81WktweldQMjAyNVpnVERsUkhvSmVuMjlRWU1GM2FPdkYycGpabHhTb3hkNXlRWE5DR1A5RkItZ0NhS2Rka3paSjNsSmV4UmxRSFpIZzQwVnpqT3BBVUlZ0gH8AUFVX3lxTFAzY1lWU2NKX2k5TklGSkJMVFJGWEJ4SG5Ld2FIN3lXNTY4b29NV3c1RE80QWtzTkhBS1RSZ3JyRHhUWkYwWnhFQlZIN1lHNU9Ia3FOZjRSYkpwSUFjMXRvdzlxa2t1dDlrN21KM1VkbE54NFFiWGp5Sks4TnVsX3p6a2hkN0hfNnpoUTl6UVlqZ0tYSUxWcl9jTjVOc0xlYUNrXzBfNkVrRVJZWFNVQklFT3E4VEx2aWF1QlBsWHJVYktyRDY4d0xtR2pqazhJWVhicnFQbHZIQnRTczF2dnhXWDRXVlRjTEtrcG9BNWV5eElacFlkVG1uZzVHaQ?oc=5",
-      "pubDate": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-22T08:00:00+00:00",
-      "snippet": "Portugal announces plans to collaborate with Ukraine on the production of naval drones and allocates €50M for the procurement of US-made weapons. ubn.news",
+      "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlh3QXRYOXpKc2JrUXhpYndOTTZBVVBiSElkQVAwZm9CSVZGSFF4MnppZUFqY2pHUU9MZ1hfeE1QNWJHQmVSXzhCYzFSUE40cXB5bmx5VExtYVVTYUdaeFh4Q1p5aW04TTY1VVJMMG02N3U5NGc1TnM3cE9LbDVELUE5YjRSNGVJd21hcEdzeTZyeF9ERnE1ZVkyVU1mdllRbkNSLV9nbkRPZThmc1ppV3RKZGc1dHA3RU00dkpR?oc=5",
+      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-30T08:00:00+00:00",
+      "snippet": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025 dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
