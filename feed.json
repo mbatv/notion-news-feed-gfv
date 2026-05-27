@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T14:27:43.064204+00:00",
+  "generatedAt": "2026-05-27T17:57:14.946811+00:00",
   "items": [
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -62,6 +62,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
+      "source": "The Recursive",
+      "source_url": "https://therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xWnpwRjFDcmhwbVMtTDNOYUZOV1BONkwyYV8yLTIyU1c2OWNRRGpocE9uYVBYMlg0ekRHSGNxcU5lUE1HTnM0bUdBaXhRa0lrWW91dlEteWJwc1o4Zl95SWcxbDlXNmFGemJDX0xR?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -99,16 +109,6 @@
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR0lEZTkxaEZVVldVaTFjZ3cxNHVVTWF6dW1pbVNfRDlVREdqazFHMkFfMnlrczZDN1dPRk9Sc0k5MVZwZVAzS1A1XzZSbzE2cFJORDRZMW5ISE9iUE5raVNpMnhZd1RyV0Fxc2hFNzhXcDNzTV9rajVkX3IyalNSTUFkcUg1eDRFSHZOaXllNG9CWmlJTXBsSktpNmZ3YVdvaC12VzJlU0dlLUpvQUQ2SEluZXAycGVi?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-23T08:00:00+00:00",
-      "snippet": "Ukrainian MaXon Systems Secures Investment from U.S.-Based Green Flag Ventures Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
