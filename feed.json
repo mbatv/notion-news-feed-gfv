@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T23:01:30.273742+00:00",
+  "generatedAt": "2026-05-31T04:13:47.005169+00:00",
   "items": [
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -52,13 +52,23 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
+      "source": "The Recursive",
+      "source_url": "https://www.therecursive.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UWU43VTEwT0hLN25VVDJ2Y0R1TThMMEZ3S3FLVHRFS0hGNEhBN24xeGNFNlFteXlYNTQ0SzNySU51U0dhckRpWndiNGxEQk5tRDBZS0t4R1pWX0JNa2hjMjFpXzkwMzVYLUdQRFNoRkRsRFU?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
+      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures Dev.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -93,12 +103,12 @@
     },
     {
       "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
-      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment Dev.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -132,23 +142,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oc3dHWS1kQlVSVDZIRUxHakpSZy1lVXllclF2YzRPMnBoUFh2SlZqNW56c3lpUTE4MnRUNWhRdVIxZDR6OFVlR1lQR1RsSnJSb094bEhtb1E2bW9EaU5OT1UwbEFfdG40Ulg4?oc=5",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHUyNmplcmZWcDhTSVgtWWNkSTFQWkJ3X1BueWVxbV9xYkZsa1BxMUlLcmRPVUp6R2p3UGF5aVhQX1dVQkZWODRmRnpvbG9aemZoc0E3WThYR241b3hfdy1Vb1FpbTBGWE5ka3ZvYUF2Z2xnakxQUnk4ZGwxWVVvVmUwNnF0NDE5ekk0VFpjTEc1bG5QQ1h4YXN1STF6d1RXU2ZUdjRrc01vOHcteVpCRkpIVmppUlYzazhPYUdtbEJyRFR3R0JPbWNSTDV4SnI1b1ZN?oc=5",
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
+      "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -170,6 +170,16 @@
       "pubDateISO": "2025-12-22T08:00:00+00:00",
       "snippet": "Portugal announces plans to collaborate with Ukraine on the production of naval drones and allocates €50M for the procurement of US-made weapons. ubn.news",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "HIMERA raises over $2.5M for secure tactical comms",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlN2M0VvYzdJd1RFOEFyN1NFQkR6RVl4WUNtMk1Zbkw3MTZaUjN3cXM4eWM0VElDbVE4dUVwX3NNcXNycnA0ZUNDalZoTHhCVnZTMVhNdk0zSXZZdmh2WVU5MmVEZ29ramppNHg1R0JXVk5CbGw4V0tfNWNUNzlxSEU1MA?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 11:41:18 GMT",
+      "pubDateISO": "2025-12-19T11:41:18+00:00",
+      "snippet": "HIMERA raises over $2.5M for secure tactical comms Resilience Media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "CEE Startup & Tech Weekly: CEE HealthTech Startups Land Major Deals",
@@ -213,12 +223,12 @@
     },
     {
       "headline": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3Q1bjlnb3ZLLXA2S1ZuVWM5YjVzVHkwQVU5SnEyd1NiNWlQX0ZxdUdEVkhSSzJTbEJwVTFRSUpxdmE1NVFaSGlGS3ZzU0M4elFseXFRRlZfTUFOczFqNVpRRXJwV3lmODhGREJyaFlhMFNIeFlJd0NKM0gwZXpDUHpiSnlKV01KanI3NFpUeXNBR0pDazlWWXFQNWJyWGlzZERYU3NuWlFRMU1qMzd5SG1vZDBvN0c0ZTlZSWxsWXNuQ0RWd19lX0JEQlY4M1hVb3ZFM09GaWRmVldZNWQ4YmRPT2tyN240R05IQ2E2Nnc?oc=5",
       "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-08T08:00:00+00:00",
-      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe dev.ua",
+      "snippet": "Ukrainian defense startups raised over $105 million in 2025 and secured a third of early defense investments in Europe Dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
