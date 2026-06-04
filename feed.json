@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:36:19.054640+00:00",
+  "generatedAt": "2026-06-04T18:22:05.269743+00:00",
   "items": [
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -50,6 +50,16 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
@@ -189,7 +199,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA raises over $2.5M for secure tactical comms",
