@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T00:07:53.064123+00:00",
+  "generatedAt": "2026-06-07T05:24:44.651939+00:00",
   "items": [
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
@@ -92,16 +92,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUEhIemJpLWEwM2QzaGctWW9XYVZYV2tjdW9Vd2RJbk5qaXB4ZWFWcGdiTDlENXZrYkdlSnZ6bHU5WXNkNkZKT0xULXRFSUNlYU1vQ3RGOG5HVWdNNVk3SGdyNjdCbklpLXdkaFdJaU05Rmw0aXR5V2dsYklBemNlbEtETzIzWXZKa0RxZVBvWEJhanBmTkRWRHMyR2o5cUxURHo3a0xpSjVWSWo4bHdlRkRvQjBreWxFckkxRUZqTUdTcmZJV1E?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-13T07:00:00+00:00",
-      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
       "source": "Euromaidan Press",
       "source_url": "https://euromaidanpress.com",
@@ -129,17 +119,7 @@
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
-      "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-23T08:00:00+00:00",
-      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -230,6 +210,16 @@
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlh3QXRYOXpKc2JrUXhpYndOTTZBVVBiSElkQVAwZm9CSVZGSFF4MnppZUFqY2pHUU9MZ1hfeE1QNWJHQmVSXzhCYzFSUE40cXB5bmx5VExtYVVTYUdaeFh4Q1p5aW04TTY1VVJMMG02N3U5NGc1TnM3cE9LbDVELUE5YjRSNGVJd21hcEdzeTZyeF9ERnE1ZVkyVU1mdllRbkNSLV9nbkRPZThmc1ppV3RKZGc1dHA3RU00dkpR?oc=5",
+      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-30T08:00:00+00:00",
+      "snippet": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025 dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Major investments in Ukrainian companies in 2025",
