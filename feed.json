@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:19:58.415619+00:00",
+  "generatedAt": "2026-06-07T18:06:32.800698+00:00",
   "items": [
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
@@ -9,7 +9,7 @@
       "pubDate": "Thu, 04 Jun 2026 18:35:51 GMT",
       "pubDateISO": "2026-06-04T18:35:51+00:00",
       "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -19,6 +19,16 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-23T07:00:00+00:00",
+      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
