@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:13:33.232828+00:00",
+  "generatedAt": "2026-06-09T03:54:42.076716+00:00",
   "items": [
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-06-04T18:35:51+00:00",
       "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
       "query": "\"Justin Zeefe\""
+    },
+    {
+      "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
+      "source": "Tech.eu",
+      "source_url": "https://tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
+      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+      "pubDateISO": "2026-05-15T07:00:00+00:00",
+      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
@@ -142,16 +152,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Swarmer files for IPO",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRmpwMjhCLVZGV2E2ZGtHZ2hiYTFJT2xVVlFoYVRYblZScFhGNDQ3V09jZDFzaEZ5UEtvY0Q3VXFXVi1lakFWNUV4NjM2YmtZWkF3b3pRNzRoZDN5QTRQdmo1YWZIdw?oc=5",
-      "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-03T08:00:00+00:00",
-      "snippet": "Swarmer files for IPO Defender Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Swarmer has filed for an IPO",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -169,16 +169,6 @@
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "The UCDI launches the Investor Club",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XeUNnODZRZGhQRF81T1k4ZUx5Zm9RRGFlTDNxN2F1T0otaldBSDFuMkktYmxDZE93aXNEQWhIbVcyVzZ5V3RQRGstNzJDR0I5UHNEYXFuMEZ5bngyLXdGZ1NfTEwzMkhjcDdVV0puT2w?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-14T08:00:00+00:00",
-      "snippet": "The UCDI launches the Investor Club Defender Media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
