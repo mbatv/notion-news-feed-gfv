@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T08:23:43.211259+00:00",
+  "generatedAt": "2026-06-13T11:17:48.847144+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -182,13 +182,13 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "headline": "In Ukraine, a New Arsenal of Killer A.I. Drones Is Being Born",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
       "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
+      "snippet": "In Ukraine, a New Arsenal of Killer A.I. Drones Is Being Born The New York Times",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -209,7 +209,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "HIMERA raises over $2.5M for secure tactical comms",
@@ -219,6 +219,16 @@
       "pubDate": "Fri, 19 Dec 2025 11:41:18 GMT",
       "pubDateISO": "2025-12-19T11:41:18+00:00",
       "snippet": "HIMERA raises over $2.5M for secure tactical comms Resilience Media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "HIMERA Raises $2.5 Million in Seed Round",
+      "source": "Scroll.media",
+      "source_url": "https://scroll.media",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0phT3VQZ19qczhoQTE2TzUzX0Fsa1EyRXpfT05CQUNySHlELWJtR3dnTUFLeUc3Szk5ZU1PeUFVN2p1SEw1MEo0Wms3NFRtYWZqSXFucWpWR3Jna1J6cnVMM0JsMXdHclV1MUNHcnBWYlIyZjBBaGdaeU9sc1Q4aQ?oc=5",
+      "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "pubDateISO": "2025-12-18T08:00:00+00:00",
+      "snippet": "HIMERA Raises $2.5 Million in Seed Round Scroll.media",
       "query": "\"Green Flag Ventures\""
     },
     {
