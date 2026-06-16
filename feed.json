@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T15:58:25.754607+00:00",
+  "generatedAt": "2026-06-16T19:46:44.804342+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -19,16 +19,6 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-23T07:00:00+00:00",
-      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -80,6 +70,16 @@
       "pubDateISO": "2026-03-20T07:00:00+00:00",
       "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
+      "source": "Venture Capital Journal",
+      "source_url": "https://www.venturecapitaljournal.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
@@ -182,16 +182,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
-      "source": "UNITED24 Media",
-      "source_url": "https://united24media.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2FHd1R0SmtCM0FtUVM1R3pDVlhKbnd0Z1prSHk4YmJhU0o0bjRQYXJQMFZvSm9aM0diTWo4UkpfTVNrU1N6RnlBcE1PZ2pjYlliYmhlellvYmVCQWVZeHdPS01jd3hxNl9jSkRBQW5PV0JWQjRaaHF2QXBPeWlQQ3JjNlNlamZKbTVTbEstQ21IczVlSVBnd0lKMWhpUW1SQi1qRjRQS3ZqYVRPenlxa0twZmk1UWhMdGhPU3Bn?oc=5",
-      "pubDate": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "pubDateISO": "2026-02-06T08:00:00+00:00",
-      "snippet": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost UNITED24 Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Drone swarming software company with Ukraine battlefield experience moves toward IPO",
       "source": "The Business Journals",
       "source_url": "https://www.bizjournals.com",
@@ -209,17 +199,7 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-02T08:00:00+00:00",
       "snippet": "Swarmer has filed for an IPO en.ain.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
-      "source": "The New Voice of Ukraine",
-      "source_url": "https://english.nv.ua",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHk2OGhyNXJyV3J6U3ctWkhYQWJ4TlZfdnZrNFNyQkpqYlRKN0ZkVGIyTm1nZlVuVE1CaDFLR0dLU0E0S0pLcENTbHBCNzVIRkFiR1k2a1d5M3NudDYyOUYxWE5jc0I4T1pRR3BCQ2NkT1JFQ2RQUWp0dHFGU05POXc5aGZiOGxwcy1FZ0Y2UENaY0l6UjFGOElPZ29TNHBf0gGaAUFVX3lxTE1LMXFrd0hBOFVib19nQ0t0ajdkTjVwOXFBWUJtNVhtVm41ZjRsUThqWHR5bVk4X0JKdWd6QTZicklzNDlrV182SlFBM3lpQWNWQzVmcTR3eTNRb2haUl9VSy1NY0lJUXY1UDdJUlJRdDZZd2NHZWtyRVhQaTFweHREM0ZTcFl0d3FMZnRtRTJPSEp5aVV5aDFPRUE?oc=5",
-      "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-25T08:00:00+00:00",
-      "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "The UCDI launches the Investor Club",
@@ -230,6 +210,26 @@
       "pubDateISO": "2026-01-14T08:00:00+00:00",
       "snippet": "The UCDI launches the Investor Club thedefender.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
+      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-05T08:00:00+00:00",
+      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
+      "source": "Inventure.com.ua",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRS13ZHI1QTJsMVU5eEpHSTgxMklzRUhXbjdaeV8zeEZFSkt3WVo4RXhuRTY5YWlHNHJmejdJM3I4VVBHd1REYzRfVlo1ZU93Z0FOT1kxY1dSV21OV2ZoY0dONjNha2JsTkhFM2Q0bjFvUVNVd0ZZRk5zSmFabW9ZR05wZmU4QnQ2bzFLYzVuVmlkRWJtUkJYMENmeS1LWklQaDBJT2ZJemE2ODY4UlE?oc=5",
+      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
+      "pubDateISO": "2026-01-02T08:00:00+00:00",
+      "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
