@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T10:11:43.530707+00:00",
+  "generatedAt": "2026-06-16T15:58:25.754607+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -19,6 +19,16 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-23T07:00:00+00:00",
+      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -79,6 +89,16 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -210,16 +230,6 @@
       "pubDateISO": "2026-01-14T08:00:00+00:00",
       "snippet": "The UCDI launches the Investor Club thedefender.media",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHB1VzN2Qmw0ckt6TFRzSFFEZUE5bDVnODVDSnJKWjdfVEpNbHBTMjVSSExtQU9NSDZFZjBfNmdsaDZDZVFIbUFZVFlCZ2F0N21LMXVlUndkX3ZPZXdWcUYxVzM4dUxwdVN0OWlCazdpUzYtWGdTS0RjOHI5QVpBU25lYw?oc=5",
-      "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-05T08:00:00+00:00",
-      "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
