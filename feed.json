@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T00:11:49.035717+00:00",
+  "generatedAt": "2026-06-21T06:06:21.806832+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -132,6 +132,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
+      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-05T08:00:00+00:00",
+      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
       "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
@@ -182,16 +192,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "The UCDI launches the Investor Club",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XeUNnODZRZGhQRF81T1k4ZUx5Zm9RRGFlTDNxN2F1T0otaldBSDFuMkktYmxDZE93aXNEQWhIbVcyVzZ5V3RQRGstNzJDR0I5UHNEYXFuMEZ5bngyLXdGZ1NfTEwzMkhjcDdVV0puT2w?oc=5",
-      "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-14T08:00:00+00:00",
-      "snippet": "The UCDI launches the Investor Club thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -229,7 +229,7 @@
       "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT",
       "pubDateISO": "2025-12-24T08:00:00+00:00",
       "snippet": "Major investments in Ukrainian companies in 2025 en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     }
   ]
 }
