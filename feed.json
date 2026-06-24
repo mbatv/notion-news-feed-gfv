@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:49:43.523472+00:00",
+  "generatedAt": "2026-06-24T10:53:59.925577+00:00",
   "items": [
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
@@ -39,16 +39,6 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-23T07:00:00+00:00",
-      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics thedefender.media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -120,6 +110,16 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-17T07:00:00+00:00",
+      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
