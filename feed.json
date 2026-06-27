@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T03:50:27.046990+00:00",
+  "generatedAt": "2026-06-27T06:55:26.429693+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -139,7 +139,7 @@
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
