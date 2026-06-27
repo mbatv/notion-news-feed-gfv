@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T21:08:31.710652+00:00",
+  "generatedAt": "2026-06-27T23:06:21.715064+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -89,7 +89,7 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
@@ -249,16 +249,6 @@
       "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Startups Attracted $526 Million in Investment in 2025 Inventure.com.ua",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian Venture Capital in 2025: Capital Concentration, Defence Focus, and a Stress Test for the Ecosystem",
-      "source": "Inventure.com.ua",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR2JrSXVxTHRZLWFENENabjNwTGFueUFGd3YzcFk2RmZyV0huRUI5dkZZVjA5Wk5oUXNRc0JLRmZncmQybmJoSVA1Ymd3SXNlWDlHdEl6N0JMdEliOVNHcG9Ya3BzaDhPeEJOVHRpTG44RjVoaE1CMjdUOXgxdl9neWVMd0FOOXAzM0VrUGdUVjlwb1JwTk5ucFg2a1dPemM4cTBwN0ZTdjA2YmozNXpub21pcWVqTjBoOGtxTWZ1SkFwdTI3eWZOZDRjSDdDb2NWUGtiU0tsUnRIZ1BqbUpFOHowQWlpNjVlS19zMw?oc=5",
-      "pubDate": "Fri, 02 Jan 2026 08:00:00 GMT",
-      "pubDateISO": "2026-01-02T08:00:00+00:00",
-      "snippet": "Ukrainian Venture Capital in 2025: Capital Concentration, Defence Focus, and a Stress Test for the Ecosystem Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
