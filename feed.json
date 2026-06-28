@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T04:12:14.750480+00:00",
+  "generatedAt": "2026-06-28T08:23:46.221349+00:00",
   "items": [
     {
       "headline": "What Is Audi Assured Buyback Plan in India 2026 Full Explained Guide",
@@ -239,7 +239,7 @@
       "pubDate": "Mon, 05 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-05T08:00:00+00:00",
       "snippet": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia The New York Times",
-      "query": "\"Deborah Fairlamb\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Startups Attracted $526 Million in Investment in 2025",
@@ -260,16 +260,6 @@
       "pubDateISO": "2026-01-02T08:00:00+00:00",
       "snippet": "Ukrainian Venture Capital in 2025: Capital Concentration, Defence Focus, and a Stress Test for the Ecosystem Inventure.com.ua",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlh3QXRYOXpKc2JrUXhpYndOTTZBVVBiSElkQVAwZm9CSVZGSFF4MnppZUFqY2pHUU9MZ1hfeE1QNWJHQmVSXzhCYzFSUE40cXB5bmx5VExtYVVTYUdaeFh4Q1p5aW04TTY1VVJMMG02N3U5NGc1TnM3cE9LbDVELUE5YjRSNGVJd21hcEdzeTZyeF9ERnE1ZVkyVU1mdllRbkNSLV9nbkRPZThmc1ppV3RKZGc1dHA3RU00dkpR?oc=5",
-      "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "pubDateISO": "2025-12-30T08:00:00+00:00",
-      "snippet": "Top 10 Ukrainian miltech startups that attracted the most investments in 2025 dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
 }
