@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T20:11:45.636757+00:00",
+  "generatedAt": "2026-06-30T22:17:10.971426+00:00",
   "items": [
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
@@ -149,7 +149,7 @@
       "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
