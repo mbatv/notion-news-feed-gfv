@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:55:44.049586+00:00",
+  "generatedAt": "2026-07-01T12:37:10.686378+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-05-15T07:00:00+00:00",
       "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Three companies join Swarmer’s autonomous air defence project",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "pubDateISO": "2026-05-12T07:00:00+00:00",
+      "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
@@ -50,16 +60,6 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Best wishes",
-      "source": "AIMA Media",
-      "source_url": "https://aimamedia.org",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWlZzejdwb1BDT0tCYV9GZEU0UzFGZHVjdHlPRHhjS2hDQjJQTFAxM0Mza3RtTFZkNlBKSTlRQzl0ajhjZ1NBWl9tZUZpbVJTejJhdXZSUTc0SURXM3c?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "Best wishes AIMA Media",
-      "query": "\"Justin Zeefe\""
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -129,16 +129,6 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYlFtbko3cVhnTXJzQlROSmZRN09rYlI1VFBzaGU1VWdNd1ZZZkQ4dUszUEJNWFhKZEp2dXRxNEpEbWdHYVNjQVVoWXhsR3RJWW4zLUJrd2UyMkd6RjhuTmI5YUtVR0MzeVEwd2pTdGhmQXJCclI0QmN5c0ZNZ9IBgwFBVV95cUxQNi10aUxlT1pDQ1ZzMVVVQV80Z1ItSVdKQUlOc3VqSTR0MHlGYTRMaEJLQm9URDFUNEZxLUxxSC1PZEhraTVtdUMtWWRBZ09HZ05EQWJuQ1hDZG9GR3d2ZUEyUUVwaUh4UDdGekwwX25zcHNYVVNHZE5KTGt6aEM5R1VhSQ?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "pubDateISO": "2026-03-06T08:00:00+00:00",
-      "snippet": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time CBS News",
       "query": "\"Deborah Fairlamb\""
     },
     {
