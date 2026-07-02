@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:20:08.407304+00:00",
+  "generatedAt": "2026-07-02T00:12:10.026990+00:00",
   "items": [
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
@@ -19,16 +19,6 @@
       "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project Defender Media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENzNGRDFhQTlESzZyRldIM3Jwa0VXbFJoVnhjV3lRX3RJRWhnRUNKcjRUMzRIaXpvSTBlNFN5NG5NcmItNkV4SDJFZnJxSG84MkhRR3VuakNadGY0ODlXdmtuTkd2b3ZxaWJKZQ?oc=5",
-      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-23T07:00:00+00:00",
-      "snippet": "Ukraine’s Tencore signs cooperation agreement with France’s Shark Robotics Defender Media",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -62,6 +52,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Best wishes",
+      "source": "AIMA Media",
+      "source_url": "https://aimamedia.org",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWlZzejdwb1BDT0tCYV9GZEU0UzFGZHVjdHlPRHhjS2hDQjJQTFAxM0Mza3RtTFZkNlBKSTlRQzl0ajhjZ1NBWl9tZUZpbVJTejJhdXZSUTc0SURXM3c?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-21T07:00:00+00:00",
+      "snippet": "Best wishes AIMA Media",
+      "query": "\"Justin Zeefe\""
+    },
+    {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -90,16 +90,6 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
@@ -209,7 +199,7 @@
       "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-02T08:00:00+00:00",
       "snippet": "Swarmer has filed for an IPO en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Investment in Ukrainian defense tech tops $100 million in 2025",
@@ -229,7 +219,7 @@
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-14T08:00:00+00:00",
       "snippet": "The UCDI launches the Investor Club Defender Media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
