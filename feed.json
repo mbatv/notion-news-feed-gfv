@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-03T07:24:35.665525+00:00",
+  "generatedAt": "2026-07-03T10:40:03.142948+00:00",
   "items": [
+    {
+      "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
+      "source": "The Defence Blog",
+      "source_url": "https://defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "pubDateISO": "2026-06-09T07:00:00+00:00",
+      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
       "source": "Tech.eu",
@@ -50,6 +60,16 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-25T07:00:00+00:00",
+      "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Best wishes",
@@ -219,7 +239,7 @@
       "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-14T08:00:00+00:00",
       "snippet": "The UCDI launches the Investor Club thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "In Ukraine, a New Arsenal of Killer A.I. Drones Is Being Born",
