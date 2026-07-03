@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T12:57:53.244560+00:00",
+  "generatedAt": "2026-07-03T15:17:46.270913+00:00",
   "items": [
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
@@ -65,7 +65,7 @@
       "headline": "Best wishes",
       "source": "AIMA Media",
       "source_url": "https://aimamedia.org",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yRmFfYm5PWkZ3Y3p5MmlpX293Um03NWJzcFVWYmJSQmdtaVFpTXRHR2xBVUQ1YTNJQVk0SVF4OEZwSml1dnQzUm1ZRTY5YWZoalNyRHNNdVNCUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWlZzejdwb1BDT0tCYV9GZEU0UzFGZHVjdHlPRHhjS2hDQjJQTFAxM0Mza3RtTFZkNlBKSTlRQzl0ajhjZ1NBWl9tZUZpbVJTejJhdXZSUTc0SURXM3c?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
       "snippet": "Best wishes AIMA Media",
@@ -99,7 +99,7 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
@@ -129,6 +129,16 @@
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
       "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkYlFtbko3cVhnTXJzQlROSmZRN09rYlI1VFBzaGU1VWdNd1ZZZkQ4dUszUEJNWFhKZEp2dXRxNEpEbWdHYVNjQVVoWXhsR3RJWW4zLUJrd2UyMkd6RjhuTmI5YUtVR0MzeVEwd2pTdGhmQXJCclI0QmN5c0ZNZ9IBgwFBVV95cUxQNi10aUxlT1pDQ1ZzMVVVQV80Z1ItSVdKQUlOc3VqSTR0MHlGYTRMaEJLQm9URDFUNEZxLUxxSC1PZEhraTVtdUMtWWRBZ09HZ05EQWJuQ1hDZG9GR3d2ZUEyUUVwaUh4UDdGekwwX25zcHNYVVNHZE5KTGt6aEM5R1VhSQ?oc=5",
+      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-06T08:00:00+00:00",
+      "snippet": "U.S. turns to Ukraine for drone defense expertise in Iran war, but solutions may take time CBS News",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -219,7 +229,7 @@
       "pubDate": "Sun, 25 Jan 2026 08:00:00 GMT",
       "pubDateISO": "2026-01-25T08:00:00+00:00",
       "snippet": "Investment in Ukrainian defense tech tops $100 million in 2025 The New Voice of Ukraine",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "The UCDI launches the Investor Club",
