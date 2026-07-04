@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:19:29.423073+00:00",
+  "generatedAt": "2026-07-04T21:01:20.479675+00:00",
   "items": [
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
@@ -52,6 +52,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-25T07:00:00+00:00",
+      "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Best wishes",
       "source": "AIMA Media",
       "source_url": "https://aimamedia.org",
@@ -80,16 +90,6 @@
       "pubDateISO": "2026-03-20T07:00:00+00:00",
       "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "Venture Capital Journal",
-      "source_url": "https://www.venturecapitaljournal.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq",
