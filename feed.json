@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-07-05T20:16:18.326115+00:00",
+  "generatedAt": "2026-07-05T22:04:07.320813+00:00",
   "items": [
-    {
-      "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
-      "source": "The Defence Blog",
-      "source_url": "https://defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "pubDateISO": "2026-06-09T07:00:00+00:00",
-      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
       "source": "Tech.eu",
@@ -99,7 +89,7 @@
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
