@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T03:48:22.284200+00:00",
+  "generatedAt": "2026-07-13T07:23:47.556803+00:00",
   "items": [
     {
       "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
@@ -199,7 +199,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
