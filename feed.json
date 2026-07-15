@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:03:14.761050+00:00",
+  "generatedAt": "2026-07-15T22:59:29.437343+00:00",
   "items": [
     {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
@@ -149,7 +149,7 @@
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
@@ -219,7 +219,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
