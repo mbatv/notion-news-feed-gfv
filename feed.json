@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-07-17T20:08:00.893228+00:00",
+  "generatedAt": "2026-07-17T21:56:06.936654+00:00",
   "items": [
-    {
-      "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
-      "source": "Tech Times",
-      "source_url": "https://www.techtimes.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVHdXQwTzl0UFdRVE10ejc3WWlMcWQ0WTJRS2xiNlhrNm9UY1VzRnlDd1cxU3U0SU1mWGJ3dC1jYUo3Q1JKb09RMzVmd3dnSExzdXZYZEVJd2NvT2o1UnhxcVlRMS1tdXJTUXRybTBuTXl4TDBXaHpka3dzZ2RSQ2ZjYUlmSkRxS0lRWWFNWVJGUjNaMzloNTBNRklwMnFNTjVwcUpESE5pX2Jwd2QwMHRnX1dsLWZ5UkVCVlAxQm5YOTIyemp5TTRWUFY?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 18:15:59 GMT",
-      "pubDateISO": "2026-07-16T18:15:59+00:00",
-      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
       "source": "The National Interest",
@@ -140,6 +130,16 @@
       "pubDateISO": "2026-03-18T07:00:00+00:00",
       "snippet": "Swarmer Becomes First Ukrainian Defense Company to Go Public on Nasdaq The Recursive",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
+      "source": "Venture Capital Journal",
+      "source_url": "https://www.venturecapitaljournal.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
+      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-18T07:00:00+00:00",
+      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
