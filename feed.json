@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:08:33.112339+00:00",
+  "generatedAt": "2026-07-20T11:48:16.808988+00:00",
   "items": [
     {
       "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
@@ -132,16 +132,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
-      "source": "Euromaidan Press",
-      "source_url": "https://euromaidanpress.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-17T07:00:00+00:00",
-      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
       "source": "dev.ua",
       "source_url": "https://dev.ua",
@@ -219,7 +209,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Mirai Tech receives $10 million in investment and wants to move AI work from servers to smartphones and laptops dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Drone Swarm Firm Swarmer Eyes Nasdaq IPO After $15M Funding Boost",
