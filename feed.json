@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T04:13:36.209808+00:00",
+  "generatedAt": "2026-07-25T07:20:43.505081+00:00",
   "items": [
     {
       "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
@@ -79,7 +79,7 @@
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-15T07:00:00+00:00",
       "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
@@ -89,7 +89,7 @@
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
       "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
-      "query": "\"Justin Zeefe\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
@@ -140,16 +140,6 @@
       "pubDateISO": "2026-03-17T07:00:00+00:00",
       "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXLWZVcVJyWlJBa1Z0WktFVXI5aHV2TEJXMUVxR3RpUVNfQmZ6Rjd2UTZvcGtzbThNTkxYUkcyQjhzbjZzR1FETExKLVJhN2Jj?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
