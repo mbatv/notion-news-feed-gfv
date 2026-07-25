@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T09:51:45.100438+00:00",
+  "generatedAt": "2026-07-25T11:13:30.243188+00:00",
   "items": [
     {
       "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
@@ -79,7 +79,7 @@
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-15T07:00:00+00:00",
       "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
