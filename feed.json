@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-07-31T15:21:54.486169+00:00",
+  "generatedAt": "2026-07-31T17:41:48.770228+00:00",
   "items": [
+    {
+      "headline": "Investing in Europe’s digital defenders",
+      "source": "Professional Wealth Management",
+      "source_url": "https://www.pwmnet.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83WDR4R25vZ3NtQmpuNDJvVDk3Ti1rYnJyRHVnazNWT3NlRnVacjZSUFZ4N0d1WDE1S0ZhRkNOaDlucmdSNXViWTFBeEJ6YkZxaEd6eW1CWDhOSHFEOEcwbVFyQk45cmlpVlEtNzIyb3UtWEFxV2c?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 08:35:48 GMT",
+      "pubDateISO": "2026-07-30T08:35:48+00:00",
+      "snippet": "Investing in Europe’s digital defenders Professional Wealth Management",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
     {
       "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
       "source": "Tech Times",
@@ -13,12 +23,12 @@
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
       "pubDate": "Thu, 16 Jul 2026 04:06:41 GMT",
       "pubDateISO": "2026-07-16T04:06:41+00:00",
-      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
+      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare nationalinterest.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -42,23 +52,13 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
-      "source": "BusinessLine",
-      "source_url": "https://www.thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-06T07:00:00+00:00",
-      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
-      "source": "The Defence Blog",
+      "source": "defence-blog.com",
       "source_url": "https://defence-blog.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
       "pubDateISO": "2026-06-09T07:00:00+00:00",
-      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
+      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit defence-blog.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "NewsTRACS",
+      "source": "newstracs.com",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -110,6 +110,16 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
+      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-25T07:00:00+00:00",
+      "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
