@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-01T22:02:25.655888+00:00",
+  "generatedAt": "2026-08-01T23:59:14.057632+00:00",
   "items": [
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Detroit News",
-      "source_url": "https://www.detroitnews.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTBZTVB3b1NoaXdnQWttQlV3VERlM3dCd3dmaFpxN1NfNHMwZDFJX2UxZ2F3R1lzTTU5dWZEa3JMTFB4bjlTejUyZ2l2MkNZeFVIZEF5QjdxOTh5ekZOSG5EalFaM3dDM2prSGloNzJSQnZzNFVsV2pTTlc5UExkM0MxZERkMXNIMTNuTDZTWXQycG9TYXNEYUJFVFhuQ0NWR3FJa2NrVHZwd3FHeURIbzBYZ1RtNkhneW1vbEx0RlFycTAzQ3N2eml3N1RWRGNUaEpKcFRYNTgyMERsVVlBYw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 14:01:00 GMT",
-      "pubDateISO": "2026-07-17T14:01:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Detroit News",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-17T07:00:00+00:00",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -20,16 +20,6 @@
       "pubDateISO": "2026-07-16T07:00:00+00:00",
       "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
-      "source": "The National Interest",
-      "source_url": "https://nationalinterest.org",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 04:06:41 GMT",
-      "pubDateISO": "2026-07-16T04:06:41+00:00",
-      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
@@ -72,23 +62,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Three companies join Swarmer’s autonomous air defence project",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-      "pubDateISO": "2026-05-12T07:00:00+00:00",
-      "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "newstracs.com",
+      "source": "NewsTRACS",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -110,6 +90,16 @@
       "pubDateISO": "2026-04-03T07:00:00+00:00",
       "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Weekly Digest: Battlefield to Nasdaq – Inside Swarmer’s public listing; CEO Serhii Kupriienko to speak at Resilience Conference Warsaw",
+      "source": "Resilience Media",
+      "source_url": "https://resiliencemedia.co",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOExYWXNacll0dFluTlhxazFoWlhvZ2g4MC1vU01xaXZzRnBKOUVhbFl2WGtVV29ZVnJQcjFzeTBicFFibTlHQ0U3ZEtZX0c4dEZQaHc4UEtRa1lZQmk5ckZlMjFXaEJyZ2VFaTc4SUFYaDBxNVNZdGpkSG1RR1l2UUVwVXVfQi1CYk05U1JQWGJJbXp1bHV3NWtfUlRSQU5LQ0kzakkwbGdqbkVodGZEREw4Ti0wVUN6T2VvN1l6T0FxOVNOZVZzblBTQVgyOGVLLTd0YUN0YmlsWnB4ZGpGQ1g4STdFTFg1TnB1Qg?oc=5",
+      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-26T07:00:00+00:00",
+      "snippet": "Weekly Digest: Battlefield to Nasdaq – Inside Swarmer’s public listing; CEO Serhii Kupriienko to speak at Resilience Conference Warsaw Resilience Media",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known",
