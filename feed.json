@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:44:51.929367+00:00",
+  "generatedAt": "2026-08-03T17:54:01.671741+00:00",
   "items": [
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
@@ -33,12 +33,12 @@
     },
     {
       "headline": "Tesla launches guaranteed future value program for Model Y and Model 3",
-      "source": "CarExpert",
+      "source": "carexpert.com.au",
       "source_url": "https://www.carexpert.com.au",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHMtWFVfVkhPeFVLNzJ3a2VCcEk3TkRrZzZfWGZOMmhwelB0U2w1bVhMQ2I1NW11T1Vsa2pZWTFPSkc2azhUbkRNMEtDb1RnZEdjMXFfcVpoQm9PRDkyUmNUN2hPM3FqZGhFZzg1dHJKeEZFNUphb1dlTlUwUURVaUU4QkNDTEZIWjlNTW5FdnlFT3M0QVBTTjZoMHo5a1BDY3o4NURISjA0ZEFC?oc=5",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
-      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 carexpert.com.au",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -53,12 +53,12 @@
     },
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
-      "source": "defence-blog.com",
+      "source": "The Defence Blog",
       "source_url": "https://defence-blog.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
       "pubDateISO": "2026-06-09T07:00:00+00:00",
-      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit defence-blog.com",
+      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -112,23 +112,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Weekly Digest: Battlefield to Nasdaq – Inside Swarmer’s public listing; CEO Serhii Kupriienko to speak at Resilience Conference Warsaw",
-      "source": "Resilience Media",
-      "source_url": "https://resiliencemedia.co",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOExYWXNacll0dFluTlhxazFoWlhvZ2g4MC1vU01xaXZzRnBKOUVhbFl2WGtVV29ZVnJQcjFzeTBicFFibTlHQ0U3ZEtZX0c4dEZQaHc4UEtRa1lZQmk5ckZlMjFXaEJyZ2VFaTc4SUFYaDBxNVNZdGpkSG1RR1l2UUVwVXVfQi1CYk05U1JQWGJJbXp1bHV3NWtfUlRSQU5LQ0kzakkwbGdqbkVodGZEREw4Ti0wVUN6T2VvN1l6T0FxOVNOZVZzblBTQVgyOGVLLTd0YUN0YmlsWnB4ZGpGQ1g4STdFTFg1TnB1Qg?oc=5",
-      "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-26T07:00:00+00:00",
-      "snippet": "Weekly Digest: Battlefield to Nasdaq – Inside Swarmer’s public listing; CEO Serhii Kupriienko to speak at Resilience Conference Warsaw Resilience Media",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech finance.yahoo.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -203,12 +193,12 @@
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
-      "source": "scroll.media",
+      "source": "Scroll.media",
       "source_url": "https://scroll.media",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures scroll.media",
+      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
       "query": "\"Green Flag Ventures\""
     },
     {
