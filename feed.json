@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T21:14:32.287211+00:00",
+  "generatedAt": "2026-08-05T23:03:09.711839+00:00",
   "items": [
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
@@ -22,13 +22,23 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
+      "source": "Tech Times",
+      "source_url": "https://www.techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVHdXQwTzl0UFdRVE10ejc3WWlMcWQ0WTJRS2xiNlhrNm9UY1VzRnlDd1cxU3U0SU1mWGJ3dC1jYUo3Q1JKb09RMzVmd3dnSExzdXZYZEVJd2NvT2o1UnhxcVlRMS1tdXJTUXRybTBuTXl4TDBXaHpka3dzZ2RSQ2ZjYUlmSkRxS0lRWWFNWVJGUjNaMzloNTBNRklwMnFNTjVwcUpESE5pX2Jwd2QwMHRnX1dsLWZ5UkVCVlAxQm5YOTIyemp5TTRWUFY?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-16T07:00:00+00:00",
+      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
-      "source": "Electrek",
+      "source": "electrek.co",
       "source_url": "https://electrek.co",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-14T07:00:00+00:00",
-      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
+      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts electrek.co",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -63,12 +73,12 @@
     },
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
-      "source": "Tech.eu",
+      "source": "tech.eu",
       "source_url": "https://tech.eu",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-15T07:00:00+00:00",
-      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
+      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US tech.eu",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -143,12 +153,12 @@
     },
     {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
-      "source": "Euromaidan Press",
+      "source": "euromaidanpress.com",
       "source_url": "https://euromaidanpress.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXM0bWdoMDJRMHJsZTNHcFE1MG5TZjc2WTZmbTF3ZzZrSmlKY1RnWUhmSkJYdlpXeGdqaEI4clpFVGU1RllJQ1dVU0RlQnAtaU1zZlItNFE0cG8xelJ0UzVHLUpRVFRPX3c4UkFiZjY4MlhNZWpINWNOSVNOWEhYVVF5dG5sSjc2YzhCNmRKRDZjQzJBZTRXd1FNM1U4U216Qm1Lb0tEdlNBSXVDcC0yMVVHVng2cWFXV3ZV?oc=5",
       "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-13T07:00:00+00:00",
-      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
+      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses euromaidanpress.com",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -183,12 +193,12 @@
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
-      "source": "kyivpost.com",
+      "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UXhEWUl0N2pRM3lzY3pxcWs4a1JIdFdFQWJsSTY1eFdTTlZLdE43RHFxWWMwdVVoUWZydU9fYnNQTFZfVlRsVTlibw?oc=5",
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
-      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon kyivpost.com",
+      "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
       "query": "\"Green Flag Ventures\""
     },
     {
