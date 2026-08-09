@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:37:45.563571+00:00",
+  "generatedAt": "2026-08-09T15:34:57.181002+00:00",
   "items": [
     {
       "headline": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front",
@@ -190,6 +190,16 @@
       "pubDateISO": "2026-03-05T08:00:00+00:00",
       "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Autonomy investments prove prescient amid Iran conflict",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDl0cDZQeVVyNUhvSnAyTl9qcnA5OUdQSXotaU1fLUxJU0MyTTZCN2k4cTZoREhFcU8yRUFGWWlsb3RHbDdxMFpxdWNyRVZnZm1WZWtjUkpQNThUT0pVZFlFVzlLdGZSS211RGlKdnBhUEc1WGxvRnJObElhZ09GbGdJajdyS2RtSmktWXVHNmw?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT",
+      "pubDateISO": "2026-03-03T08:00:00+00:00",
+      "snippet": "Autonomy investments prove prescient amid Iran conflict Yahoo Finance",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon",
