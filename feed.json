@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:49:49.600401+00:00",
+  "generatedAt": "2026-08-12T13:16:47.097764+00:00",
   "items": [
     {
       "headline": "Why the Defense Investing Boom Changes Everything You Know A",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-08-11T18:15:39+00:00",
       "snippet": "Why the Defense Investing Boom Changes Everything You Know A Lavender Hotel",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Inside Ukraine's Race To Build Autonomous Strike Capabilities",
-      "source": "Yahoo News UK",
-      "source_url": "https://uk.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQU1jRWg4cHF1MzBHa29RUnU4bmdLMExvV2ZZSVRXWG5oeVpBbEpBdVUtVzVPc3pBRjBxWloycUJxb1hjZXlpRHBEeVVSVlU0elg0Wm81WDFxYWUtZndRVnJMYVgtQi04NUI4eVVtZFVwN1JJTEdEd3I1S0FaeWZqWGhuVjU?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 10:06:58 GMT",
-      "pubDateISO": "2026-08-09T10:06:58+00:00",
-      "snippet": "Inside Ukraine's Race To Build Autonomous Strike Capabilities Yahoo News UK",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Investing in Europe’s digital defenders",
@@ -43,12 +33,12 @@
     },
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "detroitnews.com",
+      "source": "The Detroit News",
       "source_url": "https://www.detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTBZTVB3b1NoaXdnQWttQlV3VERlM3dCd3dmaFpxN1NfNHMwZDFJX2UxZ2F3R1lzTTU5dWZEa3JMTFB4bjlTejUyZ2l2MkNZeFVIZEF5QjdxOTh5ekZOSG5EalFaM3dDM2prSGloNzJSQnZzNFVsV2pTTlc5UExkM0MxZERkMXNIMTNuTDZTWXQycG9TYXNEYUJFVFhuQ0NWR3FJa2NrVHZwd3FHeURIbzBYZ1RtNkhneW1vbEx0RlFycTAzQ3N2eml3N1RWRGNUaEpKcFRYNTgyMERsVVlBYw?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies detroitnews.com",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Detroit News",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -59,6 +49,16 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
+      "source": "BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-06T07:00:00+00:00",
+      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -83,12 +83,12 @@
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "newstracs.com",
+      "source": "NewsTRACS",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -123,22 +123,22 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech finance.yahoo.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop",
-      "source": "Resilience Media",
+      "source": "resiliencemedia.co",
       "source_url": "https://resiliencemedia.co",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWl9SS2RqZ1pJWk1FU1lMakdNdFctdGxzMWsxVXM0LUF3ZG5BYkktMUhvbVlwV19QS054YVNVS2ZFdVZlR3BDaHJzUlVHQkFxNElMd2VxY2QtRmtOY0RsaVZNUjdiQXFzOWptVXlWSFBOV2d4LTZCU2pQbUdhUUgwUlZGbTNseWtDWEVYc2s4N0pRQ0ZDcE5MYm9KcGRuRVJycWdSMHk3WU9EN184NU5DSlZneDJMT21ib2c?oc=5",
       "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-20T07:00:00+00:00",
-      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop Resilience Media",
+      "snippet": "The Perfect Swarm: How Swarmer got its timing just right – by accident – and saw its US IPO pop resiliencemedia.co",
       "query": "\"Deborah Fairlamb\""
     },
     {
