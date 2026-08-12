@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T10:09:20.023266+00:00",
+  "generatedAt": "2026-08-12T11:49:49.600401+00:00",
   "items": [
     {
       "headline": "Why the Defense Investing Boom Changes Everything You Know A",
@@ -10,6 +10,16 @@
       "pubDateISO": "2026-08-11T18:15:39+00:00",
       "snippet": "Why the Defense Investing Boom Changes Everything You Know A Lavender Hotel",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Inside Ukraine's Race To Build Autonomous Strike Capabilities",
+      "source": "Yahoo News UK",
+      "source_url": "https://uk.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQU1jRWg4cHF1MzBHa29RUnU4bmdLMExvV2ZZSVRXWG5oeVpBbEpBdVUtVzVPc3pBRjBxWloycUJxb1hjZXlpRHBEeVVSVlU0elg0Wm81WDFxYWUtZndRVnJMYVgtQi04NUI4eVVtZFVwN1JJTEdEd3I1S0FaeWZqWGhuVjU?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:06:58 GMT",
+      "pubDateISO": "2026-08-09T10:06:58+00:00",
+      "snippet": "Inside Ukraine's Race To Build Autonomous Strike Capabilities Yahoo News UK",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Investing in Europe’s digital defenders",
@@ -33,12 +43,12 @@
     },
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Detroit News",
+      "source": "detroitnews.com",
       "source_url": "https://www.detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTBZTVB3b1NoaXdnQWttQlV3VERlM3dCd3dmaFpxN1NfNHMwZDFJX2UxZ2F3R1lzTTU5dWZEa3JMTFB4bjlTejUyZ2l2MkNZeFVIZEF5QjdxOTh5ekZOSG5EalFaM3dDM2prSGloNzJSQnZzNFVsV2pTTlc5UExkM0MxZERkMXNIMTNuTDZTWXQycG9TYXNEYUJFVFhuQ0NWR3FJa2NrVHZwd3FHeURIbzBYZ1RtNkhneW1vbEx0RlFycTAzQ3N2eml3N1RWRGNUaEpKcFRYNTgyMERsVVlBYw?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Detroit News",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies detroitnews.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -49,16 +59,6 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
-      "source": "BusinessLine",
-      "source_url": "https://www.thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-06T07:00:00+00:00",
-      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
