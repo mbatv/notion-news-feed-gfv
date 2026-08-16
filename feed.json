@@ -1,24 +1,14 @@
 {
-  "generatedAt": "2026-08-16T14:26:12.603443+00:00",
+  "generatedAt": "2026-08-16T15:24:40.363690+00:00",
   "items": [
     {
-      "headline": "Why the Defense Investing Boom Changes Everything You Know A",
-      "source": "weddings.lavenderhotels.co.uk",
-      "source_url": "https://weddings.lavenderhotels.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSi10QzdDdlc4VkJJTDhjeUZXVnlEU05QS1J5V1lsZ184YzlDSEh3MUoxVHZkLUg4T1JuOVgyUFdidFVuNU81MHV4dDRvYUthYjRTSjhEZE5DUkZhaXZBWmxoTGw5bXpKZ1pPcFhEWjM4Tm1BYTI5YzVCR005bFU1OE1WTUxrRXlrb1Vab2g2dUxnNjg?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 18:15:39 GMT",
-      "pubDateISO": "2026-08-11T18:15:39+00:00",
-      "snippet": "Why the Defense Investing Boom Changes Everything You Know A weddings.lavenderhotels.co.uk",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "source_url": "https://www.washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies washingtonpost.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -63,22 +53,22 @@
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
-      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better cepa.org",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -89,7 +79,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -153,22 +143,22 @@
     },
     {
       "headline": "Investors Eye Ukraine’s Silicon Steppe",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVTR6UmwwQ0lxMFJTY0VwR2JsRGt2ZDcxVGxpb29oa3RGMmVaZHVnNkdVSUk1ZGxFOTNFNTRuWDN6Wm4taHBoTmx1WGFIdnptWVRqaXBfc19meFJiZmplQ3RPUkRQRXRydUZUREJkMEY?oc=5",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-10T07:00:00+00:00",
-      "snippet": "Investors Eye Ukraine’s Silicon Steppe Center for European Policy Analysis (CEPA)",
+      "snippet": "Investors Eye Ukraine’s Silicon Steppe cepa.org",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1pZWW1pYTJoRUxsTC1PTlRUYWpSWTE4aVRYb0xzR1NQdUtRZFJPVWFEM3pBdVRQcnZFOGJucjhBSTFoeUFlM1NVUEVqMHRRc3JSQ19oWGluTDV6NHlqYjZKN0tPVUxkTGNPSjh2dm4tUEs2d0dVQV9LM3JwTndZTVlGTQ?oc=5",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
-      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
+      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar cepa.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -209,7 +199,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     }
   ]
 }
