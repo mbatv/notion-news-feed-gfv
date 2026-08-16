@@ -1,14 +1,24 @@
 {
-  "generatedAt": "2026-08-16T13:33:19.726212+00:00",
+  "generatedAt": "2026-08-16T14:26:12.603443+00:00",
   "items": [
     {
+      "headline": "Why the Defense Investing Boom Changes Everything You Know A",
+      "source": "weddings.lavenderhotels.co.uk",
+      "source_url": "https://weddings.lavenderhotels.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSi10QzdDdlc4VkJJTDhjeUZXVnlEU05QS1J5V1lsZ184YzlDSEh3MUoxVHZkLUg4T1JuOVgyUFdidFVuNU81MHV4dDRvYUthYjRTSjhEZE5DUkZhaXZBWmxoTGw5bXpKZ1pPcFhEWjM4Tm1BYTI5YzVCR005bFU1OE1WTUxrRXlrb1Vab2g2dUxnNjg?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:15:39 GMT",
+      "pubDateISO": "2026-08-11T18:15:39+00:00",
+      "snippet": "Why the Defense Investing Boom Changes Everything You Know A weddings.lavenderhotels.co.uk",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies washingtonpost.com",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -79,7 +89,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -179,7 +189,7 @@
       "pubDate": "Mon, 23 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-23T08:00:00+00:00",
       "snippet": "US-based Fund Invests in Ukrainian Anti-Drone Solutions Developer MaXon Kyiv Post",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
@@ -199,7 +209,7 @@
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
       "snippet": "Ukrainian defense tech company MaXon Systems has attracted investment from the American fund Green Flag Ventures dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
 }
