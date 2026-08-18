@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:44:50.600061+00:00",
+  "generatedAt": "2026-08-18T14:36:11.975500+00:00",
   "items": [
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
@@ -99,7 +99,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known Defender Media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
