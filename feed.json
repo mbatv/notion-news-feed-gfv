@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:24:54.591117+00:00",
+  "generatedAt": "2026-08-19T03:00:02.325995+00:00",
   "items": [
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
@@ -63,12 +63,12 @@
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "newstracs.com",
+      "source": "NewsTRACS",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -99,7 +99,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -133,12 +133,12 @@
     },
     {
       "headline": "The Audi Open Haus Sales Event Launches in South Africa",
-      "source": "carinsurance.arrivealive.co.za",
+      "source": "Arrive Alive",
       "source_url": "https://carinsurance.arrivealive.co.za",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkRVTXVJeDR5eThOTnZpZklsbV9MT3VLTlM3Rk43NC1EM0Z3UEd6U1ZBczRwSWRzS1REOW5vR0ZSRDVFb2N5Ry04VWVSbDlCRlRad1RpTHo4dG1FRUJsRXR5bDFmU1hKNkc4R2Zzei1mQ3hnWjZPRlo3ZDVvLVp1Y2thZ2pRVVk3OW5YeDd1MUZJOE9Wa3ppVUZIYw?oc=5",
       "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-16T07:00:00+00:00",
-      "snippet": "The Audi Open Haus Sales Event Launches in South Africa carinsurance.arrivealive.co.za",
+      "snippet": "The Audi Open Haus Sales Event Launches in South Africa Arrive Alive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
