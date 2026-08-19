@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:33:19.169021+00:00",
+  "generatedAt": "2026-08-19T06:49:33.694561+00:00",
   "items": [
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "Tesla launches guaranteed future value program for Model Y and Model 3",
-      "source": "CarExpert",
+      "source": "carexpert.com.au",
       "source_url": "https://www.carexpert.com.au",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHMtWFVfVkhPeFVLNzJ3a2VCcEk3TkRrZzZfWGZOMmhwelB0U2w1bVhMQ2I1NW11T1Vsa2pZWTFPSkc2azhUbkRNMEtDb1RnZEdjMXFfcVpoQm9PRDkyUmNUN2hPM3FqZGhFZzg1dHJKeEZFNUphb1dlTlUwUURVaUU4QkNDTEZIWjlNTW5FdnlFT3M0QVBTTjZoMHo5a1BDY3o4NURISjA0ZEFC?oc=5",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
-      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 carexpert.com.au",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -63,32 +63,32 @@
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "NewsTRACS",
+      "source": "newstracs.com",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
-      "snippet": "Ukraine’s Technology Shield Gets Better and Better cepa.org",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -99,7 +99,7 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
@@ -123,13 +123,23 @@
     },
     {
       "headline": "UK family office, VCs cash in on Swarmer’s moonshot IPO",
-      "source": "Venture Capital Journal",
+      "source": "venturecapitaljournal.com",
       "source_url": "https://www.venturecapitaljournal.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29RYUFCUkRPY3gyRVNxWC1BZGNaMUM3WXItQ1FkUTdwMWZmVjNJWmtzSTJ5UGozTllMT3NUY1VsX0FEWThHZGktU0VsWkhhb2l4N0JreVlwcDBBclViUmZsek5id1hIZUNSUXdVVlpYMWlqTkQtQlpXZ2tSM20tZDEwNHp4SUswMmdUcHlpTndwSVZleldF?oc=5",
       "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-18T07:00:00+00:00",
-      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO Venture Capital Journal",
+      "snippet": "UK family office, VCs cash in on Swarmer’s moonshot IPO venturecapitaljournal.com",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers",
+      "source": "Euromaidan Press",
+      "source_url": "https://euromaidanpress.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGw4aEh6SUdWY1lOWERfNEhPNFl1UVozY3libnVncG40OEU3d2pGcUY4dDJia2EtcUdTR25xaUk2dEVCZFhoV0xrVXVjYUlfOFNrTS1HVE14X05ydWt2RWxTRnp1NmxGQnNEZHdEMkxfV2VpOHhUb2V5YnZXdV9tejlLNGk5N3dSRjZaZEt0Qmw2Rl9ma1hwRUFmVGsybTVFWkhMa19sdHQ4ZGh3X1Ixc29tOFpMaGM5N2V0eQ?oc=5",
+      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-17T07:00:00+00:00",
+      "snippet": "9,000 drones, terabytes a day: Ukraine opens battlefield data to allied AI trainers Euromaidan Press",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "The Audi Open Haus Sales Event Launches in South Africa",
@@ -153,22 +163,22 @@
     },
     {
       "headline": "Investors Eye Ukraine’s Silicon Steppe",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVTR6UmwwQ0lxMFJTY0VwR2JsRGt2ZDcxVGxpb29oa3RGMmVaZHVnNkdVSUk1ZGxFOTNFNTRuWDN6Wm4taHBoTmx1WGFIdnptWVRqaXBfc19meFJiZmplQ3RPUkRQRXRydUZUREJkMEY?oc=5",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-10T07:00:00+00:00",
-      "snippet": "Investors Eye Ukraine’s Silicon Steppe cepa.org",
+      "snippet": "Investors Eye Ukraine’s Silicon Steppe Center for European Policy Analysis (CEPA)",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1pZWW1pYTJoRUxsTC1PTlRUYWpSWTE4aVRYb0xzR1NQdUtRZFJPVWFEM3pBdVRQcnZFOGJucjhBSTFoeUFlM1NVUEVqMHRRc3JSQ19oWGluTDV6NHlqYjZKN0tPVUxkTGNPSjh2dm4tUEs2d0dVQV9LM3JwTndZTVlGTQ?oc=5",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
-      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar cepa.org",
+      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -193,12 +203,12 @@
     },
     {
       "headline": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures",
-      "source": "Scroll.media",
+      "source": "scroll.media",
       "source_url": "https://scroll.media",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZU5Udl9KX2dERnc2cnhwczZWZmwtTENKSUEyYncxMWxHSlVoX3F4YXpyMWRwckRmZ01NSlBiaEdOR3ZSQlRwVk5rYWhURGtBaS1HME8wZmJidUtveGgwUmNXRGVING9VaDhXVERoSkFWMmRVdEJTeS1VVmhZa0VKeHo3dnQtRDNNRDdXaHVjclFqYUd0R1NCMVo5aTZhU01IRWZua190OGotcHZkUTNXbA?oc=5",
       "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT",
       "pubDateISO": "2026-02-20T08:00:00+00:00",
-      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures Scroll.media",
+      "snippet": "Ukrainian Deftech Startup MaXon Secures Investment from Green Flag Ventures scroll.media",
       "query": "\"Green Flag Ventures\""
     }
   ]
