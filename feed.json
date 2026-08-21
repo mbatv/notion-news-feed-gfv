@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:34:36.653963+00:00",
+  "generatedAt": "2026-08-21T03:05:41.734400+00:00",
   "items": [
     {
       "headline": "Absa disrupts EV finance with BYD partnership",
@@ -20,16 +20,6 @@
       "pubDateISO": "2026-07-17T07:00:00+00:00",
       "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Detroit News",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Why the best time to invest in Ukraine is now",
-      "source": "Tech.eu",
-      "source_url": "https://tech.eu",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzWXFfWnJJX0pNaFZ2OHZqNF9VaTdXanNmSHVtZGUyZDNZLWtoQngybEpPdi0tMFIzWkYxOXNNYURXVmpSQ3YzYkRaMS1yUkthYU9YUm1TZlBpVlZOdEtaSjFQWEJzZERnVV96Sk9XZFB6TXdHV0VkWUZ3OXdhZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "Why the best time to invest in Ukraine is now Tech.eu",
-      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
@@ -99,7 +89,7 @@
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-15T07:00:00+00:00",
       "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
