@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T04:24:46.331859+00:00",
+  "generatedAt": "2026-08-27T16:15:11.486590+00:00",
   "items": [
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
@@ -82,14 +82,14 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekVaYnlFMVVjM1hvS0N3Y05McmE3bUJhWkZnVG1YV3p5RXh4RGYySUY0endoZUZFcXZwMDhnTFZwYjVuWS1ZWVNtV2t4ME5iSy1QM0NLTHREU2dlNGpaVUpmUEptUGNEYkNWUUxsN2F4V0loRWl6N3RFdU1VM1EtOWZWWmNPTUloU193MzJpa0stSVAzVHhkV1huaUZFb282V0ZhZk1JS2pNTW1lSkZhZFlCQXJDNHpnNXpPNVIxY3lWczhkRUdqZnZwZU1rdDdYcUNZOGlRbGtsN1lWSXR0X01TTExrZw?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "pubDateISO": "2026-04-13T07:00:00+00:00",
-      "snippet": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare dev.ua",
-      "query": "\"Green Flag Ventures\""
+      "headline": "Three companies join Swarmer’s autonomous air defence project",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "pubDateISO": "2026-05-12T07:00:00+00:00",
+      "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
@@ -190,6 +190,16 @@
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "The Audi Open Haus Sales Event Launches in South Africa Arrive Alive",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
+      "source": "Inventure.com.ua.",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmIyeXVXaEFtbmIzTEdfa3pWQ1RTS0tELTlWYmlFRWFURkt0aENITkQ3akRBejlpTWJPY1JrNnZHbzVyQUNjcjktTW5BRjY1aTlibUdvOUNHbmtfX2Z5dUhBUlc2RGg2LXR4cUx0OHpxZm51Z3NpVGx1V3ZOMDJ4d0hjLWw3LUZLRkZNbHVlV0dRVnhmOFM3TFhvZXNFUzRLeWhSM05mQWZKMUdmaVlwUTd3cjNNSFRSNjhGRlIwSHAta1B6WG52RQ?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-13T07:00:00+00:00",
+      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua.",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Investors Eye Ukraine’s Silicon Steppe",
