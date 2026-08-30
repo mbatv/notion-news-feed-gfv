@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:06:25.633678+00:00",
+  "generatedAt": "2026-08-30T04:33:57.549791+00:00",
   "items": [
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
@@ -73,12 +73,12 @@
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
-      "source": "NewsTRACS",
+      "source": "newstracs.com",
       "source_url": "https://newstracs.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnZnSjMtdXl5OW55Nk9YdGNzOHpJMktucnVMMHJfX05HdlV5cGhaLW9wS0s4WkQ5ajJWMlluVG5tZm82OUdoYU9hTUJDUVEtM2dzSkxpNTNqTGpMWFhsQWp2b0NLRjR5V0xsTUo5d0lmM0tjdG9qX1psOERQelpiTEpKcDJlSEtxZjlRSmFjRF90NTdkNGxlM3RyUlYxcHZBXzNELWpLSVBsNExUQVF2OTJrTlVOUkZY?oc=5",
       "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-06T07:00:00+00:00",
-      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals NewsTRACS",
+      "snippet": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals newstracs.com",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -109,6 +109,16 @@
       "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Swarmer IPO Surge Puts Ukraine-Born Drone AI In Focus",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VKSUZ3Yzc0dHMxaGdFcjlDaTVjNHAwVko5VldORDVLY0dzd2dWOHJwSW9Ga09jc19yWHFLN2g0bXJRdU5EeTNTOS00MGJ0cURfV183U215NzRCUDlDdlo2d2tTOGlIU3F2dHR0LV8wS2J2eHY0Tm1QdTRyQ1RxSEJWWTc5NHhISHpFaDBISXYwXzQzaHE3QnpiMFdDV2h3ZHVseGRLX3JlSUFvQzdF?oc=5",
+      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-21T07:00:00+00:00",
+      "snippet": "Swarmer IPO Surge Puts Ukraine-Born Drone AI In Focus Forbes",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -162,16 +172,6 @@
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
-      "source": "Inventure.com.ua.",
-      "source_url": "https://inventure.com.ua",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmIyeXVXaEFtbmIzTEdfa3pWQ1RTS0tELTlWYmlFRWFURkt0aENITkQ3akRBejlpTWJPY1JrNnZHbzVyQUNjcjktTW5BRjY1aTlibUdvOUNHbmtfX2Z5dUhBUlc2RGg2LXR4cUx0OHpxZm51Z3NpVGx1V3ZOMDJ4d0hjLWw3LUZLRkZNbHVlV0dRVnhmOFM3TFhvZXNFUzRLeWhSM05mQWZKMUdmaVlwUTd3cjNNSFRSNjhGRlIwSHAta1B6WG52RQ?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-13T07:00:00+00:00",
-      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua.",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
       "source": "Euromaidan Press",
       "source_url": "https://euromaidanpress.com",
@@ -180,6 +180,16 @@
       "pubDateISO": "2026-03-13T07:00:00+00:00",
       "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures",
+      "source": "Inventure.com.ua.",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmIyeXVXaEFtbmIzTEdfa3pWQ1RTS0tELTlWYmlFRWFURkt0aENITkQ3akRBejlpTWJPY1JrNnZHbzVyQUNjcjktTW5BRjY1aTlibUdvOUNHbmtfX2Z5dUhBUlc2RGg2LXR4cUx0OHpxZm51Z3NpVGx1V3ZOMDJ4d0hjLWw3LUZLRkZNbHVlV0dRVnhmOFM3TFhvZXNFUzRLeWhSM05mQWZKMUdmaVlwUTd3cjNNSFRSNjhGRlIwSHAta1B6WG52RQ?oc=5",
+      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-13T07:00:00+00:00",
+      "snippet": "Ukrainian-Estonian Startup BaBayte Secures Investment from U.S. Fund Green Flag Ventures Inventure.com.ua.",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Investors Eye Ukraine’s Silicon Steppe",
