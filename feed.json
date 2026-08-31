@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-08-31T01:12:45.719135+00:00",
+  "generatedAt": "2026-08-31T08:22:07.033521+00:00",
   "items": [
-    {
-      "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Detroit News",
-      "source_url": "https://www.detroitnews.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTBZTVB3b1NoaXdnQWttQlV3VERlM3dCd3dmaFpxN1NfNHMwZDFJX2UxZ2F3R1lzTTU5dWZEa3JMTFB4bjlTejUyZ2l2MkNZeFVIZEF5QjdxOTh5ekZOSG5EalFaM3dDM2prSGloNzJSQnZzNFVsV2pTTlc5UExkM0MxZERkMXNIMTNuTDZTWXQycG9TYXNEYUJFVFhuQ0NWR3FJa2NrVHZwd3FHeURIbzBYZ1RtNkhneW1vbEx0RlFycTAzQ3N2eml3N1RWRGNUaEpKcFRYNTgyMERsVVlBYw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Detroit News",
-      "query": "\"Deborah Fairlamb\""
-    },
     {
       "headline": "Why the best time to invest in Ukraine is now",
       "source": "Tech.eu",
@@ -70,6 +60,16 @@
       "pubDateISO": "2026-06-09T07:00:00+00:00",
       "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Three companies join Swarmer’s autonomous air defence project",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+      "pubDateISO": "2026-05-12T07:00:00+00:00",
+      "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
