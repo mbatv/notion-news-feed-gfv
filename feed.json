@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:48:21.692156+00:00",
+  "generatedAt": "2026-09-01T01:05:32.163338+00:00",
   "items": [
     {
       "headline": "Why the best time to invest in Ukraine is now",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
-      "source": "Tech Times",
+      "source": "techtimes.com",
       "source_url": "https://www.techtimes.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVHdXQwTzl0UFdRVE10ejc3WWlMcWQ0WTJRS2xiNlhrNm9UY1VzRnlDd1cxU3U0SU1mWGJ3dC1jYUo3Q1JKb09RMzVmd3dnSExzdXZYZEVJd2NvT2o1UnhxcVlRMS1tdXJTUXRybTBuTXl4TDBXaHpka3dzZ2RSQ2ZjYUlmSkRxS0lRWWFNWVJGUjNaMzloNTBNRklwMnFNTjVwcUpESE5pX2Jwd2QwMHRnX1dsLWZ5UkVCVlAxQm5YOTIyemp5TTRWUFY?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
+      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It techtimes.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -72,6 +72,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekVaYnlFMVVjM1hvS0N3Y05McmE3bUJhWkZnVG1YV3p5RXh4RGYySUY0endoZUZFcXZwMDhnTFZwYjVuWS1ZWVNtV2t4ME5iSy1QM0NLTHREU2dlNGpaVUpmUEptUGNEYkNWUUxsN2F4V0loRWl6N3RFdU1VM1EtOWZWWmNPTUloU193MzJpa0stSVAzVHhkV1huaUZFb282V0ZhZk1JS2pNTW1lSkZhZFlCQXJDNHpnNXpPNVIxY3lWczhkRUdqZnZwZU1rdDdYcUNZOGlRbGtsN1lWSXR0X01TTExrZw?oc=5",
+      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-13T07:00:00+00:00",
+      "snippet": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare dev.ua",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
       "source": "newstracs.com",
       "source_url": "https://newstracs.com",
@@ -83,22 +93,22 @@
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
-      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better cepa.org",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -123,12 +133,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech finance.yahoo.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -183,33 +193,23 @@
     },
     {
       "headline": "Investors Eye Ukraine’s Silicon Steppe",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVTR6UmwwQ0lxMFJTY0VwR2JsRGt2ZDcxVGxpb29oa3RGMmVaZHVnNkdVSUk1ZGxFOTNFNTRuWDN6Wm4taHBoTmx1WGFIdnptWVRqaXBfc19meFJiZmplQ3RPUkRQRXRydUZUREJkMEY?oc=5",
       "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-10T07:00:00+00:00",
-      "snippet": "Investors Eye Ukraine’s Silicon Steppe Center for European Policy Analysis (CEPA)",
+      "snippet": "Investors Eye Ukraine’s Silicon Steppe cepa.org",
       "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1pZWW1pYTJoRUxsTC1PTlRUYWpSWTE4aVRYb0xzR1NQdUtRZFJPVWFEM3pBdVRQcnZFOGJucjhBSTFoeUFlM1NVUEVqMHRRc3JSQ19oWGluTDV6NHlqYjZKN0tPVUxkTGNPSjh2dm4tUEs2d0dVQV9LM3JwTndZTVlGTQ?oc=5",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
-      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
+      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar cepa.org",
       "query": "\"Deborah Fairlamb\""
-    },
-    {
-      "headline": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment",
-      "source": "dev.ua",
-      "source_url": "https://dev.ua",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblowSjhudk8ybUFDZ3llRFlDNXBIUHJiWGltWVF3WUFoczAxUjdFbGFLQ1JNTzhEelhmcldXOVMzLXRVcmFKUTVPN2x1ZnJWaFNtcDVLbThnU0cxMjJLbEFEVG42RjFFRzExQTRGNDFNS1BUUnRTX0tWMzNYRTZmM3E0S2JhaVV1bGMxLUdhblpJY3podHB0TmJfUTFIbkNLVG0tT0ZHOFFhY3B2aFF0eE1GMzcxSW1CYWg3Tg?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "pubDateISO": "2026-03-05T08:00:00+00:00",
-      "snippet": "Marine drone manufacturer MAGURA becomes a unicorn after new round of investment dev.ua",
-      "query": "\"Green Flag Ventures\""
     }
   ]
 }
