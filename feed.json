@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:42:49.860507+00:00",
+  "generatedAt": "2026-09-04T08:39:26.147749+00:00",
   "items": [
     {
       "headline": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front",
@@ -20,6 +20,26 @@
       "pubDateISO": "2026-07-17T07:00:00+00:00",
       "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
+      "source": "The National Interest",
+      "source_url": "https://nationalinterest.org",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-16T07:00:00+00:00",
+      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
+      "source": "Tech Times",
+      "source_url": "https://www.techtimes.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVHdXQwTzl0UFdRVE10ejc3WWlMcWQ0WTJRS2xiNlhrNm9UY1VzRnlDd1cxU3U0SU1mWGJ3dC1jYUo3Q1JKb09RMzVmd3dnSExzdXZYZEVJd2NvT2o1UnhxcVlRMS1tdXJTUXRybTBuTXl4TDBXaHpka3dzZ2RSQ2ZjYUlmSkRxS0lRWWFNWVJGUjNaMzloNTBNRklwMnFNTjVwcUpESE5pX2Jwd2QwMHRnX1dsLWZ5UkVCVlAxQm5YOTIyemp5TTRWUFY?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-16T07:00:00+00:00",
+      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
@@ -73,13 +93,33 @@
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine’s Technology Shield Gets Better and Better",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "source_url": "https://cepa.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
+      "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-03T07:00:00+00:00",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "The Ukrainian UAV market is valued at $6.3 billion",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9STDBVUy1oZXdRNFpiZ0dqWVF0SlRrMWZQSmZWaFFwMi1XUUg3Y1d6UGhHeWE1Z3V0a2hhMFFLeHE1OW5SRXVmOFBhQUx1akkwdlZCZ2lxLUowTmlyMUJYcmNYdE9ZVkVPM1c4cWxwMkJXaDFHLXpsTEtyeXZpUQ?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-02T07:00:00+00:00",
+      "snippet": "The Ukrainian UAV market is valued at $6.3 billion thedefender.media",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer IPO Surge Puts Ukraine-Born Drone AI In Focus",
@@ -93,12 +133,12 @@
     },
     {
       "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVotTk82NDE3ekV5ZmhEUUVOMWJYSXRSWVVubFRZSjctVnBCbG9IQVpxRlJucDF4dWN0eVB1T29oZDA2VVFCbE4xRF9RWUxQR2l2TVFiSFBnd0dBcWtfQUVONVBFaFBDSTJfcTVUcXJHN3RudkVkZDJDLXJIcHNVR2ZhUGk1cGxPUFVmTmtUNTFZdw?oc=5",
       "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
+      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech The Kyiv Independent",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -112,23 +152,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses",
-      "source": "Euromaidan Press",
-      "source_url": "https://euromaidanpress.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXM0bWdoMDJRMHJsZTNHcFE1MG5TZjc2WTZmbTF3ZzZrSmlKY1RnWUhmSkJYdlpXeGdqaEI4clpFVGU1RllJQ1dVU0RlQnAtaU1zZlItNFE0cG8xelJ0UzVHLUpRVFRPX3c4UkFiZjY4MlhNZWpINWNOSVNOWEhYVVF5dG5sSjc2YzhCNmRKRDZjQzJBZTRXd1FNM1U4U216Qm1Lb0tEdlNBSXVDcC0yMVVHVng2cWFXV3ZV?oc=5",
-      "pubDate": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-13T07:00:00+00:00",
-      "snippet": "Countries turn to Ukraine for help as Iran shows up their outdated air defenses Euromaidan Press",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar",
-      "source": "cepa.org",
+      "source": "Center for European Policy Analysis (CEPA)",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1pZWW1pYTJoRUxsTC1PTlRUYWpSWTE4aVRYb0xzR1NQdUtRZFJPVWFEM3pBdVRQcnZFOGJucjhBSTFoeUFlM1NVUEVqMHRRc3JSQ19oWGluTDV6NHlqYjZKN0tPVUxkTGNPSjh2dm4tUEs2d0dVQV9LM3JwTndZTVlGTQ?oc=5",
       "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
       "pubDateISO": "2026-03-09T07:00:00+00:00",
-      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar cepa.org",
+      "snippet": "Drone Defenses: Buyers Flock to the Ukrainian Bazaar Center for European Policy Analysis (CEPA)",
       "query": "\"Green Flag Ventures\""
     }
   ]
