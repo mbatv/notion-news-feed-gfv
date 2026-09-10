@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:03:21.177495+00:00",
+  "generatedAt": "2026-09-10T03:52:22.715148+00:00",
   "items": [
     {
       "headline": "Investing in Europe’s digital defenders",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
+      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare nationalinterest.org",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
-      "source": "electrek.co",
+      "source": "Electrek",
       "source_url": "https://electrek.co",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-14T07:00:00+00:00",
-      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts electrek.co",
+      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -133,22 +133,32 @@
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
-      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better cepa.org",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "The Ukrainian UAV market is valued at $6.3 billion",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9STDBVUy1oZXdRNFpiZ0dqWVF0SlRrMWZQSmZWaFFwMi1XUUg3Y1d6UGhHeWE1Z3V0a2hhMFFLeHE1OW5SRXVmOFBhQUx1akkwdlZCZ2lxLUowTmlyMUJYcmNYdE9ZVkVPM1c4cWxwMkJXaDFHLXpsTEtyeXZpUQ?oc=5",
+      "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-02T07:00:00+00:00",
+      "snippet": "The Ukrainian UAV market is valued at $6.3 billion thedefender.media",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -220,6 +230,16 @@
       "pubDateISO": "2026-03-16T07:00:00+00:00",
       "snippet": "“Survival instinct in machines”. Ukrainian startup BaBayte, which creates AI modules for drones, has attracted investment from Green Flag Ventures dev.ua",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "The Audi Open Haus Sales Event Launches in South Africa",
+      "source": "Arrive Alive",
+      "source_url": "https://carinsurance.arrivealive.co.za",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkRVTXVJeDR5eThOTnZpZklsbV9MT3VLTlM3Rk43NC1EM0Z3UEd6U1ZBczRwSWRzS1REOW5vR0ZSRDVFb2N5Ry04VWVSbDlCRlRad1RpTHo4dG1FRUJsRXR5bDFmU1hKNkc4R2Zzei1mQ3hnWjZPRlo3ZDVvLVp1Y2thZ2pRVVk3OW5YeDd1MUZJOE9Wa3ppVUZIYw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "pubDateISO": "2026-03-16T07:00:00+00:00",
+      "snippet": "The Audi Open Haus Sales Event Launches in South Africa Arrive Alive",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
 }
