@@ -1,44 +1,34 @@
 {
-  "generatedAt": "2026-09-17T07:22:44.650520+00:00",
+  "generatedAt": "2026-09-17T13:12:29.319382+00:00",
   "items": [
     {
       "headline": "Investing in Europe’s digital defenders",
-      "source": "Professional Wealth Management",
+      "source": "pwmnet.com",
       "source_url": "https://www.pwmnet.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83WDR4R25vZ3NtQmpuNDJvVDk3Ti1rYnJyRHVnazNWT3NlRnVacjZSUFZ4N0d1WDE1S0ZhRkNOaDlucmdSNXViWTFBeEJ6YkZxaEd6eW1CWDhOSHFEOEcwbVFyQk45cmlpVlEtNzIyb3UtWEFxV2c?oc=5",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-30T07:00:00+00:00",
-      "snippet": "Investing in Europe’s digital defenders Professional Wealth Management",
+      "snippet": "Investing in Europe’s digital defenders pwmnet.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
-      "headline": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front",
-      "source": "Milwaukee Independent",
-      "source_url": "https://www.milwaukeeindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRTRkRNTnpwcF94M1FKUWx2RXFuSHI4VmdlWVpUODRDQzFaNTFraVNRdU9uZzNFT3BfLWtpTUJRQ2RGaVVET2dsVlhrMlprWWtZVWp0bzNiWGkwdDd6WW1xRGI3c19iY2d0aDN4cC1mQ3RNa3pacTE0dzZEQ0VsdXY4V3VnbXNiQXhmUlFyb3ZPeHNHUDVTSnVsWFVxYUxSQWxYMHJydE9uUTh4c0JKcG0yZ1lCOXlSVTg1dWp5bWk?oc=5",
-      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-24T07:00:00+00:00",
-      "snippet": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front Milwaukee Independent",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies washingtonpost.com",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
+      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare nationalinterest.org",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -49,6 +39,16 @@
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
       "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-14T07:00:00+00:00",
+      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -79,7 +79,7 @@
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
       "pubDateISO": "2026-06-09T07:00:00+00:00",
       "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Ukraine’s battlefield drone detector spotted at US Army training in California",
@@ -112,6 +112,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-17T07:00:00+00:00",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
       "source": "NewsTRACS",
       "source_url": "https://newstracs.com",
@@ -123,22 +133,22 @@
     },
     {
       "headline": "Why Ukraine Needs More Millionaires and Fewer Billionaires",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSll3bU80eTFsS1NibmlORjRIWk9mbzJjTHhScDdUY3BzRzFYNmx4X1g2U2FJUzFKcXdDRmpZSVIzaVozWWUwbzNSY1VTc3kwUDBSNzZ4cDR1eEZQRzVYMElRbHZLSnJUVDNXWU1ta2JmcHVmNFlzVGlib05SdWRVaTZmSVhvWXRQWDFDcw?oc=5",
       "pubDate": "Sat, 04 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-04T07:00:00+00:00",
-      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires Center for European Policy Analysis (CEPA)",
+      "snippet": "Why Ukraine Needs More Millionaires and Fewer Billionaires cepa.org",
       "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Technology Shield Gets Better and Better",
-      "source": "Center for European Policy Analysis (CEPA)",
+      "source": "cepa.org",
       "source_url": "https://cepa.org",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1VyTzRaRTI2dTVPTFkwaGp1VWVmLUVIelVFNWExZ3M1VmJTQl9kbjlKNjJDT2JDb1F5Zzh0XzlsQzVzaU1mcy1jaDVzUnU2U0xad0wtQU5DSGpVZi1HYmxld2R0cnNuY2NsR0Flb3pFX00wdkpRb3FFUE5UNUpfUw?oc=5",
       "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-03T07:00:00+00:00",
-      "snippet": "Ukraine’s Technology Shield Gets Better and Better Center for European Policy Analysis (CEPA)",
+      "snippet": "Ukraine’s Technology Shield Gets Better and Better cepa.org",
       "query": "\"Green Flag Ventures\""
     },
     {
