@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:11:18.019700+00:00",
+  "generatedAt": "2026-09-17T07:22:44.650520+00:00",
   "items": [
     {
       "headline": "Investing in Europe’s digital defenders",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "source_url": "https://www.washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies washingtonpost.com",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -49,16 +49,6 @@
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
       "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-14T07:00:00+00:00",
-      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
@@ -170,26 +160,6 @@
       "pubDateISO": "2026-03-25T07:00:00+00:00",
       "snippet": "US-Ukrainian Kara Dag Technologies partners with Anduril – what is known thedefender.media",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Swarmer IPO Surge Puts Ukraine-Born Drone AI In Focus",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VKSUZ3Yzc0dHMxaGdFcjlDaTVjNHAwVko5VldORDVLY0dzd2dWOHJwSW9Ga09jc19yWHFLN2g0bXJRdU5EeTNTOS00MGJ0cURfV183U215NzRCUDlDdlo2d2tTOGlIU3F2dHR0LV8wS2J2eHY0Tm1QdTRyQ1RxSEJWWTc5NHhISHpFaDBISXYwXzQzaHE3QnpiMFdDV2h3ZHVseGRLX3JlSUFvQzdF?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "Swarmer IPO Surge Puts Ukraine-Born Drone AI In Focus Forbes",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTU5xaFpRME0zY0EyaWN4QmFQbVU2OUpqbWJJd01ZLXdFZmZqV3pQSlZ4dTNtangxZzF5YXJlbVBNaERZekVXVVMwbkxxSVBCZzh5cC1PdXh3d0VCUzhsVTRISldHSzBGalRrN0diZ3Judm9iNmpaMXoxYzhPbE9BUlcyN0g0REtUWG01dFJCdThJM1dWREpEWlJnM08?oc=5",
-      "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-21T07:00:00+00:00",
-      "snippet": "‘Broke a barrier’ — Swarmer IPO tests Wall Street appetite for Ukrainian defense tech Yahoo Finance",
-      "query": "\"Deborah Fairlamb\""
     }
   ]
 }
