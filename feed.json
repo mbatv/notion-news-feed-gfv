@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T17:04:40.698493+00:00",
+  "generatedAt": "2026-09-19T20:17:15.059821+00:00",
   "items": [
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
@@ -23,12 +23,12 @@
     },
     {
       "headline": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front",
-      "source": "milwaukeeindependent.com",
+      "source": "Milwaukee Independent",
       "source_url": "https://www.milwaukeeindependent.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRTRkRNTnpwcF94M1FKUWx2RXFuSHI4VmdlWVpUODRDQzFaNTFraVNRdU9uZzNFT3BfLWtpTUJRQ2RGaVVET2dsVlhrMlprWWtZVWp0bzNiWGkwdDd6WW1xRGI3c19iY2d0aDN4cC1mQ3RNa3pacTE0dzZEQ0VsdXY4V3VnbXNiQXhmUlFyb3ZPeHNHUDVTSnVsWFVxYUxSQWxYMHJydE9uUTh4c0JKcG0yZ1lCOXlSVTg1dWp5bWk?oc=5",
       "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-24T07:00:00+00:00",
-      "snippet": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front milwaukeeindependent.com",
+      "snippet": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front Milwaukee Independent",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
-      "source": "The National Interest",
+      "source": "nationalinterest.org",
       "source_url": "https://nationalinterest.org",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1Z2UmJ4dWRzOVByVl80X1o1Q1lqWjZOREh5ZUtPNERMQU5PakJka3JxVGc0enl2TnNKeTV2dHNLM2QzQUNaOEQ5R0FsMlo3bC1QM29hUU1fSkFIRE5wdWtvN25TYnlRdFU5dU1SWWlnWlhic2xocHVvU3FOWGFQZ0x1aVVWTlhoZnhWOUpPV25BVVY0LVpKT3JraFM0RC1Z?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
+      "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare nationalinterest.org",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -110,6 +110,26 @@
       "pubDateISO": "2026-05-12T07:00:00+00:00",
       "snippet": "Three companies join Swarmer’s autonomous air defence project thedefender.media",
       "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund",
+      "source": "thedefender.media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zbG5VekF2RTY1Z0N5NGYyckJCZXFsS0dIMHBUT0FVN2lmSHMybVFVN0xQa0lrRWZoQW56TWhNNnh5VnNIWjVfX3NYdnB1djRfMm5YREoxdVZLLXdkMUt5TV83N3pLSnUzdHJmdzMybFBsQQ?oc=5",
+      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-17T07:00:00+00:00",
+      "snippet": "Deborah Fairlamb on Swarmer’s IPO, Green Flag’s latest investments, and launching a new $60 million fund thedefender.media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare",
+      "source": "dev.ua",
+      "source_url": "https://dev.ua",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPekVaYnlFMVVjM1hvS0N3Y05McmE3bUJhWkZnVG1YV3p5RXh4RGYySUY0endoZUZFcXZwMDhnTFZwYjVuWS1ZWVNtV2t4ME5iSy1QM0NLTHREU2dlNGpaVUpmUEptUGNEYkNWUUxsN2F4V0loRWl6N3RFdU1VM1EtOWZWWmNPTUloU193MzJpa0stSVAzVHhkV1huaUZFb282V0ZhZk1JS2pNTW1lSkZhZFlCQXJDNHpnNXpPNVIxY3lWczhkRUdqZnZwZU1rdDdYcUNZOGlRbGtsN1lWSXR0X01TTExrZw?oc=5",
+      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "pubDateISO": "2026-04-13T07:00:00+00:00",
+      "snippet": "Ukrainian Kara Dag Technologies showed Obriy detectors that intercept video from drones and work together with electronic warfare dev.ua",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Erik Prince, Eric and Donald Trump Jr. and linked drone deals",
