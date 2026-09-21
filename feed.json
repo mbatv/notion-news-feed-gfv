@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:43:11.188969+00:00",
+  "generatedAt": "2026-09-21T10:30:00.367213+00:00",
   "items": [
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
@@ -42,16 +42,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It",
-      "source": "Tech Times",
-      "source_url": "https://www.techtimes.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVHdXQwTzl0UFdRVE10ejc3WWlMcWQ0WTJRS2xiNlhrNm9UY1VzRnlDd1cxU3U0SU1mWGJ3dC1jYUo3Q1JKb09RMzVmd3dnSExzdXZYZEVJd2NvT2o1UnhxcVlRMS1tdXJTUXRybTBuTXl4TDBXaHpka3dzZ2RSQ2ZjYUlmSkRxS0lRWWFNWVJGUjNaMzloNTBNRklwMnFNTjVwcUpESE5pX2Jwd2QwMHRnX1dsLWZ5UkVCVlAxQm5YOTIyemp5TTRWUFY?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-16T07:00:00+00:00",
-      "snippet": "Tesla Guarantees Resale Value in Australia After Its Own Price Cuts Destroyed It Tech Times",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
       "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
       "source": "Electrek",
       "source_url": "https://electrek.co",
@@ -63,22 +53,22 @@
     },
     {
       "headline": "Tesla launches guaranteed future value program for Model Y and Model 3",
-      "source": "carexpert.com.au",
+      "source": "CarExpert",
       "source_url": "https://www.carexpert.com.au",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHMtWFVfVkhPeFVLNzJ3a2VCcEk3TkRrZzZfWGZOMmhwelB0U2w1bVhMQ2I1NW11T1Vsa2pZWTFPSkc2azhUbkRNMEtDb1RnZEdjMXFfcVpoQm9PRDkyUmNUN2hPM3FqZGhFZzg1dHJKeEZFNUphb1dlTlUwUURVaUU4QkNDTEZIWjlNTW5FdnlFT3M0QVBTTjZoMHo5a1BDY3o4NURISjA0ZEFC?oc=5",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
-      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 carexpert.com.au",
+      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "At Ukraine’s Front, Women Take On Increasingly Dangerous Humanitarian Work",
-      "source": "kyivpost.com",
+      "source": "Kyiv Post",
       "source_url": "https://www.kyivpost.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tbEwyQnBjSENYcEc2U25JU3huYVgxT0dvN1hUOEhiZnBSU2wyek1SZXhOSXFlYUhibG1KMzNyQXZmZzZUYVhmNWVWQQ?oc=5",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-12T07:00:00+00:00",
-      "snippet": "At Ukraine’s Front, Women Take On Increasingly Dangerous Humanitarian Work kyivpost.com",
+      "snippet": "At Ukraine’s Front, Women Take On Increasingly Dangerous Humanitarian Work Kyiv Post",
       "query": "\"Deborah Fairlamb\""
     },
     {
@@ -113,12 +103,12 @@
     },
     {
       "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
-      "source": "Tech.eu",
+      "source": "tech.eu",
       "source_url": "https://tech.eu",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
       "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
       "pubDateISO": "2026-05-15T07:00:00+00:00",
-      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
+      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US tech.eu",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -179,16 +169,6 @@
       "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
       "pubDateISO": "2026-04-02T07:00:00+00:00",
       "snippet": "The Ukrainian UAV market is valued at $6.3 billion thedefender.media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukrainian Kara Dag Technologies partners with Anduril Industries",
-      "source": "thedefender.media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tbU1pX1phTHZFNjc2TkZJcDhOTjJlb0hudnJGeDN3T2VfYUllZTdBMUhSSC1IRWlYTzF6NnpCREh6WmNKSGl4MHJaVVZaR1A0Q3doS0tYaDFWYkFlOTdmbXg2RUI?oc=5",
-      "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "pubDateISO": "2026-03-25T07:00:00+00:00",
-      "snippet": "Ukrainian Kara Dag Technologies partners with Anduril Industries thedefender.media",
       "query": "\"Green Flag Ventures\""
     }
   ]
