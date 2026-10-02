@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T21:40:04.477736+00:00",
+  "generatedAt": "2026-10-02T01:25:41.966817+00:00",
   "items": [
     {
       "headline": "Ukraine ready to sign U.S. drone pact after year of defense tech work",
@@ -33,12 +33,12 @@
     },
     {
       "headline": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington",
-      "source": "glavnoe.in.ua",
+      "source": "Головне в Україні",
       "source_url": "https://glavnoe.in.ua",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVXhneURwTUJ6STF6M0lHT2c0ZXN4bUFhTjBEUFNyQ1ZGUWNGRk5kVVZBVUhzRzVQYUcyZlhqRlVNRVhsVkNKekNzUlVETkVrcElaS3g4cTFPcDQwSkRPYVYzTl9kYjZRRzhoYnFHYkJmeEx6dG91ZkRIU1J6Ym4xekEyT05CN0k1OVhja2Z2QThQQ3EzLU41OUlHZUxUNHM4d0RnbWFJOURGMUlybGNCcDhQaEtTOU1BRWFZYkZSWFBYenplSGpRX21vSGR5M2tv0gHWAUFVX3lxTE1OaGpPVjNiM2ZVVVZHY3EyeHZBc3djQm5jajJNOHNOTXFCZ0FLSUtoN2FnclFBSm9kUUJwRjdEMktpTFhWQzBYX3ZsbTNOcFVaT0pwUXpzT2oxQjZTa0FvZTNzNy15RmdVdW5BckFBeU5qZU55WG40TXdjX2NBWWNqVmFjYlpFTEgyS2ZHbDZRX09QNFY0VGFKYjlGamVOWml5VjdiWFhxdFJ1V2ZOZTY4Y1FCYmNqMWdQRWJaVTF3YXNNUmx5SERmOXJURFpFckVIcmlTU2c?oc=5",
       "pubDate": "Wed, 23 Sep 2026 11:36:00 GMT",
       "pubDateISO": "2026-09-23T11:36:00+00:00",
-      "snippet": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington glavnoe.in.ua",
+      "snippet": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington Головне в Україні",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -69,7 +69,7 @@
       "pubDate": "Thu, 17 Sep 2026 22:32:58 GMT",
       "pubDateISO": "2026-09-17T22:32:58+00:00",
       "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock By Investing.com Investing.com India",
-      "query": "\"Justin Zeefe\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Why the best time to invest in Ukraine is now",
