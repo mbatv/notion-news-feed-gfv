@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:33:10.831108+00:00",
+  "generatedAt": "2026-10-02T20:29:45.075864+00:00",
   "items": [
     {
       "headline": "Ukraine ready to sign U.S. drone pact after year of defense tech work",
@@ -13,12 +13,12 @@
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
-      "source": "united24media.com",
+      "source": "UNITED24 Media",
       "source_url": "https://united24media.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUMyWUk2cEtfcUZjblBlMk9rYzJPOEtKNEZnV0ROWnZFV1R1WW0zYzFPbTdmZ25qUHItY1d1UFhkNkg2anJvSzc4MVJSUGo0X3lHc1FMb3Rhd05HUlFXYm1tT3FRc1JITGU0MXNtQmZJMFI5UV84NC1SSkdMbHIyS1dSNzF1Z0x1SWdYT3laS3hERFN2c2lHZlZuMUZwSTV1ZU5CclFDbWV6QlUtVndR?oc=5",
       "pubDate": "Wed, 23 Sep 2026 17:11:35 GMT",
       "pubDateISO": "2026-09-23T17:11:35+00:00",
-      "snippet": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars united24media.com",
+      "snippet": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars UNITED24 Media",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -42,6 +42,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Ukraine ready to conclude drone defense deal with US — CBS News",
       "source": "UA.NEWS",
       "source_url": "https://ua.news",
@@ -53,12 +63,12 @@
     },
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock By Investing.com",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHh4cVpteXlRWXZua1pCaVBUODVNRUJqMzJqLXhKUG1ZQUZCRnlUT1llclRFSXFnNTFtQmJNaGUzdFRRYkx0c3dtc3VERC1oeFFhek9tbFZCS0FjY0FYSnNDdmRxc1RpeHF4SEoxd01ZRkxTV2NhV1BxX3FHMHppd0dEV0g2UF8wZzl1VlBzb0lLX2FOWHBJTzdmMGp1TXpXOXlhcTkta3pUS3RxM3FEcHJGUnN6NnlEVXc?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 22:32:58 GMT",
-      "pubDateISO": "2026-09-17T22:32:58+00:00",
-      "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock By Investing.com Investing.com India",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2Y0RnhnV3VfSnFlbUVFczczeDd2c194SUh3TVctTHh5a1pTWWRBYTEycXJyamVydldob2tOWkJ5a2t2dGJ3djExS3hzMmRvdjVVaGc4MEloMDBvM29GeEtPX2t3cGJUTUFMbzhGc0NySmhWZF9aZzI4RGdIVWx4cDJSQ1lLOEdTSThzU0hmd21OM1lnbjJqbGxSVGNwalNXZ3l4ZWdMVlhGcnIyRGUtMDgxMUZJVkRHV0E?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 22:18:00 GMT",
+      "pubDateISO": "2026-09-17T22:18:00+00:00",
+      "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock By Investing.com Investing.com UK",
       "query": "\"Justin Zeefe\""
     },
     {
@@ -123,12 +133,12 @@
     },
     {
       "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
-      "source": "The Defence Blog",
+      "source": "defence-blog.com",
       "source_url": "https://defence-blog.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
       "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
       "pubDateISO": "2026-06-09T07:00:00+00:00",
-      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
+      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit defence-blog.com",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
