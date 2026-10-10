@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:24:32.101691+00:00",
+  "generatedAt": "2026-10-10T18:18:56.683179+00:00",
   "items": [
     {
       "headline": "How I freed myself from the crude-oil curse by switching to an electric car",
@@ -10,16 +10,6 @@
       "pubDateISO": "2026-10-03T15:47:13+00:00",
       "snippet": "How I freed myself from the crude-oil curse by switching to an electric car News24",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Why Ukraine's arms makers are still waiting to sell abroad",
-      "source": "The Kyiv Independent",
-      "source_url": "https://kyivindependent.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWZfdkpTVFkyY09sV1lmM2xDWDNtVDFYMHR6Y3RQcnMwVTBub0hKLTRNWk9mb2dDeXFvQTd0R1ZpNzlyLUxFZGJZYmw0TDBXUjVrd0FsT0MwMVVTM0szMG96djJ6OVN1alpZVzc3bmczOXVQNHdTZ18yejBFcGdNWHJ6Q0JvZUd2ODAzSHFzUXJxNHNmTFVv?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-25T07:00:00+00:00",
-      "snippet": "Why Ukraine's arms makers are still waiting to sell abroad The Kyiv Independent",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
@@ -139,6 +129,16 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
+      "source": "BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-06T07:00:00+00:00",
+      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
