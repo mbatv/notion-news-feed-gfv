@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:40:34.841901+00:00",
+  "generatedAt": "2026-10-15T11:05:02.971268+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -102,6 +102,16 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
+      "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2V6UFFwdW10NGtocEVkbkZQQXVpYndPY2RQZDN4OVdzVy1TTUhMM3ozbUc5WmRmeFhqeU9nUW8zZ2xFY0RJLXFhT0F6ckZBMnQ0UGNrV2tuNGV3cWx2SVBQM1h0cUlHbF9XMDRQbDRGUUNzQWprdi1fZVVPUzhVNmF2bGdSaS1RS0duQUU4dUFoajZWV2hpTDFaVFRudHczN2t6SkJ2MGdGVTg1RERUQ1lDbnRWcDhyYmtvRVdlZw?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-17T07:00:00+00:00",
+      "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock Investing.com",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "Mercedes-Benz Introduces Agility+ Financing With Flexible Repayments From RM1,988/month",
       "source": "Pokde.Net",
       "source_url": "https://pokde.net",
@@ -190,16 +200,6 @@
       "pubDateISO": "2026-05-15T07:00:00+00:00",
       "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Three companies join Swarmer’s autonomous air defence project",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15bEFaNWI4REppYUgwVEN1X25weVowZjcwU3V2bnNWTGtUejBMamxBSVBHVFZLWG9JSGNTc1BaTFdqNGw5N2F1RG00RFg0cTNkSnNYRVNHMS0zOEVFYnV5cU5GcnZ4ekFX?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-      "pubDateISO": "2026-05-12T07:00:00+00:00",
-      "snippet": "Three companies join Swarmer’s autonomous air defence project Defender Media",
-      "query": "\"Deborah Fairlamb\""
     }
   ]
 }
