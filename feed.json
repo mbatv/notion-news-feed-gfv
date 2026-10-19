@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:57:32.980544+00:00",
+  "generatedAt": "2026-10-19T12:54:07.423328+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -72,6 +72,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zLTFwZXlnZXVWcnBmM2dBaUtobE9QdFAzWkl5LWRVdGVCbDRreXFYOXpvNTlyT3NVZGFXeDlDUzZwcE1jdEotWExscw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Ukraine ready for US drone defense deal — CBS News",
       "source": "UA.NEWS",
       "source_url": "https://ua.news",
@@ -79,16 +89,6 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "The U.S. Is Seeking To Capitalize On Ukrainian Drone Proficiency With a New Deal",
-      "source": "International Business Times",
-      "source_url": "https://www.ibtimes.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3M0LTJhZnZxbFE1Q2g2NUZlZ2p0NGhWaFQ5Y0JKMFlCVXZDTHYta2M3UTMxcUJ1VnVxWG9TVE41WGxGUkFxVHl1alJjdVY1LXp1Vndac3hFTkI4VlptMU95eURJRzJNOVRfejQxeWRGQ2QwYi1Selp1bmNtY0lFS2JQTWpvQUk0SE1HYUlPYk9Wd2M2?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "The U.S. Is Seeking To Capitalize On Ukrainian Drone Proficiency With a New Deal International Business Times",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -179,6 +179,16 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
+      "source": "BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-06T07:00:00+00:00",
+      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
