@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:02:01.641793+00:00",
+  "generatedAt": "2026-10-21T03:57:01.055856+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -69,6 +69,16 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars UNITED24 Media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zLTFwZXlnZXVWcnBmM2dBaUtobE9QdFAzWkl5LWRVdGVCbDRreXFYOXpvNTlyT3NVZGFXeDlDUzZwcE1jdEotWExscw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -170,16 +180,6 @@
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US",
-      "source": "Tech.eu",
-      "source_url": "https://tech.eu",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclZRYzRhUkNZYnpTRENNU2xhSkRTWkVSOE9ZY0Q2R19HQjNpVy1VQUlVZUpJbVBxeFN1ZmZEUWFjLUVCWVVRRnZZangwQkZla0RQX2hxWkdxa19OM29zaWFCOGxmdlM1QXBmOC1zRDVyRnVyNlpYeW00WG8zNnhjRjYzby12Uzg4bi1faGNGRXJiM2daSHRLdUdLWkpDWlFfVlpoY0ltWm1qVUxFbHlabmpXZw?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-      "pubDateISO": "2026-05-15T07:00:00+00:00",
-      "snippet": "YEP Accelerator opens Silicon Valley program to help Ukrainian startups scale into the US Tech.eu",
-      "query": "\"Green Flag Ventures\""
     }
   ]
 }
