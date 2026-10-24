@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:57:48.350686+00:00",
+  "generatedAt": "2026-10-24T20:37:25.628481+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -59,7 +59,7 @@
       "pubDate": "Wed, 23 Sep 2026 09:51:01 GMT",
       "pubDateISO": "2026-09-23T09:51:01+00:00",
       "snippet": "Ukraine reported to be ready to sign landmark drone defense agreement with U.S. – media Interfax-Ukraine",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
@@ -92,16 +92,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready for US drone defense deal — CBS News",
-      "source": "UA.NEWS",
-      "source_url": "https://ua.news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington",
       "source": "Головне в Україні",
       "source_url": "https://glavnoe.in.ua",
@@ -129,6 +119,16 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "Ukraine ready for US drone defense deal — CBS News",
+      "source": "UA.NEWS",
+      "source_url": "https://ua.news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
       "query": "\"Deborah Fairlamb\""
     },
     {
