@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:20:46.640592+00:00",
+  "generatedAt": "2026-10-24T17:57:48.350686+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -42,6 +42,16 @@
       "query": "\"Justin Zeefe\""
     },
     {
+      "headline": "Why Ukraine's arms makers are still waiting to sell abroad",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWZfdkpTVFkyY09sV1lmM2xDWDNtVDFYMHR6Y3RQcnMwVTBub0hKLTRNWk9mb2dDeXFvQTd0R1ZpNzlyLUxFZGJZYmw0TDBXUjVrd0FsT0MwMVVTM0szMG96djJ6OVN1alpZVzc3bmczOXVQNHdTZ18yejBFcGdNWHJ6Q0JvZUd2ODAzSHFzUXJxNHNmTFVv?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-25T07:00:00+00:00",
+      "snippet": "Why Ukraine's arms makers are still waiting to sell abroad The Kyiv Independent",
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
       "headline": "Ukraine reported to be ready to sign landmark drone defense agreement with U.S. – media",
       "source": "Interfax-Ukraine",
       "source_url": "https://en.interfax.com.ua",
@@ -49,7 +59,7 @@
       "pubDate": "Wed, 23 Sep 2026 09:51:01 GMT",
       "pubDateISO": "2026-09-23T09:51:01+00:00",
       "snippet": "Ukraine reported to be ready to sign landmark drone defense agreement with U.S. – media Interfax-Ukraine",
-      "query": "\"Green Flag Ventures\""
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
@@ -102,16 +112,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "Ukraine, US Near Drone Defense Pact",
       "source": "Yahoo",
       "source_url": "https://www.yahoo.com",
@@ -119,6 +119,16 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine, US Near Drone Defense Pact Yahoo",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
       "query": "\"Deborah Fairlamb\""
     },
     {
