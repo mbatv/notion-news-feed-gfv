@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:53:01.048982+00:00",
+  "generatedAt": "2026-11-04T05:31:03.140380+00:00",
   "items": [
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
@@ -62,16 +62,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready for US drone defense deal — CBS News",
-      "source": "UA.NEWS",
-      "source_url": "https://ua.news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington",
       "source": "Головне в Україні",
       "source_url": "https://glavnoe.in.ua",
@@ -82,13 +72,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
+      "headline": "Ukraine ready for US drone defense deal — CBS News",
+      "source": "UA.NEWS",
+      "source_url": "https://ua.news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
+      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -100,6 +90,16 @@
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine, US Near Drone Defense Pact Newsmax",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
@@ -150,6 +150,36 @@
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "How luxury cars are becoming easier to own",
+      "source": "BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWs1V0Z4Q1loN1ROYllEU1dHT2lMTVlJdHlBWF91ZXRIczdMckZ3TzliS1BkQlpucV96Q2tiTmQzcnFWX21aOWNzNmZ5Yk5LZEw4blh4YnlCYm1PX25abWJZb1BPalFtVlVTanl0U0Q4b2ZSazctMXNmYUFKN2YtLWpsMjhnTXFIcWtrNmtCVDYtaVlRa3llTk9yQUVIdVdVbXR6bVo3NldqQlNlaTkxbmNmZGJjenltOXBJeE5YYURHdEtBYmgyUmhrTEVXemp0bnh3N3ROZHlUUdIB4AFBVV95cUxOTU1zRDJpbVdjYVVqOHB1a3cwSjFtdUVaazFJWFQ0T2FCNHZ4YlNOSjY0N3pCY205bFdIZWVWYlpHQnF0aEstem4xQzNmOW1Sc01UaWxBdFpteXI2bGdfSjd2R05WQ0NnTkNaMjBESGFhOGhlYkVVVUl5MkRsclp3Z0RvX1FiQy02LVIxRkIyNnNMbEQwUk1BY3ViWHJjRlVIVFpzejJQQ1c1OC1XZDU1SGVRRUFOTVkweVRnZDhLRkhoVWtQWHdoZUFXSDktSU9abXYySnAwSjFoOGVteVF6Rw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-06T07:00:00+00:00",
+      "snippet": "How luxury cars are becoming easier to own BusinessLine",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Ukraine’s autonomous Shahed killer costs $3,500 per unit",
+      "source": "The Defence Blog",
+      "source_url": "https://defence-blog.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjNzY0RJalkwUXJEaXVKLXNGS3ptSEotZEhCU2h2QloxVTN0TjB6Y2Znb1ZSZDgySG94ei1wakZuTEx3bnNpNGp3SGVUWjF6SmtuY2twNkYyTEpJLTlHek16MklvTkJHR1E0MkRsV0p1aDlCR3NGZDBhR0t6cEZvd0ZRem9wQdIBiwFBVV95cUxNQUdSbHpORVF4SFVyZm1SdktFYy1QU180TlAteFdIMUV2LWNMUGxUSnNLS3dLM0xUV00tRUllaFNlcmNhUmNUamJ6dnk4VmpyWGNkRGVFdXRkWnlHVFZtSjNYN2xyX2dUdGdsZkFSWXVEN2c1ME5XandSMzhqaGx1WUF6Qi1rSy0tR3I0?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "pubDateISO": "2026-06-09T07:00:00+00:00",
+      "snippet": "Ukraine’s autonomous Shahed killer costs $3,500 per unit The Defence Blog",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "US-based UAID Fund invests in Ukrainian Defense Tech startup G-Next Intelligence",
+      "source": "Inventure.com.ua.",
+      "source_url": "https://inventure.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkVFa1M3SEhjZFdKc2xKakNLS2d4N0FiR181SnNlVEZTQmRVVHZuYjhZZDB0Tzc3aE9vOS1YVXdub0xtdl9RRDlncG5sZUIwcEZYR3dxOHlsd2FVb1A5WVRNblFvVVhyd3RVcXFpMVFHc09TYmRyelBXNVpvakkwU19XVkJ0X3Rhc2Exa0tTR2hieDNoQUR4UjBDdmx4elN2Tklia3Y1cnBlZ3hLbWVKTkV5cjdOUk9velpJekFR?oc=5",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+      "pubDateISO": "2026-05-20T07:00:00+00:00",
+      "snippet": "US-based UAID Fund invests in Ukrainian Defense Tech startup G-Next Intelligence Inventure.com.ua.",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Three companies join Swarmer’s autonomous air defence project",
