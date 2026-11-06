@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-06T05:47:54.250177+00:00",
+  "generatedAt": "2026-11-06T13:57:08.875107+00:00",
   "items": [
+    {
+      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 12:24:00 GMT",
+      "pubDateISO": "2026-11-06T12:24:00+00:00",
+      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
+      "query": "\"Green Flag Ventures\""
+    },
     {
       "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
       "source": "Investing.com UK",
@@ -62,23 +72,13 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready for US drone defense deal — CBS News",
-      "source": "UA.NEWS",
-      "source_url": "https://ua.news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
+      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zLTFwZXlnZXVWcnBmM2dBaUtobE9QdFAzWkl5LWRVdGVCbDRreXFYOXpvNTlyT3NVZGFXeDlDUzZwcE1jdEotWExscw?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
+      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -92,13 +92,23 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWWN6a3ZZZzBheXJmWWZjVVFtQmtlVFljRHUyeFc4bjJJTW5kR0ZIdnZ0YmtRR1prRFluNkNLU1ZXLW96NHJjeWdVS2JVazVIakZFWWdmZm9LYzlPUTdqMUFKNFZYeWFmbGE3OW5Va2ZzbHR3TTkwd1dadi14QQ?oc=5",
+      "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
+      "source": "Kyiv Post",
+      "source_url": "https://www.kyivpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zLTFwZXlnZXVWcnBmM2dBaUtobE9QdFAzWkl5LWRVdGVCbDRreXFYOXpvNTlyT3NVZGFXeDlDUzZwcE1jdEotWExscw?oc=5",
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine ready to sign landmark drone defense deal with U.S., sources say, amid new details on Kyiv's role in Iran war CBS News",
+      "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine ready for US drone defense deal — CBS News",
+      "source": "UA.NEWS",
+      "source_url": "https://ua.news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHdyVVc4ZW9PQzhqTkRkdkY5NlpWM3FzQnBVMVdtaUlNMWFoMlVMOHJHZHVZUDZQN2dTMFZHN19tTWRRc21uVXRuYnNoVDduejJqRnRIZVRfaEpiU0VSOENUR1N4ZGV0Vy1mcmVuTXJWSWxvNG1CSHdCVTBOTmtDWmRGNkRPY3psSmdJRUc3aE9reC1wOVE?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine ready for US drone defense deal — CBS News UA.NEWS",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -109,7 +119,7 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine, US Near Drone Defense Pact Yahoo",
-      "query": "\"Green Flag Ventures\""
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
