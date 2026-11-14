@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-11-14T02:02:58.975865+00:00",
+  "generatedAt": "2026-11-14T09:56:04.387773+00:00",
   "items": [
-    {
-      "headline": "Yevhen Zhebko steps down as Teletactica CEO: who will take over",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUthZjJXWm1UMTZwMVM2MXIyWUcxWFZSOGxYVGpEQ3lrUzNyUzdBdk1fQkVhYUZZeTNkdFVuZlJjX1hIVnlqNTVmQTNPM3YyNXJybnFEaDhRTU9CZlRuaHBOYS04aW9qSnJQNkFZZ295Ny1wSU9tTFVybVdueUJoM1JISko?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:26:10 GMT",
-      "pubDateISO": "2026-11-06T15:26:10+00:00",
-      "snippet": "Yevhen Zhebko steps down as Teletactica CEO: who will take over Defender Media",
-      "query": "\"Green Flag Ventures\""
-    },
     {
       "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
       "source": "en.ain.ua",
@@ -109,7 +99,7 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine, US Near Drone Defense Pact Yahoo",
-      "query": "\"Deborah Fairlamb\""
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
@@ -169,6 +159,16 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
+      "source": "BusinessLine",
+      "source_url": "https://www.thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-06T07:00:00+00:00",
+      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
