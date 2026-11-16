@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:12:28.798465+00:00",
+  "generatedAt": "2026-11-16T20:05:38.941326+00:00",
   "items": [
     {
       "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
@@ -12,16 +12,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October",
-      "source": "Investing.com UK",
-      "source_url": "https://uk.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlBJVDNNeTM0RmV2SVZ6V3ZDN0FkY0U2Z3dENElRem00ZlFIYXZxQ0ZNc3hBTE1RRHJFMGpiV1pib2JfT0dtalh4OTYtejBUUFR6dE9aa1pwNFRHY2ZIOHVBZGZHZ3IyVDlHSXNQc1hseGNCUTZnbWtONUUwemhkYjdFY0pLa3ZUYzBXYnVLWGZvUmQ0Q1U4aGU5NUxsa2dSMnluaEdzM0lRQ1hrQ0xYbGdyQm05TFloYmVoN1R5Vnc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "pubDateISO": "2026-10-13T07:00:00+00:00",
-      "snippet": "Form 4 Swarmer Inc: Justin Matthew Zeefe (Director) For: 1 October Investing.com UK",
-      "query": "\"Justin Zeefe\""
-    },
-    {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -30,16 +20,6 @@
       "pubDateISO": "2026-10-11T07:00:00+00:00",
       "snippet": "How Ukraine uses precision drone strikes to hobble Russian oil refineries The Washington Post",
       "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "How I freed myself from the crude-oil curse by switching to an electric car",
-      "source": "News24",
-      "source_url": "https://www.news24.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXBwV3loVlZqTndQUWR3ZG9sT0sxY3gxYUdYaTItYm92S3p3Vm91UWdiRlpVMTRnanhPdl9XeXRXeGxqRlNPNDRQdEZhT1VOaDdtc1NHSzcwRXBFWnZmTTdhajJ0YmZCcjV5Q0FIRElrY2hxYW9TOE8yWmNiNDRPRGw5SDUwa1JLblN3YXIzTU1TWmEwT1dQaVlROFFKbVFTb1lTVkZNLTZaQy1tblpRTmllbFVBN1ZCdGh4UEtWVHhKcmFjbVE?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "pubDateISO": "2026-10-03T07:00:00+00:00",
-      "snippet": "How I freed myself from the crude-oil curse by switching to an electric car News24",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
@@ -59,6 +39,16 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine ready to sign U.S. drone pact after year of defense tech work The New Voice of Ukraine",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Ukraine reported to be ready to sign landmark drone defense agreement with U.S. – media",
+      "source": "Interfax-Ukraine",
+      "source_url": "https://en.interfax.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNXhtYkRSMjN3ZFFHSlBKS0NBWDNoSDB1NmNIZzBUcHBwdXFVcVBFcXhvd0xLS0lTaGNXTTNkd19mMXk0NzNxSEh0M1ppaTUxdHRpaS0wb2JjZHBwOVNlN3Nn0gFnQVVfeXFMTnlDY2t3Rm1LMnRJWXJFVkpIZWJDYVNoM0VJZmdmM0VSOFc2N2pVWEtfVXAzUFhBdmFiTEhCY2R1cHQybHZFY3l2T2NjQU1sQTB1Slg2M3I3dkRBU25KbUduMGNTczRnRQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-23T07:00:00+00:00",
+      "snippet": "Ukraine reported to be ready to sign landmark drone defense agreement with U.S. – media Interfax-Ukraine",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -102,26 +92,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2V6UFFwdW10NGtocEVkbkZQQXVpYndPY2RQZDN4OVdzVy1TTUhMM3ozbUc5WmRmeFhqeU9nUW8zZ2xFY0RJLXFhT0F6ckZBMnQ0UGNrV2tuNGV3cWx2SVBQM1h0cUlHbF9XMDRQbDRGUUNzQWprdi1fZVVPUzhVNmF2bGdSaS1RS0duQUU4dUFoajZWV2hpTDFaVFRudHczN2t6SkJ2MGdGVTg1RERUQ1lDbnRWcDhyYmtvRVdlZw?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-17T07:00:00+00:00",
-      "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock Investing.com",
-      "query": "\"Justin Zeefe\""
-    },
-    {
-      "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
-      "query": "\"Deborah Fairlamb\""
-    },
-    {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
       "source": "The National Interest",
       "source_url": "https://nationalinterest.org",
@@ -129,46 +99,6 @@
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-16T07:00:00+00:00",
       "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-14T07:00:00+00:00",
-      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Tesla launches guaranteed future value program for Model Y and Model 3",
-      "source": "CarExpert",
-      "source_url": "https://www.carexpert.com.au",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHMtWFVfVkhPeFVLNzJ3a2VCcEk3TkRrZzZfWGZOMmhwelB0U2w1bVhMQ2I1NW11T1Vsa2pZWTFPSkc2azhUbkRNMEtDb1RnZEdjMXFfcVpoQm9PRDkyUmNUN2hPM3FqZGhFZzg1dHJKeEZFNUphb1dlTlUwUURVaUU4QkNDTEZIWjlNTW5FdnlFT3M0QVBTTjZoMHo5a1BDY3o4NURISjA0ZEFC?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-13T07:00:00+00:00",
-      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
-      "source": "BusinessLine",
-      "source_url": "https://www.thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-06T07:00:00+00:00",
-      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Ukraine’s battlefield drone detector spotted at US Army training in California",
-      "source": "The Defence Blog",
-      "source_url": "https://defence-blog.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFl2SW9KenZYamZBenVvcGZtaW5JRjRaWUk1d0gtLTVUX2NFcFdXU0RGUUJqaDkxT2VEOGxCY1NlXzgxdHFqQzIwbXZqTGxYRHZYYjE3WmllMTkzYXFOb1VVZFlidkVjWEdIdG5nMGxsNmRsdWN5dXkyNVJ0bkdTV05odHM2RUFrVnlBSWxxNTg1TmtEUTZNSUVub3VpQjBNOFdfdjVB0gGrAUFVX3lxTFBfWjJtaDVWaUtRVEtBdmRGMUVuYWtMV1JLcHBEa2xsTk5PYll3dldwMGpnbXpkaG8wR0U3Vm9aV3hyaTd4R0poSkpDOWtsY0RzUk5rNUNZQmdQdENoS3JDSVUtdWUyNmxhT2RBSDI5bnhmTS1PVmJkZk90UG5TZEJfclFVWkt6OXJHWHNMUWlRQjMwWWxOMWZHMksyMFhxRmdoZkpKa2xhXzNRNA?oc=5",
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "pubDateISO": "2026-06-06T07:00:00+00:00",
-      "snippet": "Ukraine’s battlefield drone detector spotted at US Army training in California The Defence Blog",
       "query": "\"Green Flag Ventures\""
     }
   ]
