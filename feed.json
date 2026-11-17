@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:30:39.755371+00:00",
+  "generatedAt": "2026-11-17T12:53:47.738826+00:00",
   "items": [
     {
       "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
@@ -40,6 +40,16 @@
       "pubDateISO": "2026-10-03T07:00:00+00:00",
       "snippet": "How I freed myself from the crude-oil curse by switching to an electric car News24",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Why Ukraine's arms makers are still waiting to sell abroad",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWZfdkpTVFkyY09sV1lmM2xDWDNtVDFYMHR6Y3RQcnMwVTBub0hKLTRNWk9mb2dDeXFvQTd0R1ZpNzlyLUxFZGJZYmw0TDBXUjVrd0FsT0MwMVVTM0szMG96djJ6OVN1alpZVzc3bmczOXVQNHdTZ18yejBFcGdNWHJ6Q0JvZUd2ODAzSHFzUXJxNHNmTFVv?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-25T07:00:00+00:00",
+      "snippet": "Why Ukraine's arms makers are still waiting to sell abroad The Kyiv Independent",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
@@ -120,16 +130,6 @@
       "pubDateISO": "2026-09-17T07:00:00+00:00",
       "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock Investing.com",
       "query": "\"Justin Zeefe\""
-    },
-    {
-      "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-17T07:00:00+00:00",
-      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
-      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
