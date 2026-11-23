@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-11-23T00:03:52.300460+00:00",
+  "generatedAt": "2026-11-23T08:43:24.201435+00:00",
   "items": [
-    {
-      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
-      "source": "en.ain.ua",
-      "source_url": "https://en.ain.ua",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "pubDateISO": "2026-11-06T08:00:00+00:00",
-      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
-      "query": "\"Green Flag Ventures\""
-    },
     {
       "headline": "Yevhen Zhebko steps down as Teletactica CEO: who will take over",
       "source": "Defender Media",
@@ -20,6 +10,16 @@
       "pubDateISO": "2026-11-06T08:00:00+00:00",
       "snippet": "Yevhen Zhebko steps down as Teletactica CEO: who will take over Defender Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "pubDateISO": "2026-11-06T08:00:00+00:00",
+      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
@@ -110,6 +110,16 @@
       "pubDateISO": "2026-09-17T07:00:00+00:00",
       "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock Investing.com",
       "query": "\"Justin Zeefe\""
+    },
+    {
+      "headline": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front",
+      "source": "Milwaukee Independent",
+      "source_url": "https://www.milwaukeeindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRTRkRNTnpwcF94M1FKUWx2RXFuSHI4VmdlWVpUODRDQzFaNTFraVNRdU9uZzNFT3BfLWtpTUJRQ2RGaVVET2dsVlhrMlprWWtZVWp0bzNiWGkwdDd6WW1xRGI3c19iY2d0aDN4cC1mQ3RNa3pacTE0dzZEQ0VsdXY4V3VnbXNiQXhmUlFyb3ZPeHNHUDVTSnVsWFVxYUxSQWxYMHJydE9uUTh4c0JKcG0yZ1lCOXlSVTg1dWp5bWk?oc=5",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-24T07:00:00+00:00",
+      "snippet": "Ukraine races to field ground robots as drone warfare pushes soldiers farther from the front Milwaukee Independent",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
