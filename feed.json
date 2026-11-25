@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:13:36.938164+00:00",
+  "generatedAt": "2026-11-25T02:01:19.967138+00:00",
   "items": [
     {
       "headline": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors",
@@ -40,6 +40,16 @@
       "pubDateISO": "2026-11-06T08:00:00+00:00",
       "snippet": "Yevhen Zhebko steps down as Teletactica CEO: who will take over Defender Media",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "pubDateISO": "2026-11-06T08:00:00+00:00",
+      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     },
     {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
@@ -112,16 +122,6 @@
       "query": "\"Deborah Fairlamb\""
     },
     {
-      "headline": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2V6UFFwdW10NGtocEVkbkZQQXVpYndPY2RQZDN4OVdzVy1TTUhMM3ozbUc5WmRmeFhqeU9nUW8zZ2xFY0RJLXFhT0F6ckZBMnQ0UGNrV2tuNGV3cWx2SVBQM1h0cUlHbF9XMDRQbDRGUUNzQWprdi1fZVVPUzhVNmF2bGdSaS1RS0duQUU4dUFoajZWV2hpTDFaVFRudHczN2t6SkJ2MGdGVTg1RERUQ1lDbnRWcDhyYmtvRVdlZw?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-17T07:00:00+00:00",
-      "snippet": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock Investing.com",
-      "query": "\"Justin Zeefe\""
-    },
-    {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -159,16 +159,6 @@
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "pubDateISO": "2026-07-13T07:00:00+00:00",
       "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
-    },
-    {
-      "headline": "Data, not guesswork, determines guaranteed future value for our cars: BMW",
-      "source": "BusinessLine",
-      "source_url": "https://www.thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRF8wRDB0ZFotZGFOekZTeHYzMmNwV1U4dmNkOHJGTnBnZFRveE12M3Y0U2pKUEp4aDlaZmRFTDVKRkxZMmlBNkQ4WGZBSVNvOC1sbjFIb0hYMXEyWWp5Sk9zNHl0SWd2bExGb1l2Vkp2RE5BWGRCNVZlWThRN2hVTFFicjg5ZTFPRkhmNVNyZ3lsU1RuYVNWTmttRERJbFk3WDJCaV9CS2V4dmNCNGxkSjJPWEdwVFJXdXZEYzJmWXo0LVZnLW5pSkt5NEXSAdMBQVVfeXFMT19ZWDBGWUR3eHFEaTBsVGZweTRsdVFFRG1BWFZIa2ZrYWE3QmxQSTRWRDF3VTY2UTliZnFPcHowYVZXOFNyVmR1dk9OeWdkMnNCd0Rta0M2ZEE2N0VVc0kxXzhGZVE0MC1FcHptT0lsbHlPOXA0T25jRDIyMXd3MmxpVmRBUm83QTRBX01CaEgtWjQ3cFBnY09ncW5mYmZUTm9oS0wwNy16MHEyY2llMFlZWml5LTNSSkZGQ2RKTHJKNXhwRjNQa2t3TjBXbXNRbVI1bw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "pubDateISO": "2026-07-06T07:00:00+00:00",
-      "snippet": "Data, not guesswork, determines guaranteed future value for our cars: BMW BusinessLine",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
