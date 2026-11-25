@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:01:19.967138+00:00",
+  "generatedAt": "2026-11-25T12:19:08.700422+00:00",
   "items": [
     {
       "headline": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors",
@@ -32,16 +32,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Yevhen Zhebko steps down as Teletactica CEO: who will take over",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUthZjJXWm1UMTZwMVM2MXIyWUcxWFZSOGxYVGpEQ3lrUzNyUzdBdk1fQkVhYUZZeTNkdFVuZlJjX1hIVnlqNTVmQTNPM3YyNXJybnFEaDhRTU9CZlRuaHBOYS04aW9qSnJQNkFZZ295Ny1wSU9tTFVybVdueUJoM1JISko?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "pubDateISO": "2026-11-06T08:00:00+00:00",
-      "snippet": "Yevhen Zhebko steps down as Teletactica CEO: who will take over Defender Media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -49,7 +39,7 @@
       "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
       "pubDateISO": "2026-11-06T08:00:00+00:00",
       "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
