@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-25T22:12:52.540578+00:00",
+  "generatedAt": "2026-11-26T04:45:38.967574+00:00",
   "items": [
+    {
+      "headline": "HIMERA raises $5M to advance comprehensive resilient networks",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SNWx0OG9HOXZhdmJJbVpwS2xqWVh3MFQ3bGduTjNpTm53RHBCeXBzeFJnYnhIX1NpSmRtRkdCQU1YVGR1THhCWDlzMnJZUENKQ3pJM3FYUmw3WjNJQjFTWWowTWR1bXM?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 12:33:41 GMT",
+      "pubDateISO": "2026-11-25T12:33:41+00:00",
+      "snippet": "HIMERA raises $5M to advance comprehensive resilient networks Defender Media",
+      "query": "\"Green Flag Ventures\""
+    },
     {
       "headline": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors",
       "source": "dev.ua",
@@ -22,16 +32,6 @@
       "query": "\"Green Flag Ventures\""
     },
     {
-      "headline": "Yevhen Zhebko steps down as Teletactica CEO: who will take over",
-      "source": "Defender Media",
-      "source_url": "https://thedefender.media",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUthZjJXWm1UMTZwMVM2MXIyWUcxWFZSOGxYVGpEQ3lrUzNyUzdBdk1fQkVhYUZZeTNkdFVuZlJjX1hIVnlqNTVmQTNPM3YyNXJybnFEaDhRTU9CZlRuaHBOYS04aW9qSnJQNkFZZ295Ny1wSU9tTFVybVdueUJoM1JISko?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "pubDateISO": "2026-11-06T08:00:00+00:00",
-      "snippet": "Yevhen Zhebko steps down as Teletactica CEO: who will take over Defender Media",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
       "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
       "source": "en.ain.ua",
       "source_url": "https://en.ain.ua",
@@ -39,7 +39,7 @@
       "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
       "pubDateISO": "2026-11-06T08:00:00+00:00",
       "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
-      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
@@ -99,16 +99,6 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine and U.S. preparing landmark drone agreement: Kyiv to share battlefield expertise with Washington Головне в Україні",
-      "query": "\"Green Flag Ventures\""
-    },
-    {
-      "headline": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America",
-      "source": "Kyiv Post",
-      "source_url": "https://www.kyivpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zLTFwZXlnZXVWcnBmM2dBaUtobE9QdFAzWkl5LWRVdGVCbDRreXFYOXpvNTlyT3NVZGFXeDlDUzZwcE1jdEotWExscw?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "pubDateISO": "2026-09-23T07:00:00+00:00",
-      "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
       "query": "\"Green Flag Ventures\""
     },
     {
