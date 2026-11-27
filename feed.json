@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:31:14.198316+00:00",
+  "generatedAt": "2026-11-27T17:56:34.953447+00:00",
   "items": [
     {
       "headline": "HIMERA raises $5M to advance comprehensive resilient networks",
@@ -22,6 +22,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Pai Defence has raised $5m to scale drone detection system",
+      "source": "Defender Media",
+      "source_url": "https://thedefender.media",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GOGtKRGEtLWd2aG9lY2xQZ0UxYzZhY2JWM0NHdHpXRE9qUDRZSm1Od01MZzlkS3gtTGVlWmRTOW54Z0dLZEpBVzFlbjZORzRJRXJORHpMUWdXN3hnZnZ5SE9iSzRELWhRVHZGckNB?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 09:37:32 GMT",
+      "pubDateISO": "2026-11-24T09:37:32+00:00",
+      "snippet": "Pai Defence has raised $5m to scale drone detection system Defender Media",
+      "query": "\"Green Flag Ventures\""
+    },
+    {
       "headline": "Investors in Military Technology and DefenceTech in Ukraine: Who Are They?",
       "source": "Inventure.com.ua.",
       "source_url": "https://inventure.com.ua",
@@ -32,6 +42,16 @@
       "query": "\"Green Flag Ventures\""
     },
     {
+      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "pubDateISO": "2026-11-06T08:00:00+00:00",
+      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -40,6 +60,26 @@
       "pubDateISO": "2026-10-11T07:00:00+00:00",
       "snippet": "How Ukraine uses precision drone strikes to hobble Russian oil refineries The Washington Post",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "How I freed myself from the crude-oil curse by switching to an electric car",
+      "source": "News24",
+      "source_url": "https://www.news24.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXBwV3loVlZqTndQUWR3ZG9sT0sxY3gxYUdYaTItYm92S3p3Vm91UWdiRlpVMTRnanhPdl9XeXRXeGxqRlNPNDRQdEZhT1VOaDdtc1NHSzcwRXBFWnZmTTdhajJ0YmZCcjV5Q0FIRElrY2hxYW9TOE8yWmNiNDRPRGw5SDUwa1JLblN3YXIzTU1TWmEwT1dQaVlROFFKbVFTb1lTVkZNLTZaQy1tblpRTmllbFVBN1ZCdGh4UEtWVHhKcmFjbVE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "pubDateISO": "2026-10-03T07:00:00+00:00",
+      "snippet": "How I freed myself from the crude-oil curse by switching to an electric car News24",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Why Ukraine's arms makers are still waiting to sell abroad",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWZfdkpTVFkyY09sV1lmM2xDWDNtVDFYMHR6Y3RQcnMwVTBub0hKLTRNWk9mb2dDeXFvQTd0R1ZpNzlyLUxFZGJZYmw0TDBXUjVrd0FsT0MwMVVTM0szMG96djJ6OVN1alpZVzc3bmczOXVQNHdTZ18yejBFcGdNWHJ6Q0JvZUd2ODAzSHFzUXJxNHNmTFVv?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "pubDateISO": "2026-09-25T07:00:00+00:00",
+      "snippet": "Why Ukraine's arms makers are still waiting to sell abroad The Kyiv Independent",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "US Needs Ukrainian Expertise to Integrate Drones With Air Defense Radars",
@@ -89,7 +129,17 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
-      "query": "\"Green Flag Ventures\""
+      "query": "\"Deborah Fairlamb\""
+    },
+    {
+      "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmx6dWF0VEpwSVdpaktMN2NSUllHSWFtYnpLWVVRMDIyaGlkenBmOFFqMWo4LWhNR0FiU2VwOW5nTVQyMnFTR0RqajBuX2Q1UUg2akcwZFNQdUh6emlnUUN0RDBDSFZaMVNNaDAyTnBlYkI3UXNYM2VUTWpocElKbUdvcHFhMnlrbUx0TVNrRVRwUkxid29TSnBJNW0tNFR2VTN0NG9qSks2ekpWc05BdXA0ajFxeWg3M1VLRzVB?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-17T07:00:00+00:00",
+      "snippet": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies The Washington Post",
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare",
@@ -100,6 +150,26 @@
       "pubDateISO": "2026-07-16T07:00:00+00:00",
       "snippet": "How Ukraine’s Battlefield Data Is Shaping the Future of Warfare The National Interest",
       "query": "\"Green Flag Ventures\""
+    },
+    {
+      "headline": "Tesla moves to guarantee resale value for buyers after price cuts",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2xnTUw3QmZOSFNCRVhma3ktUWdyT1NsQ0R6cUxobGlJTUh2X3o2ZGxrUUVNSVhKaTlRYUFGOUlMb2dvZmllWE9JbUZuYm9SYmRYSUdpdmk2b3piTk1SanBPXzlFTjkyM2lYRmtxTFJVSVZGdVZJOTZ0ajhwMHF2bGZLWFA?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-14T07:00:00+00:00",
+      "snippet": "Tesla moves to guarantee resale value for buyers after price cuts Electrek",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Tesla launches guaranteed future value program for Model Y and Model 3",
+      "source": "CarExpert",
+      "source_url": "https://www.carexpert.com.au",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHMtWFVfVkhPeFVLNzJ3a2VCcEk3TkRrZzZfWGZOMmhwelB0U2w1bVhMQ2I1NW11T1Vsa2pZWTFPSkc2azhUbkRNMEtDb1RnZEdjMXFfcVpoQm9PRDkyUmNUN2hPM3FqZGhFZzg1dHJKeEZFNUphb1dlTlUwUURVaUU4QkNDTEZIWjlNTW5FdnlFT3M0QVBTTjZoMHo5a1BDY3o4NURISjA0ZEFC?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "pubDateISO": "2026-07-13T07:00:00+00:00",
+      "snippet": "Tesla launches guaranteed future value program for Model Y and Model 3 CarExpert",
+      "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
     }
   ]
 }
