@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:18:53.648321+00:00",
+  "generatedAt": "2026-11-28T09:57:30.542904+00:00",
   "items": [
     {
       "headline": "HIMERA raises $5M to advance comprehensive resilient networks",
@@ -13,12 +13,12 @@
     },
     {
       "headline": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors",
-      "source": "dev.ua",
+      "source": "Dev.ua",
       "source_url": "https://dev.ua",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeTdpSGNwT0h4UW03TFRiRTg2NXFIWVRHTFZMTG9FX3h3U1R0MXVkdnA5bzkyZHg2Z3E4eEZaNU04RnFscmVQUUNScUl0bW5nUFhnNG9oYW9IVng5SEdQSUpaZzdBa1MzeGdqSQ?oc=5",
       "pubDate": "Tue, 24 Nov 2026 10:45:00 GMT",
       "pubDateISO": "2026-11-24T10:45:00+00:00",
-      "snippet": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors dev.ua",
+      "snippet": "Ukrainian startup Pai Defence comes out of stealth and raises $5 million for a system that detects drones with passive sensors Dev.ua",
       "query": "\"Green Flag Ventures\""
     },
     {
@@ -40,6 +40,16 @@
       "pubDateISO": "2026-11-16T08:00:00+00:00",
       "snippet": "Heartland launches guaranteed future value loans for Tesla buyers Auto Trader NZ",
       "query": "(\"Green Flag Ventures\" OR \"Justin Zeefe\" OR \"Deborah Fairlamb\" OR GFV) (venture OR VC OR fund OR investment OR portfolio OR backs OR backed OR led OR seed)"
+    },
+    {
+      "headline": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman",
+      "source": "en.ain.ua",
+      "source_url": "https://en.ain.ua",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdExXUmNDLURlcXZla2V6c1VSTmlQU09NNHlvRzVjeWdrQnd5TTJCcGdmbU5KZGRnSnpaenN5cVY1OUVqdWNySkdSMWpLSU8zbkN6OC1YcWhUaGtGdjBJRjRPZXZXdjY2VDhZcGlqQTlpQjJnTEpKQ0JLUTVKeGxydmg2WGtjaFJfNU5YTzkxblJUbmlLUEJ2Z1ZubEdqWGpESkJPYU9UN3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "pubDateISO": "2026-11-06T08:00:00+00:00",
+      "snippet": "Teletactica changes CEO — company to be headed by its co-founder Anton Hetman en.ain.ua",
+      "query": "\"Green Flag Ventures\""
     },
     {
       "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
@@ -119,7 +129,7 @@
       "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
       "pubDateISO": "2026-09-23T07:00:00+00:00",
       "snippet": "Ukraine’s Battle-Tested Drones Could Soon Be Made in America Kyiv Post",
-      "query": "\"Green Flag Ventures\""
+      "query": "\"Deborah Fairlamb\""
     },
     {
       "headline": "After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies",
